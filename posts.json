@@ -2,6 +2,21 @@
   "channels": {
     "vslshi": [
       {
+        "id": 9117,
+        "text": "با کانفیگ بزنید حجمتون تره.\ntg://proxy?server=89.167.109.120&port=443&secret=dd104462821249bd7ac519130220c25d09\n-\n@vslshi",
+        "date": "2026-05-10T19:12:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9117_0_2487334b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/9117"
+      },
+      {
         "id": 9116,
         "text": "لذت ببریدددد https://t.me/+FYV8mz6es28wNjU0\n⭐️",
         "date": "2026-05-10T19:03:46+00:00",
@@ -1703,27 +1718,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vslshi/8900"
-      },
-      {
-        "id": 8898,
-        "text": "اینجارو داشته باشید 1 ریال پول به ویپین ندید : https://t.me/+6aTnFApE2hxmZjk0\n🎀",
-        "date": "2026-05-09T13:06:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_8898_0_5883893c.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+6aTnFApE2hxmZjk0",
-            "type": "telegram",
-            "display_text": "https://t.me/+6aTnFApE2hxmZjk0"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/vslshi/8898"
       }
     ],
     "Configir98": [
@@ -12452,13 +12446,13 @@
       }
     ]
   },
-  "last_update": "2026-05-10T19:05:09.271359+00:00",
+  "last_update": "2026-05-10T19:13:28.309308+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 731,
     "total_media": 899,
     "total_files": 899,
-    "total_links": 161,
+    "total_links": 160,
     "files_by_type": {
       "image": 830,
       "video": 63,
@@ -12468,6 +12462,6 @@
     "referenced_files": 899,
     "existing_media_files": 898,
     "total_size_mb": 355.48,
-    "last_calculation": "2026-05-10T19:05:09.282314+00:00"
+    "last_calculation": "2026-05-10T19:13:28.317977+00:00"
   }
 }
