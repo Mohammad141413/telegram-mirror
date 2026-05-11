@@ -2,6 +2,48 @@
   "channels": {
     "vslshi": [
       {
+        "id": 9244,
+        "text": "از وقتی اینجا جوین شید 1ریال نیاز نیست پول به vpn بدید : https://t.me/+ip09xy07s9NmODFh https://t.me/+ip09xy07s9NmODFh",
+        "date": "2026-05-11T23:01:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9244_0_5dbfd11b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+ip09xy07s9NmODFh",
+            "type": "telegram",
+            "display_text": "https://t.me/+ip09xy07s9NmODFh"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vslshi/9244"
+      },
+      {
+        "id": 9243,
+        "text": "از وقتی اینجا جوین شید 1ریال نیاز نیست پول به vpn بدید :\nhttps://t.me/+ip09xy07s9NmODFh\nhttps://t.me/+ip09xy07s9NmODFh",
+        "date": "2026-05-11T22:58:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9243_0_5dbfd11b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+ip09xy07s9NmODFh",
+            "type": "telegram",
+            "display_text": "https://t.me/+ip09xy07s9NmODFh"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vslshi/9243"
+      },
+      {
         "id": 9241,
         "text": "ویتوری + سایفون\n{\"remarks\":\"@vslshi\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"vmess\",\"settings\":{\"vnext\":[{\"address\":\"188.213.199.47\",\"port\":43367,\"users\":[{\"id\":\"067ae20f-7bd9-4cd6-b0c3-2fea677755ff\",\"security\":\"auto\",\"level\":8}]}]},\"streamSettings\":{\"network\":\"tcp\",\"security\":\"none\",\"tcpSettings\":{\"header\":{\"type\":\"http\",\"request\":{\"path\":[\"/\"],\"headers\":{\"Host\":[\"filmnet.ir\"],\"User-Agent\":[\"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.122 Mobile Safari/537.36\"],\"Accept-Encoding\":[\"gzip, deflate\"],\"Connection\":[\"keep-alive\"],\"Pragma\":\"no-cache\"},\"version\":\"1.1\",\"method\":\"GET\"}}}},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}\nاموزش ترکیب\n-\n@vslshi",
         "date": "2026-05-11T21:12:24+00:00",
@@ -1646,51 +1688,81 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vslshi/9077"
-      },
-      {
-        "id": 9076,
-        "text": "اینجا جوین باشید 1 ریال پول به vpn ندید : https://t.me/+4rp46xptT7QzZWFh  https://t.me/+4rp46xptT7QzZWFh",
-        "date": "2026-05-10T14:35:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_9076_0_2487334b.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+4rp46xptT7QzZWFh",
-            "type": "telegram",
-            "display_text": "https://t.me/+4rp46xptT7QzZWFh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/vslshi/9076"
-      },
-      {
-        "id": 9075,
-        "text": "اینجا جوین باشید 1 ریال پول به vpn ندید : https://t.me/+4rp46xptT7QzZWFh  https://t.me/+4rp46xptT7QzZWFh",
-        "date": "2026-05-10T14:18:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_9075_0_2487334b.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+4rp46xptT7QzZWFh",
-            "type": "telegram",
-            "display_text": "https://t.me/+4rp46xptT7QzZWFh"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/vslshi/9075"
       }
     ],
     "Configir98": [
+      {
+        "id": 8631,
+        "text": "🔐\n𝗩𝟮𝗿𝗮𝘆𝗡𝗚\n➕\n𝗣𝘀𝗶𝗽𝗵𝗼𝗻\n📱\nvless://1ebf58de-3386-4764-953f-0d9912040f70@cloudinohost.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=cloudinohost.com#https://t.me/Configir98\n✅\n@Configir98",
+        "date": "2026-05-11T23:57:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_8631_0_cc65f84b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/Configir98",
+            "type": "telegram",
+            "display_text": "https://t.me/Configir98"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Configir98/8631"
+      },
+      {
+        "id": 8630,
+        "text": "🔐\n𝗩𝟮𝗿𝗮𝘆𝗡𝗚\n➕\n𝗣𝘀𝗶𝗽𝗵𝗼𝗻\n📱\nvless://937dde02-4ce6-4f0d-a3be-27aef7d3ef46@s4.tehranionliine.ir:80?path=%2F&security=&encryption=none&type=ws#https://t.me/Configir98\n✅\n@Configir98",
+        "date": "2026-05-11T23:52:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_8630_0_cc65f84b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/Configir98",
+            "type": "telegram",
+            "display_text": "https://t.me/Configir98"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Configir98/8630"
+      },
+      {
+        "id": 8628,
+        "text": "🛜\n𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹 𝗡𝗮𝗽𝘀𝘁𝗲𝗿𝗻𝗲𝘁𝗩\n🛡️\nPassword:\n@Configir98\n✅\n@Configir98",
+        "date": "2026-05-11T23:17:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_8628_0_cc65f84b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/8628"
+      },
+      {
+        "id": 8627,
+        "text": "🛜\n𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹 𝗡𝗮𝗽𝘀𝘁𝗲𝗿𝗻𝗲𝘁𝗩\n🛡️\nPassword:\n@Configir98\n✅\n@Configir98",
+        "date": "2026-05-11T22:41:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_8627_0_cc65f84b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/8627"
+      },
       {
         "id": 8626,
         "text": "شرایط فروش کانفینگ مخصوص شرایط\n😎\n1GB   درصد تخفیف ۱۰\n➡️\ntoman   400\n20 گیگ روزانه یک جا شامل همکاری میشه قیمت 250 گیگی پشتیبانی بات پیام بدین\nتست بخاطر شرایط موجود نمی‌باشد درخواست نکنین\n(افراد سود جو\n)\nبــرای خرید اینجا میتونید پیــام بـدید :\nhttps://t.me/Admin starling",
@@ -3290,81 +3362,69 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Configir98/8514"
-      },
-      {
-        "id": 8513,
-        "text": "اسم این زندگــــــی نبود\nیک مبارزه تمام عیار بود...",
-        "date": "2026-05-10T07:59:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_8513_0_cfd8e3d7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Configir98/8513"
-      },
-      {
-        "id": 8512,
-        "text": "🔐\n𝗩𝟮𝗿𝗮𝘆𝗡𝗚\n➕\n𝗣𝘀𝗶𝗽𝗵𝗼𝗻\n📱\nvless://f3ef1255-1807-45d5-8872-324c6943175b@iman.neticoapp.ir:80/?type=ws&encryption=none&flow=&host=srv3.diamond-tech.online&path=%2F#https://t.me/Configir98\n✅\n@Configir98",
-        "date": "2026-05-10T07:47:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_8512_0_cfd8e3d7.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/Configir98",
-            "type": "telegram",
-            "display_text": "https://t.me/Configir98"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/Configir98/8512"
-      },
-      {
-        "id": 8511,
-        "text": "🔐\n𝗩𝟮𝗿𝗮𝘆𝗡𝗚\n➕\n𝗣𝘀𝗶𝗽𝗵𝗼𝗻\n📱\nvless://a34bbc37-566c-4d31-8401-26fe0f9d6f7d@out2.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#https://t.me/Configir98\n✅\n@Configir98",
-        "date": "2026-05-10T07:25:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_8511_0_cfd8e3d7.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/Configir98",
-            "type": "telegram",
-            "display_text": "https://t.me/Configir98"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/Configir98/8511"
-      },
-      {
-        "id": 8509,
-        "text": "پرنده پر نمیزنه خیلی عجیبه\nقهر کردین؟\n🙂",
-        "date": "2026-05-10T06:46:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_8509_0_cfd8e3d7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Configir98/8509"
       }
     ],
     "vipV2rayNGnp": [
+      {
+        "id": 17400,
+        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n✔\n@VIPV2rayNGNP",
+        "date": "2026-05-11T23:55:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_17400_0_478fd62a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/17400"
+      },
+      {
+        "id": 17399,
+        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n✔\n@VIPV2rayNGNP",
+        "date": "2026-05-11T23:55:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_17399_0_478fd62a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/17399"
+      },
+      {
+        "id": 17398,
+        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n✔\n@VIPV2rayNGNP",
+        "date": "2026-05-11T22:52:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_17398_0_478fd62a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/17398"
+      },
+      {
+        "id": 17397,
+        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n✔\n@VIPV2rayNGNP",
+        "date": "2026-05-11T22:51:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_17397_0_478fd62a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/17397"
+      },
       {
         "id": 17396,
         "text": "🚀\n🚀\nفروشمون باز هست\nهر گیگ 400 ت\n❤️\n20 گیگ روزانه یک جا شامل همکاری قیمت گیگی 260 پشتیبانی بات پیام بدین همکارا\nتعداد محدود\nتست نداریم بخاطر شرایط کانفینگ(افراد سود جو)\nhttps://t.me/ Admin",
@@ -4857,66 +4917,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vipV2rayNGnp/17298"
-      },
-      {
-        "id": 17297,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n✔\n@VIPV2rayNGNP",
-        "date": "2026-05-10T14:59:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_17297_0_4302825a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/17297"
-      },
-      {
-        "id": 17296,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n✔\n@VIPV2rayNGNP",
-        "date": "2026-05-10T14:59:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_17296_0_4302825a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/17296"
-      },
-      {
-        "id": 17295,
-        "text": "🏳\nV2rayng + Psiphon\n📱\nvless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&security=none&encryption=none&type=ws#@vipV2rayNGnp\nلینک آموزش کلیک کن\n🦋\nChannel :\n@vipV2rayNGnp",
-        "date": "2026-05-10T14:10:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_17295_0_4302825a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/17295"
-      },
-      {
-        "id": 17294,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n✔\n@VIPV2rayNGNP",
-        "date": "2026-05-10T13:54:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_17294_0_4302825a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/17294"
       }
     ],
     "Vippackager": [
@@ -7415,6 +7415,65 @@
     ],
     "IranintlTV": [
       {
+        "id": 336719,
+        "text": "وزارت خارجه آمریکا بر اساس برنامه «پاداش برای عدالت» این وزارتخانه تا سقف ۱۵ میلیون دلار برای اطلاعاتی که به مختل شدن سازوکارهای مالی سپاه و شاخه‌های مختلف آن منجر شود، پاداش تعیین کرد.\nپیش‌تر در روز دوشنبه، دولت آمریکا تحریم‌های جدیدی مرتبط با جمهوری اسلامی علیه سه فرد و ۹ نهاد، از جمله چهار نهاد مستقر در هنگ‌کنگ، چهار نهاد در امارات متحده عربی و یک نهاد در عمان وضع کرد.\nhttps://iranintl.com/202605119344",
+        "date": "2026-05-11T23:06:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336719_0_765e18a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_336719_1_59251903.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605119344",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605119344"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/336719"
+      },
+      {
+        "id": 336718,
+        "text": "شهروندی با ارسال پیامی به ایران‌اینترنشنال، به مزاحمت‌های شبانه حامیان جمهوری اسلامی در خیابان‌های کرج اشاره می‌کند و می‌گوید آن‌ها هیچ ملاحظه‌ای برای کسی ندارند.\nاو در ادامه می‌گوید: «کسی به داد ما نمی‌رسد؛ جوانان ما دارند از بین می‌روند.»",
+        "date": "2026-05-11T22:56:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336718_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336718_1_394ca5d3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336718"
+      },
+      {
+        "id": 336717,
+        "text": "🎧\nنسخه صوتی سیاست با مراد ویسی: از شاه‌ تا مجتبی، اوج و افول نفت ایران\n@iranintlTV",
+        "date": "2026-05-11T22:36:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336717_0_765e18a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336717"
+      },
+      {
         "id": 336716,
         "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «این روزها در رسانه‌های جمهوری اسلامی از علی لاریجانی به‌عنوان چهره‌ای اهل تدبیر یاد می‌شود، در حالی که او به‌عنوان دبیر شورای عالی امنیت ملی نقش اصلی را در کشتار دی‌ماه داشته است. لاریجانی پس از خامنه‌ای، آمر اصلی بزرگ‌ترین کشتار خیابانی تاریخ ایران است.»\n@iranintltv",
         "date": "2026-05-11T22:23:51+00:00",
@@ -9324,63 +9383,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/336605"
-      },
-      {
-        "id": 336604,
-        "text": "🔻\nخبرگزاری میزان، رسانه قوه قضاییه جمهوری اسلامی، از توقیف بخشی از املاک منتسب به علی کریمی، بازیکن پیشین تیم ملی فوتبال و از چهره‌های مخالف جمهوری اسلامی خبر داد و نوشت یکی از املاک شناسایی‌شده، یک پلاک ثبتی به نام هاوش، فرزند او، شامل دو واحد تجاری و چهار واحد مسکونی، است.\n🔹\nبراساس اطلاعیه منتشرشده از سوی قوه قضاییه جمهوری اسلامی، با استعلام از سازمان ثبت اسناد و املاک کشور، برخی املاک علی کریمی که به گفته قوه قضاییه جمهوری اسلامی «سعی در اختفای آن‌ها شده بود» شناسایی و توقیف شد.\n🔹\nپیش‌تر نیز قوه قضاییه جمهوری اسلامی از توقیف اموال علی دایی، علی کریمی، مسعود شجاعی، زهرا قنبری و علیرضا فغانی به‌دلیل مخالفت با جمهوری اسلامی خبر داده بود.\n@iranintltvsport",
-        "date": "2026-05-11T07:46:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336604_0_22bd9afc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_336604_1_d0befbe6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336604"
-      },
-      {
-        "id": 336603,
-        "text": "🔻\nاتحادیه جهانی کشتی اعلام کرد که مسابقات قهرمانی بزرگسالان جهان از ۱۱ تا ۱۹ سپتامبر ۲۰۲۷ در لاس‌وگاس برگزار خواهد شد. این رقابت‌ها نخستین مرحله انتخابی بازی‌های المپیک ۲۰۲۸ لس‌آنجلس نیز خواهد بود.\n🔹\nاعطای میزبانی مهم‌ترین رویداد کشتی سال ۲۰۲۷ به آمریکا در حالی انجام شد که علیرضا دبیر، رییس فدراسیون کشتی، تهدید کرده بود اگر آمریکا با تیم ملی کشتی زیر ۲۳ سال ایران رفتاری مشابه تیم ملی فوتبال داشته باشد، تلاش می‌کند با همکاری «کشورهای صاحب کشتی» میزبانی مسابقات جهانی ۲۰۲۷ را از آمریکا بگیرد.\n🔹\nآمریکا در سال‌های اخیر برای برخی ورزشکاران، اعضا و همراهان تیم‌های ملی کشتی ایران، از جمله علیرضا دبیر، ویزا صادر نکرده است. از سوی دیگر، ابهام‌هایی درباره صدور ویزا برای اعضای تیم ملی فوتبال ایران مطرح شده است.\n🔹\nمارکو روبیو، وزیر خارجه آمریکا، گفته است ایالات متحده با حضور تیم ملی فوتبال ایران در مسابقات جام جهانی در این کشور مخالفتی ندارد، اما درباره همراهان تیم گفته است: «آن‌ها نمی‌توانند یک مشت «تروریست» عضو سپاه را به‌عنوان روزنامه‌نگار یا مربی ورزشی وارد کشور ما کنند.»\n@iranintltvsport",
-        "date": "2026-05-11T07:46:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336603_0_22bd9afc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_336603_1_8227ef2f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336603"
-      },
-      {
-        "id": 336602,
-        "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند ایرانیان مقیم اسپانیا و یونان، یکشنبه ۲۰ اردیبهشت در تجمع‌های اعتراضی برگزارشده در شهرهای مادرید و آتن، علیه جمهوری اسلامی پرفورمنس اعتراضی برگزار کردند.",
-        "date": "2026-05-11T07:31:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336602_0_22bd9afc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336602_1_2bdc4e6d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336602"
       }
     ],
     "tavaanatech": [
@@ -13930,23 +13932,23 @@
       }
     ]
   },
-  "last_update": "2026-05-11T22:34:20.101080+00:00",
+  "last_update": "2026-05-11T23:59:19.063674+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 809,
-    "total_media": 997,
-    "total_files": 997,
-    "total_links": 191,
+    "total_media": 996,
+    "total_files": 996,
+    "total_links": 192,
     "files_by_type": {
-      "image": 938,
+      "image": 937,
       "video": 52,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 997,
-    "existing_media_files": 996,
-    "total_size_mb": 231.73,
-    "last_calculation": "2026-05-11T22:34:20.110475+00:00"
+    "referenced_files": 996,
+    "existing_media_files": 995,
+    "total_size_mb": 224.76,
+    "last_calculation": "2026-05-11T23:59:19.075613+00:00"
   }
 }
