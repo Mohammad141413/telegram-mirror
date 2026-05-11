@@ -2,6 +2,27 @@
   "channels": {
     "vslshi": [
       {
+        "id": 9170,
+        "text": "این چنلو داشته باشید دلم نمیاد پول گرون به Vpn بدید\nhttps://t.me/+omkj5DuWBDRiMjE0",
+        "date": "2026-05-11T05:44:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9170_0_2487334b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+omkj5DuWBDRiMjE0",
+            "type": "telegram",
+            "display_text": "https://t.me/+omkj5DuWBDRiMjE0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vslshi/9170"
+      },
+      {
         "id": 9169,
         "text": "دوستم کانفیگاش با سرعت بالا وصله بچها : https://t.me/+leaHkYpnlMY3MzNk استفاده کنید\n⭐️",
         "date": "2026-05-11T05:15:08+00:00",
@@ -1737,21 +1758,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vslshi/9006"
-      },
-      {
-        "id": 9005,
-        "text": "وصله ممنون",
-        "date": "2026-05-09T21:51:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_9005_0_5883893c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vslshi/9005"
       }
     ],
     "Configir98": [
@@ -3463,6 +3469,21 @@
     ],
     "vipV2rayNGnp": [
       {
+        "id": 17332,
+        "text": "🏳\nV2rayng + Psiphon\n📱\n{\"remarks\":\"vipV2rayNGnp\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"socks\",\"settings\":{\"servers\":[{\"address\":\"62.220.126.92\",\"ota\":false,\"port\":30871,\"level\":8}]},\"streamSettings\":{\"network\":\"tcp\"},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}\nلینک آموزش کلیک کن\n🦋\nChannel :\n@vipV2rayNGnp",
+        "date": "2026-05-11T05:35:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_17332_0_51da236a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/17332"
+      },
+      {
         "id": 17331,
         "text": "👩\nبه مناسبت روز مادر ، تعداد 200 کانفیگ «\n⭐️\n2 گیگی یک ماهه\n👑\n» بصورت کاملا رایگان داخل رباتمون شارژ شد ، برای دریافت\n⬇️\n🤖\n@ConfigFreeiR_Bot",
         "date": "2026-05-11T05:18:26+00:00",
@@ -4976,21 +4997,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vipV2rayNGnp/17232"
-      },
-      {
-        "id": 17231,
-        "text": "𝗣𝘀𝗶𝗽𝗵𝗼𝗻 𝗣𝗿𝗼𝘅𝘆\nHost :\n81.12.107.242\nPort :\n3030\nHost :\n93.118.142.196\nPort :\n8085\nHost :\n37.32.20.64\nPort :\n2080\nHost :\n93.126.6.70\nPort :\n31\n⚡️\n@VIPV2rayNGNP",
-        "date": "2026-05-09T12:55:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_17231_0_f6393e89.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/17231"
       }
     ],
     "Vippackager": [
@@ -7020,6 +7026,25 @@
       }
     ],
     "IranintlTV": [
+      {
+        "id": 336590,
+        "text": "هم‌زمان با حملات پهپادی جمهوری اسلامی به شماری از کشورهای عربی حاشیه خلیج فارس، رسانه‌های اسرائیلی از شکننده بودن آتش‌بس موقت میان جمهوری اسلامی و آمریکا گزارش دادند\nگزارش اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-05-11T05:42:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336590_0_22bd9afc.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336590_1_b603d188.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336590"
+      },
       {
         "id": 336589,
         "text": "خبرگزاری میزان، رسانه قوه قضاییه جمهوری اسلامی، صبح دوشنبه، ۲۱ اردیبهشت از اجرای حکم اعدام عرفان شکورزاده، زندانی سیاسی، با اتهام «همکاری با سرویس‌های اطلاعاتی آمریکا و اسرائیل» خبر داد.\nمیزان در گزارش خود نوشت بر اساس محتویات پرونده، عرفان شکورزاده «به عنوان پروژه» و با توجه به تخصصش، جذب یکی از سازمان‌های مهم علمی فعال در حوزه ماهواره شده بود.\nشکورزاده بهمن‌ماه ۱۴۰۳ از سوی اطلاعات سپاه با اتهام «جاسوسی و همکاری با کشورهای متخاصم» بازداشت و به اعدام محکوم شد و حکم صادر شده علیه او به‌تازگی در دیوان عالی کشور تایید شده بود.\niranintl.com/202605113252",
@@ -9166,31 +9191,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/336479"
-      },
-      {
-        "id": 336476,
-        "text": "دونالد ترامپ در گفت‌وگو با «فول مژر» درباره اورانیوم غنی‌شده در ایران گفت: ما بالاخره به آن دست پیدا می‌کنیم، ما آنجا را تحت نظارت داریم. همه‌چیز تحت نظر است. اگر کسی به آن محل نزدیک شود، خبردار می‌شویم و نابودش می‌کنیم.\nhttps://iranintl.com/202605102225",
-        "date": "2026-05-10T14:27:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336476_0_22bd9afc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_336476_1_9328c884.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605102225",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605102225"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/336476"
       }
     ],
     "tavaanatech": [
@@ -13065,7 +13065,7 @@
       }
     ]
   },
-  "last_update": "2026-05-11T05:33:15.048434+00:00",
+  "last_update": "2026-05-11T05:50:03.373318+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 746,
@@ -13073,14 +13073,14 @@
     "total_files": 941,
     "total_links": 198,
     "files_by_type": {
-      "image": 877,
-      "video": 58,
+      "image": 876,
+      "video": 59,
       "file": 5,
       "document": 1
     },
     "referenced_files": 941,
     "existing_media_files": 940,
-    "total_size_mb": 281.92,
-    "last_calculation": "2026-05-11T05:33:15.059375+00:00"
+    "total_size_mb": 283.33,
+    "last_calculation": "2026-05-11T05:50:03.384529+00:00"
   }
 }
