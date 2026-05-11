@@ -2,6 +2,63 @@
   "channels": {
     "vslshi": [
       {
+        "id": 9202,
+        "text": "عزیزم این چنله هم کانفیگ رابگان میذاره وصله دوس داشتی بذار https://t.me/+hQb05uqL1ewyNTdk",
+        "date": "2026-05-11T15:49:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9202_0_5dbfd11b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+hQb05uqL1ewyNTdk",
+            "type": "telegram",
+            "display_text": "https://t.me/+hQb05uqL1ewyNTdk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vslshi/9202"
+      },
+      {
+        "id": 9201,
+        "text": "عزیزم این چنله هم کانفیگ رابگان میذاره وصله دوس داشتی بذار\nhttps://t.me/+hQb05uqL1ewyNTdk",
+        "date": "2026-05-11T15:49:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9201_0_5dbfd11b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+hQb05uqL1ewyNTdk",
+            "type": "telegram",
+            "display_text": "https://t.me/+hQb05uqL1ewyNTdk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vslshi/9201"
+      },
+      {
+        "id": 9200,
+        "text": "سایفون ترکیبی نیست :\nhost\n:\n93.126.6.70\nport\n:\n3128\nHost :\n81.12.107.242\nPort :\n3030\nHost :\n93.118.142.196\nPort :\n8085\nHost :\n37.32.20.64\nPort :\n2080\nHost :\n93.126.6.70\nPort :\n3128\n-\n@vslshi",
+        "date": "2026-05-11T15:26:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9200_0_5dbfd11b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/9200"
+      },
+      {
         "id": 9199,
         "text": "دوتا ترکیبی متصل :\nvless://958fe733-7b00-4825-bfa0-ca7ef3d122a0@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#@vslshi\nvless://e8c97c8b-6d42-40ea-a285-93d7506c778b@zir.alihapps3.aghanami.ir:80?type=ws&encryption=none&path=%2F&host=&security=none#@vslshi\nاموزش ترکیب\n-\n@vslshi",
         "date": "2026-05-11T15:10:01+00:00",
@@ -1701,74 +1758,45 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vslshi/9024"
-      },
+      }
+    ],
+    "Configir98": [
       {
-        "id": 9023,
-        "text": "https://t.me/vslshi/9021?comment=90779\nبرنده",
-        "date": "2026-05-09T22:31:37+00:00",
+        "id": 8610,
+        "text": "🛜\n𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹 𝗡𝗮𝗽𝘀𝘁𝗲𝗿𝗻𝗲𝘁𝗩\n🛡️\nPassword:\n@Configir98\n✅\n@Configir98",
+        "date": "2026-05-11T15:45:22+00:00",
         "media": [
           {
             "type": "image",
-            "file": "vslshi_9023_0_5883893c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "vslshi_9023_1_0e7f3228.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/vslshi/9021?comment=90779",
-            "type": "telegram",
-            "display_text": "https://t.me/vslshi/9021?comment=90779"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/vslshi/9023"
-      },
-      {
-        "id": 9021,
-        "text": "🎲\nبدید چهارمین نفری که 4 اورد",
-        "date": "2026-05-09T22:24:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_9021_0_5883893c.jpg"
+            "file": "Configir98_8610_0_cc65f84b.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/vslshi/9021"
+        "source": "https://t.me/Configir98/8610"
       },
       {
-        "id": 9020,
-        "text": "https://t.me/vslshi/9018?comment=88448\nبرنده",
-        "date": "2026-05-09T22:24:00+00:00",
+        "id": 8609,
+        "text": "🔐\n𝗩𝟮𝗿𝗮𝘆𝗡𝗚\n➕\n𝗣𝘀𝗶𝗽𝗵𝗼𝗻\n📱\n{\"remarks\":\"https://t.me/Configir98\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"vmess\",\"settings\":{\"vnext\":[{\"address\":\"185.236.38.44\",\"port\":19946,\"users\":[{\"id\":\"c9e42537-8652-4a4c-85d3-0d36abf38f88\",\"security\":\"auto\",\"level\":8}]}]},\"streamSettings\":{\"network\":\"tcp\",\"tcpSettings\":{\"header\":{\"type\":\"none\"}}},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}\n✅\n@Configir98",
+        "date": "2026-05-11T15:40:08+00:00",
         "media": [
           {
             "type": "image",
-            "file": "vslshi_9020_0_5883893c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "vslshi_9020_1_2eb5d3ba.jpg"
+            "file": "Configir98_8609_0_cc65f84b.jpg"
           }
         ],
         "links": [
           {
-            "url": "https://t.me/vslshi/9018?comment=88448",
+            "url": "https://t.me/Configir98",
             "type": "telegram",
-            "display_text": "https://t.me/vslshi/9018?comment=88448"
+            "display_text": "https://t.me/Configir98"
           }
         ],
         "has_media": true,
         "has_links": true,
-        "source": "https://t.me/vslshi/9020"
-      }
-    ],
-    "Configir98": [
+        "source": "https://t.me/Configir98/8609"
+      },
       {
         "id": 8608,
         "text": "🔐\n𝗩𝟮𝗿𝗮𝘆𝗡𝗚\n➕\n𝗣𝘀𝗶𝗽𝗵𝗼𝗻\n📱\nvmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6Imh0dHBzOi8vdC5tZS9Db25maWdpcjk4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==\n✅\n@Configir98",
@@ -3427,51 +3455,39 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Configir98/8489"
-      },
-      {
-        "id": 8488,
-        "text": "🔐\n𝗩𝟮𝗿𝗮𝘆𝗡𝗚\n➕\n𝗣𝘀𝗶𝗽𝗵𝗼𝗻\n📱\nsocks://Og@62.220.126.92:30376#https://t.me/Configir98\nsocks://Og@62.220.126.56:30170#https://t.me/Configir98\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA%3D%3D@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#https://t.me/Configir98\n✅\n@Configir98",
-        "date": "2026-05-10T02:31:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_8488_0_cfd8e3d7.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/Configir98",
-            "type": "telegram",
-            "display_text": "https://t.me/Configir98"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/Configir98/8488"
-      },
-      {
-        "id": 8487,
-        "text": "🔐\n𝗩𝟮𝗿𝗮𝘆𝗡𝗚\n➕\n𝗣𝘀𝗶𝗽𝗵𝗼𝗻\n📱\nvless://ccd55491-6b15-4e13-8a9a-d5e87fd9be36@snapp.ir:80?path=%2F%3Fed%3D2080&security=&encryption=none&host=1.jojo.avenflow.ir&type=ws#https://t.me/Configir98\nsocks://Og%3D%3D@62.220.126.56:30170#https://t.me/Configir98\nsocks://Og@130.185.75.82:9595#https://t.me/Configir98\n✅\n@Configir98",
-        "date": "2026-05-10T01:41:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_8487_0_cfd8e3d7.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/Configir98",
-            "type": "telegram",
-            "display_text": "https://t.me/Configir98"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/Configir98/8487"
       }
     ],
     "vipV2rayNGnp": [
+      {
+        "id": 17366,
+        "text": "🏳\nV2rayng + Psiphon\n📱\nvless://b06bdaac-ca63-4dd9-bcf3-a621ab44e46e@digipay.ir:80?path=%2F&security=none&encryption=none&host=asd.pixserver.ir&type=ws#@vipV2rayNGnp\nvless://b06bdaac-ca63-4dd9-bcf3-a621ab44e46e@digipay.ir:80?path=%2F&security=none&encryption=none&host=asd.pixserver.ir&type=ws#@vipV2rayNGnp\nvless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=pishparda.ir&sni=pishparda.ir&fp=chrome&allowInsecure=1#@vipV2rayNGnp\nvless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.234:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=s1.pishparda.ir&sni=s1.pishparda.ir&fp=chrome&allowInsecure=1#@vipV2rayNGnp\nvless://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fvoip&host=pishparda.ir&sni=isna.ir&fp=chrome&allowInsecure=1#vipV2rayNGnp\nلینک آموزش کلیک کن\n🦋\nChannel :\n@vipV2rayNGnp",
+        "date": "2026-05-11T15:34:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_17366_0_51da236a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/17366"
+      },
+      {
+        "id": 17365,
+        "text": "🏳\nV2rayng + Psiphon\n📱\nvmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6Imh0dHBzOi8vdC5tZS92aXBWMnJheU5HbnAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9\nلینک آموزش کلیک کن\n🦋\nChannel :\n@vipV2rayNGnp",
+        "date": "2026-05-11T15:26:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_17365_0_51da236a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/17365"
+      },
       {
         "id": 17364,
         "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n✔\n@VIPV2rayNGNP",
@@ -4971,36 +4987,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vipV2rayNGnp/17266"
-      },
-      {
-        "id": 17265,
-        "text": "⚡️\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n👑\n@VIPV2rayNGNP",
-        "date": "2026-05-09T22:02:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_17265_0_4302825a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/17265"
-      },
-      {
-        "id": 17264,
-        "text": "🏳\nV2rayng + Psiphon\n📱\nvless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#vipV2rayNGnp\nلینک آموزش کلیک کن\n🦋\nChannel :\n@vipV2rayNGnp",
-        "date": "2026-05-09T21:53:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_17264_0_4302825a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/17264"
       }
     ],
     "Vippackager": [
@@ -7333,6 +7319,71 @@
     ],
     "IranintlTV": [
       {
+        "id": 336672,
+        "text": "دونالد ترامپ در گفت‌وگو با سی‌بی‌اس نیوز درباره پاسخ اخیر تهران به پیشنهاد صلح آمریکا گفت که جمهوری اسلامی در برنامه هسته‌ای خود امتیازاتی داده اما «کافی نبوده» و هنوز «پیشنهاد آن‌ها بسیار ضعیف و غیرقابل قبول» است.\nhttps://iranintl.com/202605110573",
+        "date": "2026-05-11T15:48:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336672_0_765e18a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_336672_1_8b1c412e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605110573",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605110573"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/336672"
+      },
+      {
+        "id": 336671,
+        "text": "🎧\nنسخه صوتی اخبار نیمروزی | دوشنبه ۲۱ اردیبهشت\n@iranintlTV",
+        "date": "2026-05-11T15:39:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336671_0_765e18a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336671"
+      },
+      {
+        "id": 336670,
+        "text": "دونالد ترامپ در واکنش به اظهارات بنیامین نتانیاهو که گفته بود «هیچ‌کس پیش‌بینی کامل و دقیقی» درباره تنگه هرمز نداشت، گفت: «من داشتم. من می‌دانستم آن‌ها تنگه هرمز را بسته‌اند. این تنها سلاحی است که دارند.»\nترامپ افزود آمریکا می‌توانست در چارچوب «پروژه آزادی» این گذرگاه را باز کند و گفت این عملیات می‌تواند از سر گرفته شود و در آن صورت «بسیار شدیدتر» خواهد بود.\nhttps://iranintl.com/202605119757",
+        "date": "2026-05-11T15:34:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336670_0_765e18a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_336670_1_873d0851.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605119757",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605119757"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/336670"
+      },
+      {
         "id": 336669,
         "text": "🔻\nکسب‌وکارها یکی پس از دیگری سقوط می‌کنند\nهمزمان با تداوم قطعی اینترنت، فشارهای اقتصادی و پیامدهای جنگ، بسیاری از کسب‌وکارها در شهرهای مختلف با کاهش فروش، تعدیل نیرو و حتی خطر تعطیلی مواجه شده‌اند. صاحبان کسب‌وکارها در پیام‌هایی به ایران‌اینترنشنال، وضعیت کنونی را یکی از دشوارترین دوره‌های سال‌های اخیر توصیف کردند.\nیک مدرس کاشت ناخن و مانیکور از توقف کسب‌وکار خود از اسفندماه سال گذشته تاکنون خبر داد.\nبه گفته این شهروند، گرچه مردمی که از تامین نیازهای اولیه خود درمانده شده‌اند، کمتر به خدمات زیبایی می‌پردازند، اما عوامل دیگری نیز در این رکود موثر است؛ از جمله قطعی اینترنت که موجب شده تا او کسب درآمد از طریق فروش پکیج‌های آموزشی را از دست بدهد.\nاو همچنین توضیح داد از همان زمان تاکنون آنتن دستگاه کارتخوانش قطع شده است و در پاسخ به پیگیری‌هایش گفته‌اند سیگنال دستگاه کارتخوان «مشاغل غیرضروری» به دلایل «امنیتی» تا اطلاع ثانوی قطع خواهد بود.\nبحران در صنایع پتروشیمی و بنادر\nافزون بر این، پیام‌های رسیده به ایران‌اینترنشنال حاکی از موج گسترده بیکاری و ورشکستگی در کسب‌وکارهای صنعتی و خدماتی وابسته به صنایع سنگین است.\nبسیاری از فعالان این حوزه‌ها که تعدیل، اخراج یا بیکار شده‌اند، گفتند همچون دیگر صنف‌هایی که با مشکل اقتصادی مواجه شده‌اند، به مشاغلی نظیر رانندگی در اسنپ یا کارهایی روی آورده‌اند که امنیت شغلی پایین‌تری دارند.\nیک شهروند شاغل در حوزه صنعت گفت: «هر کیلو پروفیل پیش از جنگ تا حدود قیمت ۷۰ هزارتومان خریدوفروش می‌شد، اما اکنون قیمت آن به ۱۵۵ هزار تومان رسیده است. به دلیل همین افزایش قیمت مدت سه‌ ماه است که بیکاریم و توان پرداخت هزینه مواد اولیه را نداریم.»\nقیمت پروفیل، به‌عنوان ماده اولیه ساخت‌وساز در صنایع طی یک‌سال گذشته افزایش قیمتی ۱۲۰ تا ۱۶۰ درصدی را تجربه کرده است.\nمخاطب دیگری که فعال در صنف کابینت‌سازی است، نیز گفت قیمت هر ورق ام‌دی‎‌اف از ۳ میلیون تومان در سال ۱۴۰۴ به ۱۵ تا ۱۷ میلیون تومان در سال جدید رسیده است.\nاین شهروند با اشاره به رشد ۴۰۰ تا ۴۷۰ درصدی قیمت مواد اولیه، گفت در چنین شرایطی دیگر امکان ادامه کار و پرداخت اجاره محل کسب وجود ندارد.\nپیش از این نیز شهروندان از بحران بیکاری در مشاغل مرتبط با پتروشیمی و نبود ورق آهن و مواد پتروشیمی در شهرهایی از جمله اصفهان\nخبر داده بودند\nکه باعث تعطیلی بسیاری از کارگاه‌های صنعتی شده است.\nعلاوه بر صنایع، گزارش‌هایی نیز از موج توقف کسب و کارها و تعدیل نیرو در بنادر به دست ایران‌اینترنشنال رسیده است.\nیکی از کارکنان بندر رجایی گفت بسیاری از کارگران این منطقه اقتصادی تعدیل شده‌اند و آنها که همچنان سر کار مانده‌اند، حقوق‌هایشان به‌صورت مرتب پرداخت نمی‌شود و بندر بسیار خلوت شده است.\nبندر رجایی یکی از مهم‌ترین بنادر تجاری ایران است که اردیبهشت سال ۱۴۰۴ با آنچه انفجار یکی از کانتینرهای حامل مواد شیمیایی خطرناک، از جمله سدیم پرکلرات اعلام شد،\nدچار آتش‌سوزی شد\nو به مرگ ده‌ها نفر انجامید.\nبسیاری از شرکت‌های پیمانکاری وابسته به این بندر پس از انفجار و تا پیش از جنگ نیز با مشکلات اقتصادی بسیاری دست به گریبان بوده‌اند.\nشهروند دیگری از سربندر در پیامی مشابه نوشت تمامی شرکت‌های بندر نیروهای خود را تعدیل کرده‌اند و حقوق افرادی که کماکان بر سر کار مانده‌اند هم به درستی پرداخت نمی‌شود.\nپایگاه خبری رویداد ۲۴ نیز ۱۷ اردیبهشت در گزارشی درباره وضعیت مجموعه فولاد مبارکه پس از حملات آمریکا و اسرائیل نوشت که با وجود اطمینان‌دهی اولیه به کارکنان مبنی بر پرداخت بدون مشکل حقوق،دستمزد نیروها به حداقل دستمزد مصوب اداره کار تقلیل یافته است و بسیاری از نیروهای متخصص به\nرانندگی در تاکسی‌های اینترنتی\nروی آورده‌اند.\nرستوران‌ها تحت تاثیر گرانی\nصنف رستوران و غذاخوری‌ها نیز از جمله کسب و کارهایی هستند که با افزایش قیمت مواد اولیه و فشارهای اقتصادی آسیب زیادی دیده‌اند.\nیکی از مخاطبان ایران‌اینترنشنال که صاحب یک رستوران فست‌فود در لاهیجان است، نوشت: «مواد اولیه ساندویچی که اکنون به مبلغ ۱۰۰ هزارتومان فروخته می‌شود، چند روز بعد ۱۱۰ هزار تومان خریداری می‌شود. پس ناچار به افزایش قیمت روزانه هستیم که هم موجب نارضایتی مشتری است و هم خود از این مساله آسیب دیده‌ایم.»\nرستوران‌دار دیگری از کیش نیز گفت اول ناچار شد بیش از ۱۰ نفر از نیروهایش را تعدیل کند و حالا چاره‌ای جز تعطیلی برایش نمانده است.\nهم‌زمان، برخی مخاطبان از افزایش قیمت فست‌فود خبر دادند.\nبر اساس این گزارش‌ها، قیمت یک ساندویچ به‌طور متوسط به ۵۰۰ هزار تومان و یک پیتزا به یک میلیون و ۲۰۰ هزار تومان رسیده است.\n🔗\nوب‌سایت ایران اینترنشنال\n@iranintltv",
         "date": "2026-05-11T15:16:36+00:00",
@@ -9328,69 +9379,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/336540"
-      },
-      {
-        "id": 336539,
-        "text": "فاطمه سپهری، زندانی سیاسی محبوس در زندان وکیل‌آباد مشهد، در حالی دوران حبس خود را سپری می‌کند که به گفته فعالان حقوق بشر با مشکلات جدی جسمی روبه‌رو است.\nاین فعال سیاسی ۶۱ ساله که سابقه جراحی قلب باز دارد، بیش از هزار روز است در زندان به‌سر می‌برد و گزارش‌ها حاکی از آن است که در این مدت دسترسی کافی و مستمر به خدمات درمانی تخصصی نداشته است.\nمنابع حقوق بشری از افت شدید فشار خون، تپش‌های نامنظم قلب و دردهای مزمن در ناحیه قفسه سینه و دست‌های او خبر داده‌اند.\nگفته می‌شود خانم سپهری پس از چند مورد بستری کوتاه‌مدت، پیش از تکمیل روند درمان به بند بازگردانده شده است.\nفاطمه سپهری نخستین‌بار در سال ۱۳۹۸ پس از امضای بیانیه‌ای موسوم به «بیانیه ۱۴ نفر» بازداشت شد. او در جریان اعتراضات سراسری سال ۱۴۰۱ دوباره بازداشت و از سوی دادگاه انقلاب مشهد به ۱۸ سال حبس محکوم شد.\nدر روزهای اخیر کاربران شبکه‌های اجتماعی با یک طرح گرافیکی «صدای فاطمه سپهری باش» خواستار رسیدگی فوری پزشکی و آزادی او شده‌اند.\nhttps://iranintl.com/202605103770",
-        "date": "2026-05-10T21:42:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336539_0_22bd9afc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_336539_1_c0869b02.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605103770",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605103770"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/336539"
-      },
-      {
-        "id": 336538,
-        "text": "دونالد ترامپ در تروث سوشال نوشت پاسخ نمایندگان جمهوری اسلامی را خوانده و آن را «کاملا غیرقابل قبول» می‌داند.\nترامپ پیش‌تر تاکید کرده بود واشینگتن نباید اجازه دهد ایران به سلاح هسته‌ای دست پیدا کند و آمریکا در صورت نیاز، به اهداف دیگری در ایران حمله خواهد کرد.\nگفت‌وگو با کامیار بهرنگ، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-10T21:37:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336538_0_22bd9afc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336538_1_6c34308d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336538"
-      },
-      {
-        "id": 336537,
-        "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «خشم ترامپ از طولانی شدن مذاکرات با جمهوری اسلامی در سخنان یکشنبه‌اش آشکار بود؛ او گفت جمهوری اسلامی ۴۷ سال آمریکا و جهان را بازی داده است. حالا که ترامپ پاسخ جمهوری اسلامی را غیرقابل قبول خوانده، همه منتظرند ببینند مسیر بعدی واشینگتن تلاش دوباره برای توافق است یا آغاز حملات نظامی.»\n@iranintltv",
-        "date": "2026-05-10T21:34:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336537_0_22bd9afc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336537_1_fe41f88b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336537"
       }
     ],
     "tavaanatech": [
@@ -13715,23 +13703,23 @@
       }
     ]
   },
-  "last_update": "2026-05-11T15:23:33.294343+00:00",
+  "last_update": "2026-05-11T15:56:44.514836+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 789,
-    "total_media": 990,
-    "total_files": 990,
+    "total_media": 987,
+    "total_files": 987,
     "total_links": 195,
     "files_by_type": {
-      "image": 932,
-      "video": 51,
+      "image": 931,
+      "video": 49,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 990,
-    "existing_media_files": 989,
-    "total_size_mb": 221.47,
-    "last_calculation": "2026-05-11T15:23:33.309796+00:00"
+    "referenced_files": 987,
+    "existing_media_files": 986,
+    "total_size_mb": 216.45,
+    "last_calculation": "2026-05-11T15:56:44.524119+00:00"
   }
 }
