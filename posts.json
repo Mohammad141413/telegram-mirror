@@ -2,6 +2,27 @@
   "channels": {
     "vslshi": [
       {
+        "id": 9248,
+        "text": "از وقتی اینجا جوین شید 1ریال نیاز نیست پول به vpn بدید : https://t.me/+ip09xy07s9NmODFh https://t.me/+ip09xy07s9NmODFh",
+        "date": "2026-05-12T04:33:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9248_0_5dbfd11b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+ip09xy07s9NmODFh",
+            "type": "telegram",
+            "display_text": "https://t.me/+ip09xy07s9NmODFh"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vslshi/9248"
+      },
+      {
         "id": 9247,
         "text": "از وقتی اینجا جوین شید 1ریال نیاز نیست پول به vpn بدید : https://t.me/+ip09xy07s9NmODFh https://t.me/+ip09xy07s9NmODFh",
         "date": "2026-05-12T03:05:09+00:00",
@@ -1683,21 +1704,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vslshi/9082"
-      },
-      {
-        "id": 9080,
-        "text": "ترکیبی متصل\nvless://b76476dd-b5f7-45ac-ac91-57f988f71168@hi.nahidapp.com:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.nahidapp.com&sni=red.nahidapp.com&fp=#@vslshi\nاموزش ترکیب\n-\n@vslshi",
-        "date": "2026-05-10T16:05:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_9080_0_2487334b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vslshi/9080"
       }
     ],
     "Configir98": [
@@ -7425,6 +7431,296 @@
     ],
     "IranintlTV": [
       {
+        "id": 336757,
+        "text": "تصویری از یک راهب که هر صبح با گروهی از سگ‌های یک معبد در تایلند برای جمع‌آوری نذورات و غذا در اطراف محله حرکت می‌کند، در روزهای اخیر در شبکه‌های اجتماعی بازتاب گسترده‌ای داشته و میلیون‌ها بار دیده شده است.\nگزارش فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-05-12T05:29:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336757_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336757_1_75cc4e5c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336757"
+      },
+      {
+        "id": 336756,
+        "text": "آیلین وانگ، شهردار شهر آرکادیا در ایالت کالیفرنیا، پس از متهم شدن به «همکاری پنهانی با دولت چین»، از سمت خود کناره‌گیری کرد.\nگفت‌وگو با رضا گوهرزاد، روزنامه‌نگار و تحلیلگر سیاسی\n@iranintltv",
+        "date": "2026-05-12T05:21:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336756_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336756_1_54df4c50.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336756"
+      },
+      {
+        "id": 336755,
+        "text": "حمله به یک کشتی کره جنوبی در تنگه هرمز بازتاب گسترده‌ای در رسانه‌ها و محافل بین‌المللی داشته است. در همین ارتباط، سفیر جمهوری اسلامی در سئول هرگونه دخالت ایران در این حادثه را رد کرد.\nگفت‌وگو با توماج طاهباز، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-05-12T05:21:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336755_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336755_1_324068eb.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336755"
+      },
+      {
+        "id": 336754,
+        "text": "جانشین پایگاه دریابانی بندرعباس از شناسایی و انهدام یک خط لوله انتقال سوخت قاچاق به طول شش کیلومتر خبر داد. به گزارش فارس، وابسته به سپاه، قاچاقچیان این خطوط لوله را زیر ماسه‌ها و آب دریا جاسازی کرده بودند و از آن طریق، سوخت را از ساحل به دریا و شناورهای متخلف انتقال می‌دادند.\nhttps://iranintl.com/202605125372",
+        "date": "2026-05-12T05:09:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336754_0_765e18a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_336754_1_25755831.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605125372",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605125372"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/336754"
+      },
+      {
+        "id": 336753,
+        "text": "🔻\nامانوئل مکرون، رییس‌جمهوری فرانسه، که برای شرکت در نشست «آفریقا فوروارد ۲۰۲۶» به کنیا سفر کرده است، صبح دوشنبه همراه با الیود کیپچوگه، قهرمان ماراتن المپیک‌های ۲۰۱۶ و ۲۰۲۰، دقایقی در خیابان‌های نایروبی، پایتخت کنیا دوید.\n🔹\nالیود کیپچوگه با انتشار تصاویری درباره دویدن رییس‌جمهور فرانسه با او‌ نوشت: «فرصت داشتیم درباره این صحبت کنیم که چگونه می‌توانیم حمایت و فرصت‌های بیشتری برای نسل بعدی ورزشکاران آفریقایی فراهم کنیم.»\n🔹\nاو نوشت: «چنین لحظاتی به من یادآوری می‌کند که دویدن فراتر از حرکت است. این یک زبان جهانی است که مردم، فرهنگ‌ها و ایده‌ها را به هم پیوند می‌دهد.»\n@iranintltvsport",
+        "date": "2026-05-12T04:59:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336753_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336753_1_29a468a2.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336753"
+      },
+      {
+        "id": 336752,
+        "text": "دولت استرالیا از اعمال تحریم‌های جدید علیه مقام‌ها و نهادهای جمهوری اسلامی، از جمله وزیر کشور، فرماندهان امنیتی و نیروی انتظامی، به‌دلیل نقش آن‌ها در سرکوب معترضان و همچنین محدود کردن اینترنت در ایران خبر داد.\nعلیرضا محبی، خبرنگار ایران‌اینترنشنال،‌گزارش می‌دهد\n@iranintltv",
+        "date": "2026-05-12T04:58:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336752_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336752_1_5a6ab036.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336752"
+      },
+      {
+        "id": 336751,
+        "text": "دونالد ترامپ، رییس‌جمهوری ایالات متحده، دوشنبه در کاخ سفید با تیم امنیت ملی و شماری از فرماندهان نظامی آمریکا درباره ایران گفت‌وگو کرد. بر اساس گزارش‌ها، در این نشست مسیر پیشروی جنگ با جمهوری اسلامی بررسی شد.\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-05-12T04:57:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336751_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336751_1_37b6f6ef.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336751"
+      },
+      {
+        "id": 336750,
+        "text": "وزارت خزانه‌داری آمریکا دوشنبه ۱۲ فرد و نهاد مرتبط با سپاه پاسداران را به‌دلیل نقش آن‌ها در تسهیل فروش و انتقال نفت ایران به چین در فهرست تحریم‌های ایالات متحده قرار داد.\nگفت‌وگو با امیر گیتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-05-12T04:56:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336750_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336750_1_f004c852.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336750"
+      },
+      {
+        "id": 336749,
+        "text": "وزارت خارجه استرالیا اعلام کرد این کشور سه‌شنبه ۲۲ اردیبهشت در واکنش به اقدامات جمهوری اسلامی در ادامه سرکوب خشونت‌بار مردم ایران، قطع اینترنت و ایجاد بی‌ثباتی در منطقه، تحریم‌های مالی هدفمند و ممنوعیت‌های سفر بیشتری را علیه هفت فرد و چهار نهاد حکومت ایران اعمال می‌کند.\nهفت فرد و چهار نهادی که امروز تحریم شده‌اند، شامل مقام‌ها و نهادهای ارشدی هستند که در این اقدامات، از جمله خشونت علیه زنان و کودکان، نقش داشته‌اند.\nیکی از این افراد مسئول هدایت سرکوب زنان و دختران در ایران بوده و با به‌کارگیری ۸۰ هزار نیرو، نظارت و اجرای حجاب اجباری را پیش برده است.\nفرد دیگری پایگاه‌های اطلاعاتی محلی ایجاد کرده و با جمع‌آوری اطلاعات خانه‌به‌خانه و گشت‌زنی، مخالفان جمهوری اسلامی را شناسایی و مجازات کرده است.\nبرخی دیگر نیز مسئول بازداشت ناعادلانه شهروندان خارجی بوده‌اند.\nاین تحریم‌ها همچنین نظام بانکداری پنهان جمهوری اسلامی را هدف قرار می‌دهد.\nhttps://iranintl.com/202605128683",
+        "date": "2026-05-12T04:47:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336749_0_765e18a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_336749_1_b586f70a.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605128683",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605128683"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/336749"
+      },
+      {
+        "id": 336748,
+        "text": "جاویدنامان انقلاب ملی ایرانیان\n«محمد جباری» در شامگاه ۱۸ دی‌ماه در اعتراضات کرج با شلیک مستقیم نیروهای سرکوب کشته شد. نامش در حافظه‌ی این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.\n@iranintltv",
+        "date": "2026-05-12T04:29:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336748_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336748_1_9f0a66de.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336748"
+      },
+      {
+        "id": 336747,
+        "text": "سرخط خبرهای سه‌شنبه ۲۲ اردیبهشت\n@iranintltv",
+        "date": "2026-05-12T04:21:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336747_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336747_1_4c13e65b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336747"
+      },
+      {
+        "id": 336746,
+        "text": "شهروندی از انزلی با ارسال پیامی به ایران‌اینترنشنال، درباره وضعیت قطعی برق در این شهر روایت می‌کند که «افتضاح» است و می‌گوید چند ساعت در روز برق را بدون اطلاع قطع می‌کنند و هنوز تابستان شروع نشده، جمهوری اسلامی عذاب دادن مردم را آغاز کرده‌ است.",
+        "date": "2026-05-12T04:12:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336746_0_765e18a9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_336746_1_5357f7c9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/336746"
+      },
+      {
+        "id": 336745,
+        "text": "چاک شومر، رهبر اقلیت دموکرات در سنا، در ایکس نوشت دموکرات‌های سنا در هفته جاری هفتمین قطعنامه اختیارات جنگی برای خروج نیروهای آمریکایی از در‌گیری‌‌ها با جمهوری اسلامی را به رای می‌گذارند. تاکنون شش قطعنامه دموکرات‌‌ها در این زمینه شکست خورده است.\nشومر جنگ علیه جمهوری اسلامی را «جنگی پرهزینه و بدون هیچ هدف» دانست و افزود: «بهترین راه برای کاهش هزینه‌ها و پایان دادن به این هرج و مرج، پایان دادن به این جنگ غیرقانونی است.»\nhttps://iranintl.com/202605123934",
+        "date": "2026-05-12T04:05:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336745_0_765e18a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_336745_1_a15b7b8a.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605123934",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605123934"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/336745"
+      },
+      {
+        "id": 336744,
+        "text": "تامی پیگوت، سخنگوی وزارت خارجه آمریکا، درباره خواست ایالات‌متحده از توافق با جمهوری اسلامی به فاکس نیوز گفت: «ترامپ قرار است توافقی خوب برای مردم آمریکا انجام دهد که از ایالات متحده، جهان و نسل‌های آینده محافظت کند.»\nاو گفت: «هیچ ابهامی درباره آنچه ترامپ می‌خواهد وجود ندارد. آنچه او می‌خواهد این است که حکومت ایران نباید به سلاح هسته‌ای دست یابد.»\nپیگوت افزود: «نکته مهم دیگر این است که ما در دوران دولت باراک اوباما شاهد یک توافق بد بودیم که به حکومت ایران نقشه راهی برای دستیابی به سلاح هسته‌ای داد.»\nhttps://iranintl.com/202605122667",
+        "date": "2026-05-12T03:57:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_336744_0_765e18a9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_336744_1_4c0c9aa4.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605122667",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605122667"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/336744"
+      },
+      {
         "id": 336743,
         "text": "ارتش اسرائیل با انتشار ویدیویی در تلگرام، از انهدام تونل‌های حماس در نوار غزه خبر داد.\nبه گزارش ارتش اسرائیل، چهار تونل زیرزمینی، به طول مجموع حدود چهار کیلومتر، تخریب شدند. یکی از این تونل‌ها بخشی از مجموعه‌ای بود که به‌عنوان زیرساخت نگهداری گروگان‌ها مورد استفاده قرار می‌گرفت.",
         "date": "2026-05-12T03:21:19+00:00",
@@ -9237,254 +9533,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/336648"
-      },
-      {
-        "id": 336647,
-        "text": "محمدعلی جعفری، فرمانده قرارگاه «بقیه‌الله» سپاه پاسداران، گفت: «تا زمانی که جنگ در همه جبهه‌ها پایان نیابد، تحریم‌ها برداشته نشود، پول‌های بلوکه‌شده آزاد نشود، خسارت‌های ناشی از جنگ جبران نشود و حق حاکمیت جمهوری اسلامی بر تنگه هرمز به رسمیت شناخته نشود، هیچ مذاکره دیگری در کار نیست.»\nاو افزود که با این سطح از بی‌اعتمادی به آمریکا، طبیعی است تیم مذاکره‌کننده با هدایت کلیت نظام، شروطی را مشخص کند که همه حقوق مسلم جمهوری اسلامی را تامین کند و این شروط «حداقل انتظارات» ما است.\niranintl.com/202605118530",
-        "date": "2026-05-11T12:02:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336647_0_765e18a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_336647_1_e6d75850.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336647"
-      },
-      {
-        "id": 336646,
-        "text": "یک شهروند با ارسال پیامی از مشهد به ایران‌اینترنشنال می‌گوید: «هر یک عدد نان، شده ۳۰ هزار تومن. زندگی واقعا سخت است. آقای ترامپ، آقای نتانیاهو، لطفا به قولی که به ما مردم ایران دادید عمل کنید.»",
-        "date": "2026-05-11T11:59:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336646_0_765e18a9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336646_1_0859ab4e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336646"
-      },
-      {
-        "id": 336645,
-        "text": "در حالی‌ که پس از چند روز تاخیر، نمایندگان جمهوری اسلامی، پاسخ آمریکا به طرح صلح پیشنهادی را به نمایندگان پاکستان تحویل دادند، رییس جمهوری آمریکا این پیشنهاد را کاملا «غیر قابل قبول» خواند.\nگفت‌وگو با علی‌حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-11T11:59:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336645_0_765e18a9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336645_1_fec25022.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336645"
-      },
-      {
-        "id": 336644,
-        "text": "گروهی از ایرانیان مقیم ایتالیا، یکشنبه ۲۰ اردیبهشت، در اعتراض به اعدام‌های جمهوری اسلامی در شهر بولونیا تجمع کردند.\nگزارش صدف باغبان، خبرنگار\n@iranintltv",
-        "date": "2026-05-11T11:57:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336644_0_765e18a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336644"
-      },
-      {
-        "id": 336643,
-        "text": "مروری بر رسانه‌ها و خبرگزاری‌ها در ایران، دوشنبه ۲۱ اردیبهشت، با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
-        "date": "2026-05-11T11:51:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336643_0_765e18a9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336643_1_d9ee8e4d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336643"
-      },
-      {
-        "id": 336642,
-        "text": "اطلاعات رسیده به ایران‌اینترنشنال، جزییات تازه‌ای از کشته شدن جاویدنام پوریا میربهروزیان در جریان انقلاب ملی ایرانیان در مشهد روایت می‌کند.\nگفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-11T11:49:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336642_0_765e18a9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336642_1_c11c4be1.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336642"
-      },
-      {
-        "id": 336640,
-        "text": "🔻\nترامپ پاسخ تهران به طرح صلح را رد کرد؛ ادامه بحران تنگه هرمز قیمت نفت را بالا برد\nدونالد ترامپ، رییس‌جمهوری آمریکا، به‌سرعت پاسخ جمهوری اسلامی به پیشنهاد صلح واشینگتن را رد کرد. اقدامی که روز دوشنبه باعث جهش قیمت نفت شد و نگرانی‌ها را درباره ادامه جنگ و فلج ماندن کشتیرانی در تنگه هرمز افزایش داد.\nخبرگزاری رویترز دوشنبه ۲۱ اردیبهشت گزارش داد چند روز پس از آن‌که آمریکا پیشنهادی را برای ازسرگیری مذاکرات ارائه کرد، تهران ۲۰ اردیبهشت پاسخ خود را ارائه داد. پاسخی که بر پایان جنگ «در همه جبهه‌ها»، به‌ویژه لبنان - جایی که اسرائیل، متحد آمریکا، با نیروهای حزب‌الله مورد حمایت جمهوری اسلامی درگیر است - تمرکز داشت.\nصداوسیمای جمهوری اسلامی گزارش داد تهران همچنین خواستار دریافت غرامت خسارات جنگ و تاکید بر حاکمیت ایران بر تنگه هرمز شده است.\nخبرگزاری تسنیم، وابسته به سپاه پاسداران، نیز گزارش داد جمهوری اسلامی در این پاسخ خواستار پایان محاصره دریایی آمریکا، تضمین عدم حمله مجدد، لغو تحریم‌ها و پایان ممنوعیت فروش نفت ایران از سوی آمریکا شده است.\nترامپ تنها چند ساعت بعد، در شبکه اجتماعی تروث سوشال، این پیشنهاد را رد کرد.\nاو نوشت: «دوستش ندارم - کاملا غیرقابل قبول است ....»\nرییس‌جمهوری آمریکا توضیح بیشتری ارائه نکرد.\nاختلاف بر سر مسیر پایان جنگ\nرویترز نوشت که آمریکا پیشنهاد کرده بود ابتدا درگیری‌ها متوقف شود و سپس مذاکرات درباره مسائل اختلاف‌برانگیزتر، از جمله برنامه هسته‌ای جمهوری اسلامی، آغاز شود.\nپس از رد خواسته‌های تهران از سوی ترامپ، حکومت ایران ۲۱ اردیبهشت اعلام کرد پیشنهادش برای پایان جنگ «سخاوتمندانه و مسئولانه» بوده است.\nاسماعیل بقایی، سخنگوی وزارت امور خارجه جمهوری اسلامی،\nگفت\n: «خواسته ما مشروع است؛ پایان جنگ، لغو محاصره و دزدی دریایی آمریکا و آزادسازی دارایی‌های ایران که تحت فشار آمریکا به‌طور ناعادلانه در بانک‌ها مسدود شده‌اند.»\nاو افزود: «عبور امن از تنگه هرمز و برقراری امنیت در منطقه و لبنان نیز از دیگر خواسته‌های ایران بود که پیشنهادی سخاوتمندانه و مسئولانه برای امنیت منطقه محسوب می‌شود.»\nبقایی همچنین گفت جمهوری اسلامی هنوز با کسانی که «علیه ما چنین جنایتی مرتکب شدند»، تسویه‌حساب نکرده و اگر فرصتی در اختیار نیروهای مسلح قرار گیرد، «به بهترین وجه» از آن استفاده خواهد شد.\nجهش قیمت نفت و ادامه بحران تنگه هرمز\nدر پی تداوم بن‌بست میان تهران و واشینگتن، قیمت نفت ۲۱ اردیبهشت بیش از ۳.۵ درصد افزایش یافت.\nپیش از آغاز جنگ میان آمریکا و اسرائیل با جمهوری اسلامی در ۹ اسفند ۱۴۰۴، حدود یک‌پنجم نفت و گاز طبیعی مایع جهان از تنگه هرمز عبور می‌کرد. این آبراه اکنون به یکی از مهم‌ترین نقاط فشار در جنگ تبدیل شده است.\nاگرچه تردد کشتی‌ها در تنگه هرمز در مقایسه با پیش از جنگ بسیار کاهش یافته، داده‌های شرکت‌های کپلر و ال‌اس‌یی‌جی نشان می‌دهد هفته گذشته سه نفتکش حامل نفت خام از این مسیر عبور کردند.\nبر اساس این داده‌ها، این کشتی‌ها برای جلوگیری از حمله احتمالی جمهوری اسلامی، سامانه‌های ردیابی خود را خاموش کرده بودند.\nدرگیری‌های پراکنده در اطراف تنگه هرمز طی روزهای اخیر، آتش‌بسی را که از اواسط فروردین ۱۴۰۵ جنگ گسترده را متوقف کرده بود، بار دیگر تحت فشار قرار داده است.\n🔗\nمتن کامل گزارش را اینجا بخوانید\n@iranintltv",
-        "date": "2026-05-11T11:37:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336640_0_765e18a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336640"
-      },
-      {
-        "id": 336639,
-        "text": "رویترز بر اساس داده‌های کشتیرانی خبر داد که یک نفتکش دیگر از قطر به سمت پاکستان در حال حرکت است.\nاین دومین عبور یک نفتکش گاز طبیعی مایع قطر از تنگه هرمز به سمت پاکستان از زمان جنگ ایران است.\nرویترز نوشت که کشتی میهزم بندر راس لفان قطر را ترک کرده و قرار است سه‌شنبه به بندر قاسم پاکستان برسد.\nبر اساس این گزارش، انتظار می‌رود در روزهای آینده دو نفتکش دیگر حامل گاز طبیعی مایع قطر نیز راهی پاکستان شوند.\nhttps://iranintl.com/202605117638",
-        "date": "2026-05-11T11:33:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336639_0_765e18a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_336639_1_3f17a76a.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605117638",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605117638"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/336639"
-      },
-      {
-        "id": 336638,
-        "text": "🗣\nروایت شما از اقتصاد بحرانی زیر سایه آتش‌بس- دوشنبه ۲۱ اردیبهشت:\n🔹\nمدرس کاشت ناخن و مانیکور هستم اما از اسفندماه اوضاع کاری به‌شدت به‌هم ریخته. آنتن دستگاه کارتخوان‌مون از همون موقع قطع شده و بعد از اینکه تماس گرفتیم، گفتن بنا به دلایل امنیتی آنتن دستگاه‌های پوز مشاغل غیرضروری رو قطع کردیم. همچنین فروش پکیج آموزش مجازی در اینستاگرام و تلگرام رو هم با قطع دسترسی به اینترنت عملاً از دست دادم.\n🔹\nنمی‌تونیم مدام از جیب بخوریم چون دیگه جیب‌ها هم خالی شده. مردم دارن وسایل خونه‌شون رو می‌فروشن که خرج مواد خوراکی کنن.\n🔹\nشرایط در ایران حقیقتاً دشوارتر شده. مواد خوراکی، بی‌کیفیت اما گرون‌قیمت شدن و حتی همون هم اگه توان خریدش رو داشته باشیم، داره ناموجود می‌شه.\n🔹\nخسته شدیم. گرونی بیداد می‌کنه. سه قلم جنس بی‌ارزش مثل چیپس، بیسکویت و بستنی درمجموع می‌شه ۳۰۰ هزار تومان، دیگه گوشت و مرغ و برنج بماند.\n🔹\nاجاره مسکن در تهران به‌قدری بالا رفته که الگوی سکونت داره تغییر می‌کنه. اوضاع به ‌شکلی شده که در اکثر آگهی‌های اجاره، مستأجرها به دنبال هم‌خونه می‌گردن.\n🔹\nمن کابینت‌ساز هستم. سال ۱۴۰۴ هر ورق ام‌دی‌اف رو به قیمت ۳ میلیون تومان می‌خریدم اما امسال بین ۱۵ میلیون تا ۱۷ میلیون تومان قیمت هر ورق شده.\n🔹\nکفش اسکیتی که می‌خواستم بخرم از ۷ میلیون تومان شده ۱۱ میلیون تومان. تا کی حسرت بخوریم؟\n🔹\nبعد از ۷۰ روز با یک گیگ اینترنت وصل شدم. زندگی واقعاً سخت شده، همه‌چیز به‌شدت گران شده و واقعاً هیچ‌چیزی نمی‌شود خرید، حتی قیمت یک نوشابه بالای ۱۰۰ هزار تومان است.",
-        "date": "2026-05-11T11:29:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336638_0_765e18a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336638"
-      },
-      {
-        "id": 336637,
-        "text": "روزنامه اطلاعات در یادداشتی به «ادامه جنگ، تحریم‌ها و محدودیت توان دولت» اشاره کرد و خواستار صرفه‌جویی مردم در مصرف آب، برق، سوخت، غذا، نان، برنج و گندم شد.\nاین روزنامه در ادامه نوشت مصرف سوخت نیز وضعیت مشابهی دارد و پرسید چه اصراری وجود دارد افراد در مسیرهایی که خودروهای عمومی وجود دارد، با خودروهای تک‌سرنشین تردد کنند یا برای تفریح فقط «دور دور» کنند.\nروزنامه اطلاعات همچنین نوشت مصرف بیش از اندازه مواد غذایی از جمله برنج و گندم، همراه با شیوه‌های ناسالم تغذیه، به بروز مشکلاتی مانند بیماری، کاهش عمر و افزایش هزینه‌های بیمارستانی منجر می‌شود.\niranintl.com/202605111279",
-        "date": "2026-05-11T11:27:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336637_0_765e18a9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_336637_1_093c1496.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336637"
-      },
-      {
-        "id": 336635,
-        "text": "🔻\nگزارش گاردین از سایه‌ سنگین تنش با جمهوری اسلامی بر امنیت جام‌جهانی ۲۰۲۶\nروزنامه گاردین در گزارشی نوشت هم‌زمانی مسابقات جام جهانی فوتبال ۲۰۲۶ با افزایش تنش‌ها با جمهوری اسلامی، خطر انجام حملات «تروریستی» در خاک آمریکا را افزایش داده است.\nبراساس این گزارش، کارشناسان امنیتی هشدار داده‌اند که مهم‌ترین تهدیدها می‌تواند از سوی مهاجمان تک‌نفره یا گروه‌های افراطی الهام‌گرفته از ایدئولوژی‌های جهادی یا جریان‌های تندرو داخل آمریکا باشد.\nقرار است جام جهانی ۲۰۲۶ با ۱۰۴ مسابقه برگزار شود که ۷۸ بازی آن در آمریکا خواهد بود. مسابقات در شهرهایی مانند لس‌آنجلس، میامی و نیویورک برگزار می‌شود و به نوشته‌ی گاردین، گستردگی جغرافیایی این رویداد، چالش بزرگی برای نیروهای امنیتی ایجاد کرده است.\nتنها مسابقه فینال در ایست رادرفورد نیوجرسی در سطح «رویداد ویژه امنیت ملی» قرار گرفته و بسیاری از مسابقات دیگر نیز در رده پرخطر ارزیابی شده‌اند و نیازمند حضور گسترده‌ی نهادهای فدرال امنیتی هستند.\nکارشناسان به «اهداف نرم» مانند هتل‌ها، مراکز حمل‌ونقل و محل تجمع هواداران به‌عنوان نقاط آسیب‌پذیر اشاره کرده‌اند. همچنین احتمال حملات سایبری و استفاده از پهپادها از دیگر نگرانی‌های مطرح‌شده در این گزارش است.\nاین گزارش در شرایطی منتشر شده که تنش‌ها میان آمریکا، اسرائیل و جمهوری اسلامی در ماه‌های اخیر افزایش یافته و موضوع حضور تیم ملی فوتبال ایران در جام جهانی ۲۰۲۶ نیز با بحث‌های سیاسی و امنیتی همراه شده است.\n🔗\nوب‌سایت ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-11T11:19:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336635_0_765e18a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336635"
-      },
-      {
-        "id": 336634,
-        "text": "روزنامه اعتماد در گزارشی از ناراحتی مقامات ورزشی و برخی نهادهای جمهوری اسلامی از سفر مهدی تاج به کانادا برای شرکت در کنگره فیفا خبر داد.\nگفت‌وگو با آیدین مقیمی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-11T11:12:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336634_0_765e18a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336634"
-      },
-      {
-        "id": 336633,
-        "text": "سرخط خبرهای دوشنبه ۲۱ اردیبهشت\n@iranintltv",
-        "date": "2026-05-11T11:11:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336633_0_765e18a9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336633"
-      },
-      {
-        "id": 336632,
-        "text": "پیام‌های رسیده به ایران‌اینترنشنال نشان می‌دهد گرانی قهوه در کافه‌ها و کاهش مشتریان، باعث تعدیل و اخراج پرسنل و همچنین تعطیلی برخی از کافه‌ها شده‌ است.\nلیلا سعادتی، عضو تحریریه ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
-        "date": "2026-05-11T11:11:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336632_0_765e18a9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336632_1_39f70409.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336632"
       }
     ],
     "tavaanatech": [
@@ -10893,6 +10941,91 @@
     ],
     "ZibaNabz": [
       {
+        "id": 23770,
+        "text": "📱\nv2ray\nاز تو ربات\n@v2rayngsazzbot\nقیمتا رو ببینید\n======================\n🗿\nopenvpn\n🗿\nwireguard\n🖥\nL2TP\nبرای خرید سرویس openvpn و wireguard و L2TP  هم میتونید به ایدی زیر پیام بدین {کیفیت این سرویس ها بشدت عالیه و ایپی این سرورا تقریبا برای هر کاری بهینه شدن}.\n🚨\nمشکلی داشتین من خدمتم\n🟢\nخرید از ربات :\n@v2rayngsazzbot\n🔴\nخرید از پشتیبانی :\n@v2rayngsaz",
+        "date": "2026-05-12T05:18:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_23770_0_b797a83a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "ZibaNabz_23770_1_e8b6c3f7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/23770"
+      },
+      {
+        "id": 23769,
+        "text": "☑️\nپنج سرور جدید برای SlipNet\nslipnet-enc://AVAJgxRhDQH4yWfiXDcszlxdTav5YP+g2GPNn6rKhBSNKg4WuxAdlANg1KJNafrzhs0f0i3or7Xykn1jvNEJEYTp9bGv75HZ+NnN1KaIolv0ETs8C+PrdzqmxRlJsNBKaF6hXjg0bII/7ZrthZhsV8ok00qEvuu2T56GrPhSbY5KiYoL5a+E0imMggGaeszYi9f0+YyU6ttT3gZrqYEKsx8KZeXHBxx/1qRPJ8ST0gr543eUVcDb7l0NIhGOV50n9c3AllSdh6rbBzcy0aIgQivhuy/o78oL5b8fTo6KK4WVIla+25OCziyywvU90emOjr/M/r+WExLMWoIVEVi+Uj60Okn44IcjG7drzM0RiQkqy8mjvFniY0l3FVz2tXg5UnA+Kvac9BI+6fwMWSaOoBNYq7uzJkQ9Xm44DVnHOGScnVRInD637NzxRA6PqKmYs+jsQUYU8RcjRluYTdD4q00tTGkSJLvXBBW518jlCtBUb+i8MihnSZa3hEQ7yLX0hYZLFdZh6jP4UmRDz28GPrSF6DmiPZP/XkcVwGWXLCtX3h2FRB9f9fP5006ulVkH4AHLPH57S1nh4cxdzWGwRDFp3QlOmykor2rCm1eNSuLvsSunTOq7yo5o+1GWkmbmEOIiPIv25Gf4P0+zak4LoHCsqEHq9UAYrx3GSjI6Ymgwpr7TSh4JNdlbSIo2+GDhu59rqGtS7IH/JoeEjnJCzS4dU6tBbzA+19t1V1CjauY1QjstVfl1ucMVNJZcb+R9\nslipnet-enc://ARcLX2MBExkIF0qLxqwCjf3sYLkJyRNK7IP6gGsC+VcSuu4aBPn8tp6gMImP0B7X4MOblQqncXP7J5F0LTYi1H6ZDoGDTIOl4JQpOhfYztL4mNicAzvcgDfENmXJvGWk3HFaE5v+5f3kBLzb//BNQPE0LcwkB5OBLNiSiGjA3tj/NQLcitFwgmPbaM5sf/9KpYyKU65bYC8Tw3WSqU/dKev0tnPM9Mb564L9lH6AIpsDHeUoBl0hFSKUGcMFrgwgL3ErYDPcQdP3/ReUygsgzHGqc4FN6KlJxq/QJZPCC/Rg2hUFZ7hoCchL1YBXhmm/b9t81gSIhYb+xrEKBPTtqZn1jRdO+XWLLarYOvR/z8DvRECdq6VXaKMlE7CD9YhUb5Hb3HUT2w6G/nh69tG6BWUsFlVBZqE21VUY8AC58XaM25EfC4H/paXD0Hhw58rXueNfIC7kL+6jeP+J778n8b8PudlhHb/WEJ3FZv0yKXFwJ6NIaEezypGzRzOM1vlA/wgGqIDkChwPbvZJSPaCD43yYkaK3TTjTGaVSL2XhH+eZiLrRN5sTzzKayaIHsnrrTPGH9vTcKZqo7/y1V9cK6m8aZ8MVNm074sqGgbQTfPhp7n+1epqnCSGiJ1dQD93wXSKy9Iu2G04Fr7gcD1LIZTvjVsQDWzI5hSoOxnV0Ep6Tin5TnGdtSuS0ueInfJQd18=\nslipnet-enc://AYXESgWejlY9x9O3dm3mUYau90VqfwdPYylQnVeMFcVOP/RSbqtUaLrnd+5CNBbBx2TQkONBWpxKA0mswoi7NxpcnixuxMRMw/AHnJzS4lPO2hwjH4aO8QaGZoV+0GnHX15obfVkyusOmbjIr9LicWOWvwNvcLc126zOdxCCyXZlQnI1QikaUG9KXEvzm7Lh9Om9UrvM4egoIDCkKfXeuuHvJbtzW+j8O/drqQqZpSvZhzbDP7k+KED4yuq+9qcFDdYLm2M0ODztG9CaYv5Rn8BUQglQK1bXjB5rT7dJf6NrOz2BkfB03/+HET8VBBacyHDRm6Mwy1uWP8HscFjsn8WmXmJ3WEwy+Q3G+fw7NWK7lDPqPwVDKvg49e/4pm7SU4w/5C8Oe6ce4qeTRZb+efoLl17kYletXR27tDaq0q7UzWjPbf545gbDC3nJVeoYs/VoZUYZGO+hs1+Bb5GOsO5OxmCNImy2FHgs1d0Ztve4gqU8G8ZsuNhLI9nGPtr4qN3EkNHN+Fctl0giiBvx5cIk9TGmyolU6kfEch6l8WQS+REeAoUNr63wSNPxIgpL17auxT/JtHJjUUoHsIEUsGbTIC8rMLhU7bWw0UZfCrtECV/xuD3+FAYH7xRBkMnyIR+0wMOKi+lqN5pQRspWzFVz\nslipnet-enc://AdMjBHw0IlLJHgI19ZBkr3wtS18BSGPh9hvlBjJOHLJfvc+ds3xLrixerrLiFwAr4yYKy2tT/Co9jeCDHrzbAp1HJ0eq1ybsL+kxpGBKhImqaApodjlE2MSvigQTBIuAJv736giTh5yAA0y/yQzWubnqChwn9M0VJ+XUcnRvYBThQCLbgqxjF6aP7G/R+P99wwBN+euf63yM/bBRsrvNTKDkBEZsIF42Z53e/UpfI6zJUaP0/piKAch4t8TYJCX4SXqEV8XqAOGPph8nGw5Gd/kyo38ufrEPsPiWZ7CwEa6Rm6ukFoTmkJD6hwOjK35Pv3khN/5uiSGz/lN7bOTj3q+BmkqMg+18qPjzULU+UbfEwzqKV/0UYOKJIfQsuhTmuVrS02Ut9kBxJPnECAtiaIuFxSU/GJGNwqGFK0Q1PM48tHzSP7ATez6Osq9+/TmAoXt0Ovchf/EILf2MJhtApjk0BYUdGGmV3/dBfQdk5JPUgwL/zlOKRE/0gj3J4dmRuOJGZ7nViMrBEcwU092AoGSnWpIuCtMhNMEgEVgXEE8ng5o2NOQLASAK/oe2ypZETFn+Nl4kcmE5S7/CtPuF4YpwK3bwYvnLMmuj8q6d/8KCXdvhNJuaVwUDrHUpDteWMotIrf4umO6k4M04SCm6w7ItZ2ypLnMk9m8D3lYj1sy29M0IbroHexJlm7WYBWxBGVtAu573FxJiXhlF0Y6YCe0WG/pBVgwmPMOg/wZFE1TR8aayR3GMFtz7iz8MJRuJaOtNCHHZbkItbFU=\nوارد تنظیمات بشید و گزینه Proxy-only mode رو فعال کنید.\nبعد از اتصال به سرور، در تلگرام به پروکسی زیر وصل بشید.\nhttps://t.me/socks?server=127.0.0.1&port=10880\nتست شده\n✅\n📥\nفایل برنامه SlipNet\n🔻\nبرای خرید سرویس با کیفیت میتونید پیام بدین\n🔺\n💠\n@v2rayngsaz",
+        "date": "2026-05-12T04:51:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_23769_0_b797a83a.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/socks?server=127.0.0.1&port=10880",
+            "type": "telegram",
+            "display_text": "https://t.me/socks?server=127.0.0.1&port=10880"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/ZibaNabz/23769"
+      },
+      {
+        "id": 23768,
+        "text": "🚨\nهاست و پورت برای سایفون (ترکیبی نیست)\nHostname:\n37.32.15.207\nPort:\n8888\nHostname:\n45.82.136.180\nPort:\n22888\nHostname:\n193.151.131.61\nPort:\n1111\nHostname:\n87.107.54.147\nPort:\n8888\n🔻\nفایل سایفون\n🔹\nآموزش تنظیم هاست و پورت\n◀️\nجهت خرید سرویس با کیفیت\n⭕️\n#️⃣\n#psiphon\n🆔\n@ZibaNabz",
+        "date": "2026-05-12T04:49:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_23768_0_b797a83a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/23768"
+      },
+      {
+        "id": 23767,
+        "text": "✅\nنسخه جدید برنامه V2rayNG اندروید\n💸\nنسخه 2.1.7\n▪️\nتغییرات:\n• فعال‌سازی مستقل IPv6\n• رفع باگ‌ها و بهبود عملکرد\n• تنظیمات جدید KCP (MTU/TTI)\n• میانبر سریع شروع/توقف سرویس\n• انتخاب بصری پکیج‌ها در Routing\n• بهبود آپدیت اشتراک‌ها در پس‌زمینه\n• امکان تعیین هم‌زمانی تست تأخیر\n• آپدیت هسته به Xray-core v26.5.9\n• پورت داینامیک برای SOCKS محلی\n• اضافه شدن Chain Proxy و Browser Dialer\n• پشتیبانی از یوزرنیم و پسورد برای SOCKS محلی\n• غیرفعال‌سازی پراکسی محلی یا UDP در SOCKS5\n﻿\n📥\nلینک دانلود داخلی\n🆔\n@ZibaNabz",
+        "date": "2026-05-12T04:47:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_23767_0_b797a83a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/23767"
+      },
+      {
+        "id": 23766,
+        "text": "سلام صبح قشنگتون بخیر عزیزان\n🙂\nروزتون پر از نگاه لطف خدا انشالله\n❤️",
+        "date": "2026-05-12T04:47:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_23766_0_b797a83a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/23766"
+      },
+      {
         "id": 23765,
         "text": "📱\nv2ray   از تو ربات @v2rayngsazzbot  قیمتا رو ببینید ======================\n🗿\nopenvpn\n🗿\nwireguard\n🖥\nL2TP برای خرید سرویس openvpn و wireguard و L2TP  هم میتونید به ایدی زیر پیام بدین {کیفیت این سرویس ها بشدت عالیه و ایپی این سرورا تقریبا برای هر کاری بهینه…",
         "date": "2026-05-11T07:05:56+00:00",
@@ -12267,6 +12400,57 @@
       }
     ],
     "Config_HATunnel": [
+      {
+        "id": 66437,
+        "text": "https://t.me/socks?server=185.231.183.229&port=80&user=ermia&pass=Ermia3472%23\nتست کنید تو بعضی از مناطق پینگ داره\n@Config_HATunnel",
+        "date": "2026-05-12T04:53:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_66437_0_34b5e1d2.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/socks?server=185.231.183.229&port=80&user=ermia&pass=Ermia3472%23",
+            "type": "telegram",
+            "display_text": "https://t.me/socks?server=185.231.183.229&port=80&user=ermia..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Config_HATunnel/66437"
+      },
+      {
+        "id": 66436,
+        "text": "🔴\nیک مسئول ایرانی به یک مقام ژاپنی می‌گوید: شما که نفت ندارید، چرا وزیر نفت دارید؟\nمقام ژاپنی : شما که اینترنت ندارید، چرا وزیر ارتباطات دارید؟\n@Config_HATunnel",
+        "date": "2026-05-12T04:36:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_66436_0_34b5e1d2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/66436"
+      },
+      {
+        "id": 66435,
+        "text": "🟠\nآموزش ترکیب v2ray+ سایفون\n1. وارد برنامه V2rayNG بشید\n✅\n2. کانفیگ ویتوری رو وارد کنید\n3. بعدش برید تنظیمات V2rayNG و زبان یا Language رو بزارید روی فارسی\n✅\n4. برید پایین صفحه تنظیمات پورت پروکسی محلی رو 10808 بزارید\n5. پایین پایین قسمت تنظیمات حالت رو از VPN به فقط پروکسی تغییر بدید\n✅\n____\n1. حال وارد برنامه Psiphon بشید\n✅\n2. برید قسمت Option\n✅\n3. بزنید روی VPN Settings\n✅\n4. بزنید روی Don't tunnel selected apps\n✅\n5. سپس بزنید روی Select apps\n✅\n6. بزنید روی علامت ذربین یا سرچ اسم V2rayNG رو سرچ کنید و انتخابش کنید\n✅\n7. یک گام بیایین عقب تر حال بزنید روی Proxy Settings\n✅\n8. تیک Connect through an HTTP Proxy رو بزنید\n✅\n9. سپس تیک Use the following settings رو بزنید و مقدار پایین رو اینطوری پر کنید\n👇\n:\nHost Address :\n127.0.0.1\nPort : 10808\n10. گام آخر اول V2rayNG و سپس Psiphon رو روشن کنید حدود ۱ تا ۲ دقیقه صبر کنید تا وصل بشید\n✅\n🌹\n@Config_HATunnel",
+        "date": "2026-05-12T04:32:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_66435_0_34b5e1d2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/66435"
+      },
       {
         "id": 66434,
         "text": "00:00\n❤️\n#کافه۰نادری\n\"پونه مقیمی\"\nتو یکی از نوشته هاش میگه:\nآن‌هایی که ما را همان‌گونه که هستیم\nمی پذیرند و تلاش می‌کنند\nلبخندهایمان عمیق تر\nو آرامش‌مان طولانی‌تر باشد\nهمان‌هایی هستند\nکه ماندگار می‌شوند...!\nچقدر قشنگ..\n🤍\n@Config_HATunnel",
@@ -14055,23 +14239,23 @@
       }
     ]
   },
-  "last_update": "2026-05-12T03:53:09.740411+00:00",
+  "last_update": "2026-05-12T05:30:42.616550+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 810,
-    "total_media": 1009,
-    "total_files": 1009,
-    "total_links": 202,
+    "total_posts": 818,
+    "total_media": 1024,
+    "total_files": 1024,
+    "total_links": 208,
     "files_by_type": {
-      "image": 942,
-      "video": 60,
+      "image": 952,
+      "video": 65,
       "file": 5,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1009,
-    "existing_media_files": 1008,
-    "total_size_mb": 243.03,
-    "last_calculation": "2026-05-12T03:53:09.752355+00:00"
+    "referenced_files": 1024,
+    "existing_media_files": 1023,
+    "total_size_mb": 250.25,
+    "last_calculation": "2026-05-12T05:30:42.628973+00:00"
   }
 }
