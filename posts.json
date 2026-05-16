@@ -2,6 +2,36 @@
   "channels": {
     "vslshi": [
       {
+        "id": 9715,
+        "text": "متصل :\n23.208.65.40\n104.103.65.50\n2.23.168.47\n23.215.60.41\n2.21.2.9\n2.21.2.10\n2.16.221.37\n95.101.35.112\n2.23.168.250\n2.21.2.91\n2.21.2.34\n2.21.2.104\n2.23.169.105\n2.16.20.51\n2.16.53.11\n2.16.53.50\n2.16.19.136\n151.101.0.223\n151.101.128.223\n151.101.192.223\n65.109.34.234\n151.101.64.223\n142.54.178.211\n2.16.53.50\n2.16.53.11\n95.101.133.82\n95.101.133.42\n104.103.65.50\n2.23.168.47\n104.103.64.7\n2.23.168.254\n2.23.168.144\n2.23.169.249\n2.23.169.42\n2.23.170.80\n104.103.65.5\n95.101.133.131\n104.103.65.74\n2.16.20.51\n23.221.28.57\n23.221.29.29\n23.221.28.5\n2.23.169.111\n2.23.168.96\n2.23.169.12\n2.23.168.174\n2.23.168.7\n184.84.221.34\n2.23.41.22",
+        "date": "2026-05-16T18:10:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9715_0_b42b7a79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/9715"
+      },
+      {
+        "id": 9714,
+        "text": "ایرانسل با این وصلم :\n96.17.207.142\nحالت پرواز بزارید حتما.",
+        "date": "2026-05-16T18:10:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9714_0_b42b7a79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/9714"
+      },
+      {
         "id": 9708,
         "text": "@vslshi\n🫐\n.npvt",
         "date": "2026-05-16T17:06:23+00:00",
@@ -324,6 +354,66 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vslshi/9670"
+      },
+      {
+        "id": 9669,
+        "text": "CDN edge IPs\n151.101.192.223\n151.101.64.223\n151.101.0.223\n151.101.66.137\n151.101.2.137\nCDN SNI hostname\npython.org",
+        "date": "2026-05-16T13:15:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9669_0_b42b7a79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/9669"
+      },
+      {
+        "id": 9668,
+        "text": "اموزش اتصال\n-\n@vslshi",
+        "date": "2026-05-16T12:30:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9668_0_b42b7a79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/9668"
+      },
+      {
+        "id": 9667,
+        "text": "اگه ایفون هستید، میتونید با یه گوشیه اندروید برا اعضای خانوادتون به شیرو خورشید وصل شید و بعد با ایفونتون وصل شید به هات اسپات اندروید اینطوری همچیو براتون بالا میاره ( دقت کنید شیرو خورشید روی اندروید باید حتما وصل باشه )",
+        "date": "2026-05-16T12:25:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9667_0_b42b7a79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/9667"
+      },
+      {
+        "id": 9665,
+        "text": "ایرانسل :\n23.2.13.136\n72.246.28.37\n2.18.63.49\n2.16.53.11\n2.16.53.50\n2.16.19.136\n184.24.77.7\n184.24.77.16\n184.24.77.36\n184.24.77.21\n184.24.77.42\n184.24.77.32\n184.24.77.5\n184.24.77.11\n185.200.232.49\n185.200.232.50\n185.200.232.42\n185.200.232.41\n23.48.23.186\n23.48.23.133\n23.48.23.195\n23.48.23.178\n184.24.77.29\n2.22.250.149\n23.58.193.140\n23.48.23.151\n2.19.126.81\n23.202.138.125\n23.43.237.239\n104.112.146.82",
+        "date": "2026-05-16T12:21:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_9665_0_b42b7a79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/9665"
       },
       {
         "id": 9354,
@@ -1622,149 +1712,45 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vslshi/9167"
-      },
+      }
+    ],
+    "Configir98": [
       {
-        "id": 9166,
-        "text": "دوستم کانفیگاش با سرعت بالا وصله بچها : https://t.me/+leaHkYpnlMY3MzNk استفاده کنید\n⭐️",
-        "date": "2026-05-11T01:45:03+00:00",
+        "id": 9029,
+        "text": "🔐\n𝗩𝟮𝗿𝗮𝘆𝗡𝗚\n➕\n𝗣𝘀𝗶𝗽𝗵𝗼𝗻\n📱\nvless://6248e551-1423-449e-93f5-ee02f10e37e3@arvancloud.ir:2095?encryption=none&type=ws&path=%2Fstream&host=hosting.linuweb.ir#https://t.me/Configir98\n﻿\n⭐\n@Configir98",
+        "date": "2026-05-16T17:50:17+00:00",
         "media": [
           {
             "type": "image",
-            "file": "vslshi_9166_0_2487334b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "vslshi_9166_1_e68f8e16.jpg"
+            "file": "Configir98_9029_0_770739a2.jpg"
           }
         ],
         "links": [
           {
-            "url": "https://t.me/+leaHkYpnlMY3MzNk",
+            "url": "https://t.me/Configir98",
             "type": "telegram",
-            "display_text": "https://t.me/+leaHkYpnlMY3MzNk"
+            "display_text": "https://t.me/Configir98"
           }
         ],
         "has_media": true,
         "has_links": true,
-        "source": "https://t.me/vslshi/9166"
+        "source": "https://t.me/Configir98/9029"
       },
       {
-        "id": 9165,
-        "text": "دوستم کانفیگاش با سرعت بالا وصله بچها : https://t.me/+leaHkYpnlMY3MzNk استفاده کنید\n⭐️",
-        "date": "2026-05-11T00:45:05+00:00",
+        "id": 9028,
+        "text": "🛜\n𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹 𝗡𝗮𝗽𝘀𝘁𝗲𝗿𝗻𝗲𝘁𝗩\n🛡️\nPassword:\n@Configir98\n⭐\n@Configir98",
+        "date": "2026-05-16T17:34:03+00:00",
         "media": [
           {
             "type": "image",
-            "file": "vslshi_9165_0_2487334b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "vslshi_9165_1_38691ea0.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+leaHkYpnlMY3MzNk",
-            "type": "telegram",
-            "display_text": "https://t.me/+leaHkYpnlMY3MzNk"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/vslshi/9165"
-      },
-      {
-        "id": 9164,
-        "text": "دوستم کانفیگاش با سرعت بالا وصله بچها : https://t.me/+leaHkYpnlMY3MzNk استفاده کنید\n⭐️",
-        "date": "2026-05-10T23:45:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_9164_0_2487334b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "vslshi_9164_1_4176f9c7.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+leaHkYpnlMY3MzNk",
-            "type": "telegram",
-            "display_text": "https://t.me/+leaHkYpnlMY3MzNk"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/vslshi/9164"
-      },
-      {
-        "id": 9163,
-        "text": "دوستم کانفیگاش با سرعت بالا وصله بچها : https://t.me/+leaHkYpnlMY3MzNk استفاده کنید\n⭐️",
-        "date": "2026-05-10T22:56:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_9163_0_2487334b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "vslshi_9163_1_45d4aff7.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+leaHkYpnlMY3MzNk",
-            "type": "telegram",
-            "display_text": "https://t.me/+leaHkYpnlMY3MzNk"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/vslshi/9163"
-      },
-      {
-        "id": 9161,
-        "text": "دوستم کانفیگاش با سرعت بالا وصله بچها :\nhttps://t.me/+leaHkYpnlMY3MzNk\nاستفاده کنید\n⭐️",
-        "date": "2026-05-10T22:40:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_9161_0_2487334b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "vslshi_9161_1_998831db.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+leaHkYpnlMY3MzNk",
-            "type": "telegram",
-            "display_text": "https://t.me/+leaHkYpnlMY3MzNk"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/vslshi/9161"
-      },
-      {
-        "id": 9160,
-        "text": "سایفون ( ترکیب نیس )\nHostname:\n91.240.63.193\nPort:\n2080\nHostname:\n37.152.190.145\nPort:\n1082\nHostname:\n91.222.197.45\nPort:\n8001\nHostname:\n45.148.250.241\nPort:\n8080\nHostname:\n37.152.190.145\nPort:\n8080\nHostname:\n94.101.186.25\nPort:\n8080\nHostname:\n194.225.131.88\nPort:\n9090\n-\n@vslshi",
-        "date": "2026-05-10T22:37:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_9160_0_2487334b.jpg"
+            "file": "Configir98_9028_0_770739a2.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/vslshi/9160"
-      }
-    ],
-    "Configir98": [
+        "source": "https://t.me/Configir98/9028"
+      },
       {
         "id": 9027,
         "text": "🛜\n𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹 𝗡𝗮𝗽𝘀𝘁𝗲𝗿𝗻𝗲𝘁𝗩\n🛡️\nPassword:\n@Configir98\n⭐\n@Configir98",
@@ -3426,45 +3412,45 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Configir98/8606"
-      },
+      }
+    ],
+    "vipV2rayNGnp": [
       {
-        "id": 8605,
-        "text": "🛜\n𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹 𝗡𝗮𝗽𝘀𝘁𝗲𝗿𝗻𝗲𝘁𝗩\n🛡️\nPassword:\n@Configir98\nاگه وصل نشدی با این پروکسی ترکیب کن\ntg://proxy?server=178.104.81.34&port=4455&secret=dd104462821249bd7ac519130220c25d09\n✅\n@Configir98",
-        "date": "2026-05-11T14:22:45+00:00",
+        "id": 17816,
+        "text": "🏳\nV2rayng + Psiphon\n📱\nvless://6248e551-1423-449e-93f5-ee02f10e37e3@arvancloud.ir:2095?encryption=none&type=ws&path=%2Fstream&host=hosting.linuweb.ir#https://t.me/VIPV2rayNGNP\n﻿\nلینک آموزش کلیک کن\n🦋\nChannel :\n@vipV2rayNGnp",
+        "date": "2026-05-16T17:53:04+00:00",
         "media": [
           {
             "type": "image",
-            "file": "Configir98_8605_0_cc65f84b.jpg"
+            "file": "vipV2rayNGnp_17816_0_4294e2d0.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/VIPV2rayNGNP",
+            "type": "telegram",
+            "display_text": "https://t.me/VIPV2rayNGNP"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vipV2rayNGnp/17816"
+      },
+      {
+        "id": 17815,
+        "text": "23.58.222.136\n23.73.2.148\n92.122.166.175\n172.237.127.6\n104.81.104.13\n96.17.207.137\n92.123.112.7\n96.16.122.75\n96.17.207.142\n96.17.207.143\n92.122.166.182\n104.109.128.153\n104.96.143.134\n23.73.2.141\n104.83.5.202\n23.67.136.200\n23.67.136.202\n23.65.119.52\n96.16.122.70\n92.122.166.236\n92.122.166.234\n92.122.166.237\n104.110.138.190\n173.222.200.5\n184.51.252.36\n184.51.252.38\n104.83.5.208\n96.16.122.146\n96.17.206.214\n92.122.166.197\n104.94.100.73\n104.83.15.66\n88.221.213.81\n172.239.57.117\n104.117.76.40\n184.51.252.4\n96.17.207.30\n96.16.122.83\n96.16.122.150\n23.73.207.11\n96.16.122.77\n96.17.207.155\n92.123.189.82\n96.16.122.82\n96.16.122.66\n96.7.218.219\n96.16.122.137\n184.51.252.157\n92.123.189.41\n184.86.251.12\n96.16.122.154\n96.16.122.157\n184.51.252.152\n96.17.207.12\n23.79.48.162\n96.16.122.74\n104.109.250.232\n92.123.104.7\n104.110.191.57\n184.51.233.146\n173.222.201.77\n96.16.53.134\n96.16.122.140\n184.51.252.135\n172.234.24.211\n96.16.122.149\n104.122.213.129\n104.103.72.97\n104.103.65.5\n104.83.5.210\n104.117.76.152\n104.83.5.176\n184.86.251.26\n96.16.122.133\n96.16.53.152\n96.16.53.147\n96.16.122.152\n104.126.37.162\n23.73.0.64\n96.16.122.141\n104.117.76.10\n96.16.53.158\n92.123.157.46\n104.81.175.248\n🔘\nاگه وصل نمیشی کلیک کن\n🔥\nلینک آموزش\n🔥\nلینک دانلود برنامه از سایت داخلی\n✅\n@VIPV2rayNGNP\n🔘\nاگه وصل نمیشی کلیک کن\n🔥\nلینک آموزش\n🔥\nلینک دانلود برنامه از سایت داخلی\n✅\n@VIPV2rayNGNP",
+        "date": "2026-05-16T17:40:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_17815_0_4294e2d0.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/Configir98/8605"
+        "source": "https://t.me/vipV2rayNGnp/17815"
       },
-      {
-        "id": 8604,
-        "text": "🔐\n𝗩𝟮𝗿𝗮𝘆𝗡𝗚\n➕\n𝗣𝘀𝗶𝗽𝗵𝗼𝗻\n📱\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152?type=tcp&headerType=none#https://t.me/Configir98\n✅\n@Configir98",
-        "date": "2026-05-11T14:18:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_8604_0_cc65f84b.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/Configir98",
-            "type": "telegram",
-            "display_text": "https://t.me/Configir98"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/Configir98/8604"
-      }
-    ],
-    "vipV2rayNGnp": [
       {
         "id": 17812,
         "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nوایفا\n✔\n@VIPV2rayNGNP",
@@ -5054,36 +5040,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vipV2rayNGnp/17395"
-      },
-      {
-        "id": 17394,
-        "text": "🏳\nV2rayng + Psiphon\n📱\nvless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?type=ws&security=tls&path=%2Fws&host=wro.u3er1.ir&sni=wro.u3er1.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&encryption=none#vipV2rayNGnp\nلینک آموزش کلیک کن\n🦋\nChannel :\n@vipV2rayNGnp",
-        "date": "2026-05-11T21:55:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_17394_0_478fd62a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/17394"
-      },
-      {
-        "id": 17393,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n✔\n@VIPV2rayNGNP",
-        "date": "2026-05-11T21:46:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_17393_0_478fd62a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/17393"
       }
     ],
     "Vippackager": [
@@ -6420,6 +6376,36 @@
       }
     ],
     "Broz_time": [
+      {
+        "id": 2098,
+        "text": "🇮🇷\nکانفیگ اسلیپ‌نت برای اینترنت ملی\nslipnet-enc://AULaz18x9V0UcIBTfyWS5NiGpbWYCwL/tvTTmxtRiTrGHpgt3RRgI3OCgc9kZ5cMAACpr/MvYEtnAA5Q3qLFWh+UPN3zwfqksliOfwW2Of39TDxCedBwDkfFXmlaM3YIc6enBgHdjphJ7zyi/KehN5tMi91E8m8npPfuykbCQrALmRmd08WpepdhmY2f26LHBxSANgOdtcPyDZGiFXYAyA1svksQqlvaDB1fyN5FZWV4i1ekFzc1DXanIhNMsOa4eiiXe2CGDJWYceX61itcsShbEL/zt7NnpAwoou9hFA2Kb0bKh+7Q/nFY2dspfyb9FuDjRBiDejQb1C+wPIPwS6SCt1ff85D99woFxq30oDx/o5LMxxzCuiiMApn6v7i0lR0CXGvtiVe4Ow24n/xUF5qC59VJ8bbydHPwv+EgXI1gUH0U1BFuFqDVufJd+uC+2krTwNwa/pa7jQrc1WTBktwmAlki5hw0YpsQLDwnpMow173ro+nVtIOCg6StybZFdYVIxxxQEP0p16dQJ07H/05vGzbVsxNtk8AVJggy9URQmis5brUp1CF0ZHZ4fEs+zYNQusR5RmwL3WxWvxnnz+aZ/15fN71N9P7cFetbbxkVvRs+IQEhiU0VWgduhVYYwrafVCbYomLAVHWHB5PJHTi69eJwFrBlnVilymwHch/DxPAb5JjlLCNCN4Ly\nslipnet-enc://AbB5KkgztVWBoF7MA5NIr6UJfU8lBeRnBQmba57TUBu0FCZ03aMdOltJfjTxHnKB27Gokmbe0MokblM1DDS2zDL8EqmBSPAj/+HMpQmWsLkqlp4Bhii6L33uf8h5svz5INk9ifjSYBXXdv6RPjL+qMgaik396ZT3v2UDEHydGWSbzMhud5eoHXy+wJhSG4YdqNyTq5SR7jVODzuT2gaFWc7lYYSehbbW8Itd+MNxObV9Nnevj3NdlkEBPN6In8OlqVhLjgE7/HLBMVs1BARkhupVsLk/C+QxyrSOme4hA/8DApR0AMpOy1GtBwHnbpzpALKluN8XWqatuSsG0g4cd7jEVD+sxgHNqq6TcGtmN3CST3dZXyvnv9t9MtI7i1p7O3xSr85I2wrhkRrMn6yTau9Ro1vjFqEjtYYGSkFTqhKCcNTZRWXcafrkGjUTxIN75ZnxMYvIohXQ4xiW4MMznGshmT0aTZY74rnGri0UWCskkwnqrJKg4kpITXaAkPLUdies12np9cgcO4xHwrbADPn+QRBLyt0IyuFAAD9qdTQrcV5rQuzjG3XLCVJoL3WULOPLM6j4Ni+4Y6HWKAp8M+OHZ3txgViI+uByB+n0M5jRdWBqsdFLoIVFgNPLBelQxb/M7g4nketHd91KdojpGrEiYHPgl7FTXJk/EBQlIt8tz8DIiF7VH7f6Zpt09iEGxIbC7SUp0wLJtXhZazDVUFnBygE4E2aVWHo/iNQ=\nslipnet-enc://ASOU2sDuK6jj2O4KjJwtAFKFkFzqM6kpDae62JWQpdqv2Dn3odzgDfGgzVes2MbuuSdQbad6AwoWq0cK25/URd0jIsIIjbYmLCH5UsXkKL3pk1MrZhOeJwap7Kc92o8rL2t1cc/JeCoOGJ4qYMweDsY7FN2MGtSrAFJuUdWToY/UUXBl3VqlZB9VyQq7uYRl5Vls5Yg1iInwupW6vhgunKC+9ZOqsNLGyLtvbV9IGSfvyHFzXSaV999rZtNSxIvsFhZRyKrWfwJ1Juo73L14OZZLkNV1iQsyIcQByJD7pgK3mNToPabWiz0B+FwWCpq0g0wS0m+DsSigNmwnHaYq29GmbyWz/Z9LKNx/Fdzi3f0YwrSOKP6aXXLSUwmQfXuPTZ26MjZHRTEe2VEw1MXjesQHvwhgBpHybj7zGzqqoRC3SaCLm1Pl8I2S2zVKCrw+nLuixdhgleX3kjxJbbaCKcAvfRZlhpElbUCGuurrFOs0EvbOs522D4tX/7Gq9bOCfPb0yKNG8oVsdtrX2QWW1tuvzsVgzeB61yg4fgmgcQlkX7JYUDU/GwkorLHjf2bb/6sUc9WQ2I4TotofMtO6Zw1ItIp5K4fWV8OZpJgpAZ/Kv+lF+jMrbmPPzYp34+o+tHVzfH8FvNSTZfaXlwBioonG6EAjVD48MRolyu5G0rqYslgLOWrBMvou\nslipnet-enc://AQ0PfC8OudMRs9PJNjaPWPdwqdMMEn3Ibk9gZzfJ9Jaue+uHxgcD1iwcWXmlrvRMwF4ipCcXkRbaTXHvjlPKCd8N+5+g9HxIR1fn+DeofEhsDQdFRxkros5+TYXteJQ/BBq0ZnzshtqjNElXmp9ekl8+IBxaIF72hgnAwHTOFRWtuSuCBlK9icIpnKTofohVw006qV1cyndJIAQvINCIFw9FRRTaWizZqjOUeE+bLTUvIUchA8pJU5H+/xD7XCMgAnkg85yu7WfJ9lpr2KKC3Fh9cosMPGRxwbGheA30E5lD1dLNZomTtfMSQtzptrGn6aJsHl4JVApa5G2sx/OKD8bl+Dg6GH23ImaWDOKqLc1qvAWbVuJhKoub+RIEbjqP2KyL1D/BnyJTPUJHRq/Aa4+zb6BKXu2/ItC5kFF9fpuiXsc+jbhp25FBFqc1jzgGaUmP68l5BknKC1vURpIi5DOnoQ7TayEHjIXhudXtcOL0XN+aFhyJ2Br/zVq05xwZyGFvGYVKHSsCRp/g7qAS0ZZJF/S39wywAUWIjzKWcaNOxP2mzX5LffdImBBpiNLg7Lf240Z0CXcf+t6QqnJOxSw9uVyZ1W29wvC9h9g3pA9taPw4SRJGkCQxCQW9Z4odmiUEo/01h9ZUDBZdrHdGgVj4QKhNymA08yiKT8ReZK58s7D1OkgKzeRB\n📲\nدانلود و آموزش استفاده(کلیک کن)\n👉\n🕛\n«\n@Broz_time",
+        "date": "2026-05-16T17:57:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Broz_time_2098_0_3650d924.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Broz_time/2098"
+      },
+      {
+        "id": 2097,
+        "text": "🇮🇷\nکانفیگ اسلیپ‌نت برای اینترنت ملی\nslipnet-enc://ATDPEXmu3YBVZcx7XJutmo6Fm5ue3GsCUN+gIxmec+1SXe72d04/9WPk4ZvC2kAWxZNrZmN7KcGbmfl5fS57sYG1tP12HYXgsID2LcNAXoua24fmAHbIwEwC0zJ/QjQZpNvrtOVizxpkGcRXGO/X3zXmY21xevKz4HUqINAgz3azl+8J2v1G54gUbf9qd/m4L4nOFnhqzvW12S934h2sifpi7MvxupjJpmSkZ2PjsTHsqyJ4mnegAPzjRLyUlwLz0+KzSTNH8a49P1hjn6VrcKOIipYO9B2MpmqXr0lK2RMFftRk3CmsX5AH75UQHDRA3Sag5UnBEc8oOJVhGqRZHATDZtg/h0CKeHUDb1a8+CSTzrKpK5dGiChgUjJD7gOd/tE3QCkEhprt+P25nIPqmr25GBh+kZZkY3WKBZkH+4guSJhaTxWBZrSccf/7g/8QHu7MXx8BzOi6TtvkVMhFnGodrzYzLaVjVja90pzCzg/RKjeJ7ny84YN3D1XU0P7lTGF3wcPdJ46pNtYTkNDLX/DdBegVCkertjtC98LJitL8zZgCwTobPaueFZJV5PwP3k47CNPTVSFNxixkeypqWNlYf0/BsqsFZcV2oyPXl8bi8d3J+cNRqGJVGCPkstLanvuxb3u5XeDXgPUBABwQgesMUzFVlQ1DGs3FGiXW7EV//Eoyok03of+Vh9HvQy3tCITgF7HIVz9p/tq+aDaqI9Y9CNJ3+oFjIQH4T5WPzeJ0sQ0O5Iytobw2TH5g9g/WFu0p/ruetIrIUAcS/9g2\n📲\nدانلود و آموزش استفاده(کلیک کن)\n👉\n🕛\n«\n@Broz_time",
+        "date": "2026-05-16T17:13:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Broz_time_2097_0_3650d924.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Broz_time/2097"
+      },
       {
         "id": 2096,
         "text": "🇮🇷\nکانفیگ اسلیپ‌نت برای اینترنت ملی\nslipnet-enc://AULaz18x9V0UcIBTfyWS5NiGpbWYCwL/tvTTmxtRiTrGHpgt3RRgI3OCgc9kZ5cMAACpr/MvYEtnAA5Q3qLFWh+UPN3zwfqksliOfwW2Of39TDxCedBwDkfFXmlaM3YIc6enBgHdjphJ7zyi/KehN5tMi91E8m8npPfuykbCQrALmRmd08WpepdhmY2f26LHBxSANgOdtcPyDZGiFXYAyA1svksQqlvaDB1fyN5FZWV4i1ekFzc1DXanIhNMsOa4eiiXe2CGDJWYceX61itcsShbEL/zt7NnpAwoou9hFA2Kb0bKh+7Q/nFY2dspfyb9FuDjRBiDejQb1C+wPIPwS6SCt1ff85D99woFxq30oDx/o5LMxxzCuiiMApn6v7i0lR0CXGvtiVe4Ow24n/xUF5qC59VJ8bbydHPwv+EgXI1gUH0U1BFuFqDVufJd+uC+2krTwNwa/pa7jQrc1WTBktwmAlki5hw0YpsQLDwnpMow173ro+nVtIOCg6StybZFdYVIxxxQEP0p16dQJ07H/05vGzbVsxNtk8AVJggy9URQmis5brUp1CF0ZHZ4fEs+zYNQusR5RmwL3WxWvxnnz+aZ/15fN71N9P7cFetbbxkVvRs+IQEhiU0VWgduhVYYwrafVCbYomLAVHWHB5PJHTi69eJwFrBlnVilymwHch/DxPAb5JjlLCNCN4Ly\n📲\nدانلود و آموزش استفاده(کلیک کن)\n👉\n🕛\n«\n@Broz_time",
@@ -8106,39 +8092,148 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Broz_time/1934"
-      },
-      {
-        "id": 1933,
-        "text": "🇮🇷\nکانفیگ ترکیب ویتوری+سایفون برای تمومی اپراتور ها نامحدود مولتی لوکیشن (ممکنه یسری مناطق کار بکنه و یسری مناطق دیگ کار نکنه)\n⭐️\nvless://d9ae4879-27cf-4fed-90aa-3a606eaab4bc@snapp.ir:80?encryption=none&type=ws&path=%2F&host=arvanabr-iran.followon.ir#@vasl_bashim\n⚡️\nفیلترینگ شدید و نت ملی رو باهاش دور بزن !\n🕛\n«\n@Broz_time",
-        "date": "2026-05-09T13:30:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Broz_time_1933_0_71df1048.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Broz_time/1933"
-      },
-      {
-        "id": 1932,
-        "text": "🇮🇷\nکانفیگ اسلیپ‌نت برای اینترنت ملی\nslipnet-enc://AYPjl970dZuW1IxXnjcAhOmpuKaeGwGab0PnA/20xdXj3Wk6IEx/28YO+COR7SW5bDuKuwnVnV5L011mdpowTcdF2wSd1SL2ghJWZuhoCGHbEAaRG18aUL/Nqb32lMaH1ftQEBF5vgjmCW7kOB5AQFKCQKDfr3lDfob49xDTqqCf8DqUVSdqRf9cGXo+/Pao5ofw26hqYUTIr5BTRZssZOTgObZ/eyTQtlVOiTMBVWz4OCMrM+diOKuhvrnT0GAfN3PS4w7zL7FrErBzTWs7aC2xyn6VslZVTM6I5+p+eAHUVt9ZSpD35zwf1aen35XOyggJ6wljHpBUmPlZ6VEiveFFI5I/fDO/pnM2f7crfG9MPNHZCHrYKw3Uo6ISp65brAkywobyhimnu7qd0tdxWhhgGZQmi8wx0BC0WfRT01r8RTB3dnAFwAFMOeh8WDXQOKdvmi+tCIWKz9HCHvVp5Eh8tbIqb5q+9CJnc05/O0Usr/yvWqI1XhhgY9z19R5hiH+fqvQA0gm+93DUV6NT7KE/4UP9mMz+8MrlebM+OQ/5ZT2NWFooqz9M1F2Gn237/bHmQ2rjGMYt2iGLHnHRgTqXTuhv09JJtqxD2Bit3IHUl44vzx51+m081d47x9UxDfJ0fB4OWCQvCrpaUPJcxZYIHtocrSfI8SbEVDUCDm1gxc0jICjANY5I5v1orFyuOnT8eKmHwcL4G85zbOZcpMUd+PGHhp4PDfkjbT8h13U=\n📲\nدانلود و آموزش استفاده(کلیک کن)\n👉\n🕛\n«\n@Broz_time",
-        "date": "2026-05-09T13:29:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Broz_time_1932_0_71df1048.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Broz_time/1932"
       }
     ],
     "IranintlTV": [
+      {
+        "id": 337513,
+        "text": "آموزش استفاده از سلاح گرم و شلیک در تلویزیون جمهوری اسلامی با واکنش‌های گسترده‌ای همراه شده است. حسین قاضیان، جامعه‌شناس، می‌گوید نمایش اسلحه در رسانه رسمی یک حکومت نماد سرکوب سیاسی است و این پیام را به مخاطب منتقل می‌کند که به او شلیک می‌شود.\n@iranintltv",
+        "date": "2026-05-16T18:14:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_337513_0_c9278480.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_337513_1_c9ca61e3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/337513"
+      },
+      {
+        "id": 337512,
+        "text": "🔻\nامیر قلعه‌نویی، سرمربی تیم ملی فوتبال پس از اعلام فهرست خود برای جام جهانی که نام سردار آزمون در آن دیده نمی‌شود، گفت: «خدا را گواه می‌گیرم در انتخاب بازیکنان چیزی جز معیارهای فنی موضوع دیگری دخیل نبوده و من تنها بر اساس این معیار ٣٠ بازیکن را انتخاب کردم.»\n🔹\nاین درحالی است که سردار پس از موضع‌گیری‌هایی در مخالفت با جمهوری اسلامی، ‌تاکنون به اردوهای تیم ملی دعوت نشده است.\n🔹\nقلعه‌نویی در گفتگویی که فدراسیون فوتبال منتشر کرده، درباره این لیست گفت: «پس از این چهار دور تمرین، انتخاب ٣٠ بازیکن برای حضور در اردوی آماده سازی نهایی تیم ملی پیش از شرکت در جام جهانی یکی از سخت‌ترین تصمیمات فنی دوران مربیگری من بود.»\n🔹\nاو گفت: «یکی از بهترین دوران‌های آماده سازی تیم ملی را در چهار دور تمرین پشت سرگذاشتیم و این فرصت را داشتم که گروهی از شریف‌ترین بازیکنان فوتبال ایران را در این چهار مرحله تمرین دهم.»\n🔹\nسرمربی تیم ملی گفت: «در ۴٨ ساعت اخیر مجبور بودم با وجود شایستگی فنی همه بازیکنانی که در این دو سال اخیر در ماتریس تیم ملی حضور داشتند، تنها ٣٠ بازیکن را انتخاب کنم.»\n@iranintltvsport",
+        "date": "2026-05-16T18:11:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_337512_0_c9278480.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_337512_1_9ad18cc0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/337512"
+      },
+      {
+        "id": 337511,
+        "text": "ایرانیان آلمان روز شنبه همزمان با سایر کشورها در حمایت از انقلاب ملی علیه جمهوری اسلامی در شهر کاسل تجمع کردند.",
+        "date": "2026-05-16T17:59:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_337511_0_c9278480.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_337511_1_3afda47e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/337511"
+      },
+      {
+        "id": 337510,
+        "text": "🔻\nامیر قلعه‌نویی، سرمربی تیم ملی لیست ۳۰ نفره خود برای جام جهانی ۲۰۲۶ را اعلام کرد. در این لیست، نام سردار آزمون دیده نمی‌شود. سردار پس از موضع‌گیری‌هایی در مخالفت با جمهوری اسلامی، ‌از تیم ملی خط خورد.\n🔹\nاین اسامی درحالی اعلام شده است که هنوز تکلیف ویزای تیم ملی مشخص نیست.\n🔹\nاسامی بازیکنان دعوت شده به اردوی تیم ملی در ترکیه به شرح زیر است؛\nدروازه‌بان‌ها\n🔹\nعلیرضا بیرانوند، حسین حسینی، پیام، نیازمند، محمد خلیفه\nمدافعان\n🔹\nاحسان حاج صفی، میلاد محمدی، امید نورافکن، شجاع خلیل زاده، علی نعمتی، حسین کنعانی، دانیال ایری، رامین رضاییان، صالح حردانی\nهافبک‌ها\n🔹\nسامان قدوس، روزبه چشمی، امیرمحمد رزاق نیا، سعید عزت‌اللهی، محمد قربانی،علیرضا جهانبخش، آریا یوسفی، محمد محبی، مهدی قائدی، مهدی ترابی\nمهاجمان\n🔹\nمهدی طارمی، هادی حبیبی‌نژاد، امیرحسین حسین‌زاده، امیرحسین محمودی، دنیس درگاهی، کسری طاهری و علی علیپور\n🔹\nمسعود محبی، دانیال اسماعیلی‌فر، حسین ابرقویی‌نژاد، عارف آقاسی، مهدی هاشم‌نژاد، محمد مهدی محبی، عارف حاجی عیدی و احسان محروقی ۸ بازیکنی هستند که در اردوهای پیشین حضور داشتند، اما خط خوردند.\n@iranintltvsport",
+        "date": "2026-05-16T17:52:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_337510_0_c9278480.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_337510_1_aab9b16a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/337510"
+      },
+      {
+        "id": 337508,
+        "text": "کانال ۱۳ اسرائیل گزارش داد که ارزیابی‌ها در ارتش اسرائیل حاکی از آن است که ترامپ در بازگشت از چین، دستور حمله به جمهوری اسلامی را صادر می‌کند تا برای سومین بار در کمتر از یک سال، تهران را غافلگیر کند. بر اساس این گزارش، کشتن مقام‌های ارشد جمهوری اسلامی، از اهداف حمله خواهد بود.\nکانال ۱۳ نوشت: «هدف این است که به حکومت ایران ضربه وارد شود و جمهوری اسلامی از موضع ضعف به میز مذاکرات بازگردانده شود. طبق طرح‌ها، حمله برنامه‌ریزی‌شده شامل هدف قرار دادن زیرساخت‌های حاکمیتی، اهداف انرژی و نیروگاه‌ها خواهد بود.»\nدر ادامه این گزارش آمده است: «برآورد می‌شود که نیروی هوایی در این حمله مشترک تلاش کند مقام‌های ارشد حکومت ایران را هدف قرار بدهد. ارتش اسرائیل امیدوار است جنگ تنها چند روز ادامه داشته باشد.»\nhttps://iranintl.com/202605167005",
+        "date": "2026-05-16T17:40:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_337508_0_c9278480.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_337508_1_669dc1c2.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605167005",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605167005"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/337508"
+      },
+      {
+        "id": 337507,
+        "text": "نیویورک‌تایمز گزارش داد آمریکا و اسرائیل در حال گسترده‌ترین آمادگی نظامی از زمان برقراری آتش‌بس هستند و تنها تصمیم نهایی دونالد ترامپ باقی مانده است.\nگفت‌وگو با اشکان صفایی و اردوان روزبه، خبرنگاران ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-05-16T17:31:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_337507_0_c9278480.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_337507_1_a4583b43.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/337507"
+      },
+      {
+        "id": 337506,
+        "text": "برخی مجری‌های صداوسیمای جمهوری اسلامی در برنامه‌های زنده تلویزیونی با اسلحه روی آنتن رفتند. در شبکه افق، وابسته به سپاه پاسداران، یک نیروی نظامی با صورت پوشیده نحوه استفاده از سلاح را آموزش داد و مجری برنامه هم در استودیو شلیک کرد و گفت گلوله‌ها به سمت پرچم امارات شلیک شده‌اند.\nگفت‌وگو با ایمان آقایاری، فعال سیاسی\n@iranintltv",
+        "date": "2026-05-16T17:25:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_337506_0_c9278480.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_337506_1_96b42e7b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/337506"
+      },
       {
         "id": 337505,
         "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند ایرانیان مقیم آلمان روز جمعه ۲۶ اردیبهشت علیه جمهوری اسلامی در شهر هامبورگ راهپیمایی کردند و شعار «شرم بر این سه فاسد، ملا چپی مجاهد» سردادند.",
@@ -10169,151 +10264,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/336842"
-      },
-      {
-        "id": 336841,
-        "text": "ستاد فرماندهی مرکزی آمریکا، سنتکام، اعلام کرد ناو هواپیمابر آبراهام لینکلن به عملیات خود در دریای عرب، از جمله اجرای محاصره دریایی علیه جمهوری اسلامی، ادامه می‌دهد و تاکنون یک کشتی تجاری را وادار به تغییر مسیر کرده است.\nجزییات بیشتر با مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-12T15:52:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336841_0_b8513ddd.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336841_1_f70ca1fd.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336841"
-      },
-      {
-        "id": 336840,
-        "text": "روزنامه وال‌استریت ژورنال گزارش داد جمهوری اسلامی در آستانه سفر دونالد ترامپ به چین، از طریق سفیر خود در پکن در تلاش است پیامی را به واشینگتن منتقل کند.\nسمیرا قرایی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
-        "date": "2026-05-12T15:45:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336840_0_b8513ddd.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336840_1_4712b20e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336840"
-      },
-      {
-        "id": 336839,
-        "text": "یک شهروند در پیامی به ایران اینترنشنال با اشاره به هشدار ترامپ درباره حمله و بردن ایران به «عصر حجر» گفت که جمهوری اسلامی با قطع اینترنت این کار را کرد و نه ترامپ. پیام این مخاطب و تصویر این پست با هوش مصنوعی خوانده و ساخته شده است.",
-        "date": "2026-05-12T15:36:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336839_0_b8513ddd.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336839_1_62ce2c14.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336839"
-      },
-      {
-        "id": 336838,
-        "text": "وزارت خارجه کویت اعلام کرد که سفیر جمهوری اسلامی را در پی نفوذ یک گروه وابسته به سپاه پاسداران به جزیره بوییان احضار کرده است.\nوزارت کشور کویت اعلام کرد چهار نفری که به‌صورت غیرقانونی از راه دریا وارد این کشور شده بودند، در جریان بازجویی به عضویت در سپاه پاسداران انقلاب اسلامی اعتراف کردند.\nدر بیانیه این وزارتخانه آمده است این افراد اعتراف کردند مامور شده بودند با استفاده از یک قایق ماهیگیری که به‌طور ویژه برای اجرای اقدامات خصمانه علیه کویت اجاره شده بود، به جزیره بوبیان نفوذ کنند.\nبر اساس این بیانیه، این افراد با نیروهای مسلح کویت درگیر شدند که در نتیجه آن یکی از نیروهای کویتی زخمی شد و دو نفر از عناصر نفوذی گریختند.\nhttps://iranintl.com/202605121020",
-        "date": "2026-05-12T15:24:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336838_0_b8513ddd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_336838_1_a8fa9ad7.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605121020",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605121020"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/336838"
-      },
-      {
-        "id": 336837,
-        "text": "بررسی‌های ایران‌اینترنشنال نشان می‌دهد سپاه پاسداران انقلاب اسلامی برای دور زدن تحریم‌های آمریکا، از صرافی‌های ترکیه و هواپیماهای خصوصی استفاده می‌کند. این اقدامات پس از آن صورت گرفت که مسیرهای پیشین تامین ارز جمهوری اسلامی در امارات متحده عربی قطع شده است.\nجزییات بیشتر با آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-12T15:04:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336837_0_b8513ddd.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336837_1_a266f680.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336837"
-      },
-      {
-        "id": 336836,
-        "text": "پیت هگست، وزیر جنگ آمریکا، سه‌شنبه در کنگره این کشور درباره جنگ علیه جمهوری اسلامی اعلام کرد که ارتش ایالات متحده برنامه‌ای برای خروج نیروها از منطقه خاورمیانه دارد، اما در عین حال برای تشدید درگیری یا جابه‌جایی تجهیزات در صورت لزوم نیز برنامه‌ریزی کرده است.\nاو افزود: «ما دقیقا می‌دانیم چه چیزی در اختیار داریم. هر آنچه نیاز داریم به اندازه کافی داریم.»\nاو گفت به صنایع دفاعی گفته شده است که «بیشتر و سریع‌تر تولید کنند»، و در عین حال ظرفیت ناکافی مجتمع‌های صنعتی-نظامی را ناشی از دولت‌های پیشین و کمک‌های آمریکا به اوکراین در جنگش با روسیه دانست.\nhttps://iranintl.com/202605122781",
-        "date": "2026-05-12T15:02:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336836_0_b8513ddd.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_336836_1_740570e8.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605122781",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605122781"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/336836"
-      },
-      {
-        "id": 336835,
-        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، اعلام کرد اطمینان دارد جمهوری اسلامی غنی‌سازی اورانیوم را به‌طور کامل متوقف خواهد کرد. او همچنین گفت آمریکا برای رسیدن به توافق عجله‌ای ندارد، زیرا جمهوری اسلامی از بخش مهمی از درآمدهایش محروم شده است.\nگفت‌وگو با شایان سمیعی، کارشناس امنیت ملی\n@iranintltv",
-        "date": "2026-05-12T14:51:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336835_0_b8513ddd.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336835_1_5164fe88.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/336835"
       }
     ],
     "tavaanatech": [
@@ -11444,6 +11394,21 @@
       }
     ],
     "whitedns": [
+      {
+        "id": 653,
+        "text": "🔠\n🔠\n🔠\n🔠\n🔠\n🔠\n🔠\n🔠\n.",
+        "date": "2026-05-16T17:35:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_653_0_28ebc9de.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/653"
+      },
       {
         "id": 652,
         "text": "WhiteDns-Windows-Setup.exe",
@@ -15575,6 +15540,36 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 66512,
+        "text": "184.24.77.16\n184.24.77.42\n2.19.205.33\n2.19.205.27\n2.19.205.105\nآی پی شیر و خورشید\n@Config_HATunnel",
+        "date": "2026-05-16T18:07:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_66512_0_90af9368.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/66512"
+      },
+      {
+        "id": 66511,
+        "text": "185.200.232.43\n185.200.232.40\n167.82.48.223\n151.101.128.223\n185.200.232.49\n185.200.232.50\n185.200.232.42\n185.200.232.41\n184.24.77.42\n184.24.77.32\n184.24.77.5\n184.24.77.7\n184.24.77.16\n184.24.77.36\n184.24.77.21\n184.24.77.11\n23.48.23.186\n23.48.23.133\n23.48.23.195\n23.48.23.178\n184.24.77.29\nایپی شیر و خورشید\n@Config_HATunnel",
+        "date": "2026-05-16T17:27:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_66511_0_90af9368.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/66511"
+      },
+      {
         "id": 66510,
         "text": "‏کاش اورانیوم بودم.\nمهم، غنی، و سر به دست آوردنم دعوا بود.\nهمراه اول تست شده\nمتصل\n✅\nhttps://t.me/proxy?server=213.233.184.133&port=3600&secret=ee7bc0e175a4b8ffef72a2caec6e22c3d57777772e636c6f7564666c6172652e636f6d\n@Config_HATunnel",
         "date": "2026-05-16T16:39:39+00:00",
@@ -16755,6 +16750,40 @@
       }
     ],
     "apkclub": [
+      {
+        "id": 70341,
+        "text": "☝️\nاین پیامک رو‌ تعدادی از دوستان نزدیک بنده دریافت کردند که مهم و قابل توجه بوده\n💡\nاگر تجربه ی مشابه دارید به اشتراک بگذارید\n⭐️\n@apkclub",
+        "date": "2026-05-16T17:44:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_70341_0_6fc8ea6a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "apkclub_70341_1_81076e02.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/70341"
+      },
+      {
+        "id": 70340,
+        "text": "",
+        "date": "2026-05-16T17:43:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_70340_0_6fc8ea6a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/70340"
+      },
       {
         "id": 70337,
         "text": "رابین هود زمانه ات را بشناس",
@@ -18929,23 +18958,23 @@
       }
     ]
   },
-  "last_update": "2026-05-16T17:27:29.142414+00:00",
+  "last_update": "2026-05-16T18:14:57.243267+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 1056,
-    "total_media": 1361,
-    "total_files": 1361,
-    "total_links": 336,
+    "total_posts": 1061,
+    "total_media": 1362,
+    "total_files": 1362,
+    "total_links": 331,
     "files_by_type": {
-      "image": 1281,
+      "image": 1283,
       "file": 5,
-      "video": 72,
+      "video": 71,
       "audio": 2,
       "document": 1
     },
-    "referenced_files": 1361,
-    "existing_media_files": 1360,
-    "total_size_mb": 369.45,
-    "last_calculation": "2026-05-16T17:27:29.158492+00:00"
+    "referenced_files": 1362,
+    "existing_media_files": 1361,
+    "total_size_mb": 359.93,
+    "last_calculation": "2026-05-16T18:14:57.259308+00:00"
   }
 }
