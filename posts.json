@@ -2,6 +2,27 @@
   "channels": {
     "vslshi": [
       {
+        "id": 10613,
+        "text": "به هر کانفیگی وصلید دایرکت بفرستید بذارم برا بقیه.\nhttps://t.me/vslshi?direct",
+        "date": "2026-05-27T15:53:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_10613_0_6813128e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/vslshi?direct",
+            "type": "telegram",
+            "display_text": "https://t.me/vslshi?direct"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vslshi/10613"
+      },
+      {
         "id": 10611,
         "text": "https://t.me/+yycanp5i-uVhN2Ex",
         "date": "2026-05-27T15:26:52+00:00",
@@ -1573,25 +1594,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vslshi/10473"
-      },
-      {
-        "id": 10472,
-        "text": "ویتو متصل پرسرعت vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/de&sni=de.xn--q9jyb4c.online&fp=chrome&mode=stream-one#@vslshi سرعتی",
-        "date": "2026-05-26T17:57:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_10472_0_a8e58838.jpg"
-          },
-          {
-            "type": "image",
-            "file": "vslshi_10472_1_5b1b44c9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vslshi/10472"
       }
     ],
     "Configir98": [
@@ -8410,6 +8412,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 339261,
+        "text": "خبرگزاری رویترز گزارش داد یک نفتکش حامل فرآورده‌های نفتی متعلق به گروه کشتیرانی چینی کاسکو، چهارشنبه در حال عبور از تنگه هرمز بود؛ با این حال داده‌های کشتیرانی نشان می‌دهد تردد نفتکش‌ها در این مسیر همچنان محدود است.\nبر اساس این گزارش، پیش از آغاز جنگ علیه ایران در اسفند ۱۴۰۴، میانگین تردد روزانه کشتی‌ها از تنگه هرمز بین ۱۲۵ تا ۱۴۰ عبور بود، اما از آن زمان میانگین کلی عبور روزانه حدود ۱۱ کشتی بوده است.\nداده‌های رهگیری نشان می‌دهد در یک روز گذشته دو نفتکش حامل نفت خام نیز از تنگه هرمز عبور کرده‌اند و ۹ کشتی دیگر وارد خلیج فارس شده یا از آن خارج شده‌اند.\nشرکت کارگزاری نفتکش گیبسون اعلام کرد با وجود نشانه‌هایی از افزایش عبور نفتکش‌ها، جریان انتقال نفت و فرآورده‌های نفتی در مقایسه با دوران پیش از جنگ همچنان بسیار محدود است و بازگشت تردد به سطح پیشین به تضمین‌های امنیتی، پاکسازی مین‌ها و چارچوب تازه بیمه‌ای نیاز دارد.\nhttps://iranintl.com/202605278755",
+        "date": "2026-05-27T15:55:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339261_0_17b62bc2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339261_1_ff309067.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605278755",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605278755"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339261"
+      },
+      {
         "id": 339260,
         "text": "🔻\nنیمار، ستاره تیم ملی برزیل، نگرانی‌ها درباره آخرین مصدومیتش را رد کرد و گفت مشکلی برای حضور در جام جهانی ۲۰۲۶ ندارد. او در گفت‌وگو با خبرنگاران درباره شرایط خود گفت: «مشکل چیه؟ کاملا سالم هستم.»\n🔹\nستاره ۳۴ ساله برزیلی که برای سانتوس بازی می‌کند، سه‌شنبه شب از روی سکوهای ورزشگاه ویلا بلمیرو پیروزی ۳ بر صفر تیمش مقابل دپورتیوو کوئنکا در کوپا سودامریکانا را تماشا کرد؛ دیداری که توجه خبرنگاران را به وضعیت جسمانی او جلب کرد.\n🔹\nنیمار اخیرا در مسابقه مقابل کوریتیبا دچار التهاب در ناحیه ساق پا شد و همین مسئله نگرانی‌‌هایی درباره آمادگی او برای جام جهانی ایجاد کرد. با این حال، او در پاسخ به سوال خبرنگاران درباره وضعیت پایش گفت: «اینجاست، کاملا سالم!»\n🔹\nوقتی خبرنگاران از او پرسیدند آیا این مشکل می‌تواند برای حضورش در جام جهانی دردسرساز شود، نیمار با لحنی تند پاسخ داد: «مشکل چیه؟» او با این پاسخ کوتاه تلاش کرد به شایعات درباره احتمال غیبتش در جام جهانی پایان دهد.\n@iranintltvsport",
         "date": "2026-05-27T15:42:09+00:00",
@@ -10451,25 +10478,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/339132"
-      },
-      {
-        "id": 339131,
-        "text": "امیرحسین ثابتی، نماینده تهران در مجلس، گفت برخی با روایت‌های نادرست، تصمیم‌گیری در جمهوری اسلامی را دیکتاتورمآبانه جلوه می‌دهند. او با رد این برداشت، تاکید کرد علی خامنه‌ای و مجتبی خامنه‌ای، رهبر کشته‌شده و رهبر جدید جمهوری اسلامی، دیکتاتور نیستند و تصمیم‌ آنها بر پایه خواست مردم است.\nپیش‌تر، مسعود پزشکیان گفته بود در جریان جنگ ۱۲ روزه با علی خامنه‌ای دیدار داشته و او درباره چگونگی انجام مذاکره توضیح داده و قبول کرده که مذاکره انجام شود.\n@iranintltv",
-        "date": "2026-05-26T17:37:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339131_0_528880cb.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339131_1_9019251a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339131"
       }
     ],
     "tavaanatech": [
@@ -12253,6 +12261,21 @@
       }
     ],
     "whitedns": [
+      {
+        "id": 826,
+        "text": "#موقت\nدوستان این یک کانفیگ اختصاصی ۱۰ گیگ از تیم ما برای تست سرویس جدیدمون هستش.\nلطفا تست کنید و به ما بگید که کار میکنه یا نه\nvless://516de717-7301-4ae3-80d9-f68056f8ea14@159.69.118.154:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=v.whitedns.best&mode=auto&path=%2F2015&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#WhiteDNS-Channel-10.00GB%F0%9F%93%8A",
+        "date": "2026-05-27T15:55:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_826_0_97e8eaf5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/826"
+      },
       {
         "id": 824,
         "text": "🔥\nنسخه WhiteDNS Desktop V1.0.0-beta4  با کمی بازتر شدن شرایط فیلترینگ و قابل‌استفاده‌تر شدن روش‌های پایدارتر، تصمیم گرفتیم پشتیبانی از V2Ray را به نسخه کامپیوتر اضافه کنیم.  در این نسخه VLESS، VMess و Trojan پشتیبانی می‌شوند، امکان وارد کردن کانفیگ و Subscription…",
@@ -14066,20 +14089,6 @@
             "text": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2"
           }
         ],
-        "has_media": true
-      },
-      {
-        "id": 501,
-        "text": "دوستان سلام\nتلگرام قابلیتی به نام Search دارد. لطفاً قبل از پرسیدن هر سؤال، چند لحظه وقت بگذارید و ابتدا در کانال و سپس در گروه جستجو کنید.\nتعداد سؤال‌های تکراری به‌قدری زیاد شده که دیگر قابل مدیریت نیست و واقعاً آزاردهنده شده است. این روند فقط زمان و انرژی را هدر می‌دهد.\nزمانی که باید برای کارهای مهم‌تری مثل توسعهٔ اپلیکیشن‌ها و بررسی موارد جدید صرف کنیم، متأسفانه مجبوریم آن را برای پاسخ دادن به سؤال‌های تکراری و غیرضروری اختصاص دهیم.\nاکیدا از پرسیدن سوالات تکراری خودداری کنید\n@whitedns",
-        "date": "2026-05-08T08:29:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_501_0.jpg",
-            "url": "https://cdn4.telesco.pe/file/dNCPixP5qC0ENjIOfTir0KsxVpqbbTeBgs7YeFPNlCwixnxSjdfc-ZDyu3MzQeRwDSNvwQbMPFbCNtoJ5h_DngJPDxicUrxw8VfBODr1ZsjLEAO4bbHMJGpUdF6ajYgkS_OfcrQlMvYLbYMN2UtARJlF4-LGckXQytPohd0Z3BuHDDGhjAhTC7aTguZPuwW70Pmi3OLCIFZ5E8fwNm7EzHT9bPfssKDb1d4U6itwjo1mNu9xjQi-sRuF2Z3RY130nxNmtxRhooSRM2qyvN8OCEQabA1jQJREDFwjF2rXzdgYZnWxqNGBNiSQofrtNrq0saICOjDgsLylxF4vwlLmMA.jpg"
-          }
-        ],
-        "links": [],
         "has_media": true
       }
     ],
@@ -22920,22 +22929,22 @@
       }
     ]
   },
-  "last_update": "2026-05-27T15:42:38.433012+00:00",
+  "last_update": "2026-05-27T15:58:28.284381+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1306,
-    "total_media": 1678,
-    "total_files": 1678,
-    "total_links": 334,
+    "total_media": 1677,
+    "total_files": 1677,
+    "total_links": 336,
     "files_by_type": {
       "image": 1603,
-      "video": 69,
+      "video": 68,
       "file": 4,
       "audio": 2
     },
-    "referenced_files": 1678,
-    "existing_media_files": 1677,
-    "total_size_mb": 322.27,
-    "last_calculation": "2026-05-27T15:42:38.452694+00:00"
+    "referenced_files": 1677,
+    "existing_media_files": 1676,
+    "total_size_mb": 321.69,
+    "last_calculation": "2026-05-27T15:58:28.299901+00:00"
   }
 }
