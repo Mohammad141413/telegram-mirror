@@ -2,6 +2,42 @@
   "channels": {
     "vslshi": [
       {
+        "id": 10705,
+        "text": "خیلیا مجددا قطع شدن و تا چند ساعت دیگه‌ نتا ملی می‌شه، تنها چنلی که پروکسی و کانفیگ متصل داره فعلا همینه  :\nhttps://t.me/+BZ3VtIZRMH4wY2Ux",
+        "date": "2026-05-28T19:13:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_10705_0_33dc1e9c.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+BZ3VtIZRMH4wY2Ux",
+            "type": "telegram",
+            "display_text": "https://t.me/+BZ3VtIZRMH4wY2Ux"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vslshi/10705"
+      },
+      {
+        "id": 10704,
+        "text": "پروکسی\ntg://proxy?server=13.61.181.60&port=80&secret=dd104462821249bd7ac519130220c25d09",
+        "date": "2026-05-28T17:12:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_10704_0_33dc1e9c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/10704"
+      },
+      {
         "id": 10703,
         "text": "خیلیا مجددا قطع شدن و تا چند ساعت دیگه‌ نتا ملی می‌شه، تنها چنلی که پروکسی و کانفیگ متصل داره فعلا همینه  : https://t.me/+Afxhi1Vsw99lOGZk",
         "date": "2026-05-28T16:20:01+00:00",
@@ -1652,39 +1688,99 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/vslshi/10579"
-      },
-      {
-        "id": 10578,
-        "text": "چندثانیه زمان بدید سرعتش عالیه\n❤️\nPassword:\n@vslshi\nتو زدن پسورد دقت کنید فقط ایدیه.",
-        "date": "2026-05-27T10:24:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_10578_0_6813128e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vslshi/10578"
-      },
-      {
-        "id": 10577,
-        "text": "چندثانیه زمان بدید سرعتش عالیه\n❤️\nPassword:\n@vslshi\nتو زدن پسورد دقت کنید فقط ایدیه.",
-        "date": "2026-05-27T10:16:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_10577_0_6813128e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vslshi/10577"
       }
     ],
     "Configir98": [
+      {
+        "id": 10155,
+        "text": "⭕️\n1500 تا کانفیگ اختصاصی\n🎁\nداخل ربات شارج شده\nهمین الان\nمیتونین با دعوت دوستاتون یک سرور اختصاصی به حجم\n🚀\n20 گیگ\n🚀\nدریافت کنین\n💎\n😀\n@ConfigFreeiR_Bot",
+        "date": "2026-05-28T18:39:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_10155_0_772ca5f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/10155"
+      },
+      {
+        "id": 10154,
+        "text": "موشک\n🚀\n.npvt",
+        "date": "2026-05-28T18:13:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_10154_0_772ca5f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/10154"
+      },
+      {
+        "id": 10153,
+        "text": "🛜\nکانفیگ Npv\nبرای نت ملی\n🛡\nمناسب برای تمامی نت ها\n🇮🇷\nبه امید فردایی بهتر\nT.me/CONFiGiR98",
+        "date": "2026-05-28T18:08:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_10153_0_772ca5f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/10153"
+      },
+      {
+        "id": 10152,
+        "text": "🛜\nکانفیگ Npv\nبرای نت ملی\n🛡\nمناسب برای تمامی نت ها\n🇮🇷\nبه امید فردایی بهتر\nT.me/CONFiGiR98",
+        "date": "2026-05-28T17:43:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_10152_0_772ca5f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/10152"
+      },
+      {
+        "id": 10151,
+        "text": "🛜\nکانفیگ Npv\nبرای نت ملی\n🛡\nمناسب برای تمامی نت ها\n🇮🇷\nبه امید فردایی بهتر\nT.me/CONFiGiR98",
+        "date": "2026-05-28T17:09:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_10151_0_772ca5f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/10151"
+      },
+      {
+        "id": 10149,
+        "text": "🛜\nکانفیگ Npv\nبرای نت ملی\n🛡\nمناسب برای تمامی نت ها\n🇮🇷\nبه امید فردایی بهتر\nT.me/CONFiGiR98",
+        "date": "2026-05-28T16:32:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_10149_0_772ca5f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/10149"
+      },
       {
         "id": 10148,
         "text": "🛜\nکانفیگ Npv\nبرای نت ملی\n🛡\nمناسب برای\n🛜\n🛜\n🛜\n🇮🇷\nبه امید فردایی بهتر\nT.me/CONFiGiR98",
@@ -3118,99 +3214,246 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Configir98/10023"
-      },
-      {
-        "id": 10022,
-        "text": "🛜\n𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹 𝗡𝗮𝗽𝘀𝘁𝗲𝗿𝗻𝗲𝘁𝗩\nکانفیگ پرسرعت برای نت ملی، مخصوص دانلود وب گردی، نامحدود برای اندروید و آیفون\n🩵\n@Configir98",
-        "date": "2026-05-27T07:57:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_10022_0_b7fb975f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Configir98/10022"
-      },
-      {
-        "id": 10021,
-        "text": "نت و وصل میکنیم همین بود؟؟\n😶",
-        "date": "2026-05-27T07:31:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_10021_0_b7fb975f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Configir98/10021"
-      },
-      {
-        "id": 10019,
-        "text": "🛜\n𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹 𝗡𝗮𝗽𝘀𝘁𝗲𝗿𝗻𝗲𝘁𝗩\n🖱️\nمناسب برای همه ی نت ها\n🖱️\nمناسب برای اندروید و آیفون\n🖱️\nمناسب برای دانلود و وبگردی\n🖱️\nمناسب برای اینستا، یوتیوب و...\n🩵\n@Configir98",
-        "date": "2026-05-27T07:13:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_10019_0_b7fb975f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Configir98/10019"
-      },
-      {
-        "id": 10018,
-        "text": "سرعت اینترنت به شدت گوه\n🐸",
-        "date": "2026-05-27T07:07:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_10018_0_b7fb975f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Configir98/10018"
-      },
-      {
-        "id": 10017,
-        "text": "🛜\n𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹 𝗡𝗮𝗽𝘀𝘁𝗲𝗿𝗻𝗲𝘁𝗩\n🖱️\nمناسب برای همه ی نت ها\n🖱️\nمناسب برای اندروید و آیفون\n🖱️\nمناسب برای دانلود و وبگردی\n🖱️\nمناسب برای اینستا، یوتیوب و...\n🩵\n@Configir98",
-        "date": "2026-05-27T07:04:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_10017_0_b7fb975f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Configir98/10017"
-      },
-      {
-        "id": 10016,
-        "text": "🛜\n𝗡𝗽𝘃 𝗧𝘂𝗻𝗻𝗲𝗹 𝗡𝗮𝗽𝘀𝘁𝗲𝗿𝗻𝗲𝘁𝗩\n🖱️\nمناسب برای همه ی نت ها\n🖱️\nمناسب برای اندروید و آیفون\n🖱️\nمناسب برای دانلود و وبگردی\n🖱️\nمناسب برای اینستا، یوتیوب و...\n🩵\n@Configir98",
-        "date": "2026-05-27T07:01:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_10016_0_b7fb975f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Configir98/10016"
       }
     ],
     "vipV2rayNGnp": [
+      {
+        "id": 18995,
+        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
+        "date": "2026-05-28T19:04:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18995_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18995"
+      },
+      {
+        "id": 18994,
+        "text": "⭕️\n1500 تا کانفیگ اختصاصی\n🎁\nداخل ربات شارج شده\nهمین الان\nمیتونین با دعوت دوستاتون یک سرور اختصاصی به حجم\n🚀\n20 گیگ\n🚀\nدریافت کنین\n💎\n😀\n@ConfigFreeiR_Bot",
+        "date": "2026-05-28T18:39:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18994_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18994"
+      },
+      {
+        "id": 18993,
+        "text": "اینستاگرام نوردی کنین",
+        "date": "2026-05-28T18:38:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18993_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18993"
+      },
+      {
+        "id": 18992,
+        "text": "iran.npvt",
+        "date": "2026-05-28T18:07:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18992_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18992"
+      },
+      {
+        "id": 18991,
+        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
+        "date": "2026-05-28T18:04:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18991_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18991"
+      },
+      {
+        "id": 18990,
+        "text": "لذت ببرین",
+        "date": "2026-05-28T17:32:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18990_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18990"
+      },
+      {
+        "id": 18989,
+        "text": "23.44.201.149\n23.212.253.227\n23.44.201.185\n23.44.201.17\n23.62.54.24\n23.58.95.144\n104.83.198.44\n92.123.102.153\n184.51.252.134\n23.53.40.147\n184.51.252.176\n2.18.64.212\n172.104.251.198\n2.18.79.101\n23.216.77.181\n92.123.102.89\n23.216.77.80\n96.16.53.132\n23.53.40.139\n23.48.165.70\n2.21.20.143\n23.43.85.155\n23.48.23.184\n23.207.210.83\n23.209.125.169\n23.48.23.172\n2.21.240.22\n23.55.110.82\n23.216.77.35\n23.58.95.138\n23.33.40.149\n23.48.23.146\n23.209.125.145\n92.123.102.130\n23.53.40.121\n23.48.23.11\n23.201.248.171\n23.209.125.27\n23.48.23.176\n23.207.210.86\n23.55.161.151\n92.123.103.89\n2.23.7.34\n23.207.210.80\n23.48.23.165\n23.48.23.173\n23.48.23.156\n23.55.110.74\n173.222.107.202\n23.213.161.140\n23.48.23.134\n23.204.152.160\n2.23.97.120\n🔥\nهمه ی آیپی هارو باهم کپی کنید و در بخش CDN Edge IPs وارد کنید.\n🔥\nبخش CDN SNI Hostname رو خالی بزارید.\n✅\n@VIPV2rayNGNp",
+        "date": "2026-05-28T17:22:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18989_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18989"
+      },
+      {
+        "id": 18988,
+        "text": "تست.npvt",
+        "date": "2026-05-28T17:16:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18988_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18988"
+      },
+      {
+        "id": 18987,
+        "text": "نسخه جدید فیلترشکن Psiphon\n(آخرین نسخه سایفون)\nپسورد ‌:\n@VIPV2rayNGNP\n@VIPV2rayNGNP",
+        "date": "2026-05-28T17:12:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18987_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18987"
+      },
+      {
+        "id": 18986,
+        "text": "نسخه جدید فیلترشکن Super Vpn\n(آخرین نسخه بدون محدودیت)\nپسورد ‌:\n@VIPV2rayNGNP\n@VIPV2rayNGNP",
+        "date": "2026-05-28T17:12:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18986_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18986"
+      },
+      {
+        "id": 18985,
+        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
+        "date": "2026-05-28T17:08:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18985_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18985"
+      },
+      {
+        "id": 18984,
+        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
+        "date": "2026-05-28T17:07:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18984_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18984"
+      },
+      {
+        "id": 18982,
+        "text": "متصل با وایفای\nvless://afca7c78-f0bc-4709-8bd3-e3741a25956d@varzesh3.com:443?encryption=none&type=ws&security=tls&path=%2Fhelloword&host=asia.devops-grid-project.org&sni=asia.devops-grid-project.org&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#https://t.me/VIPV2rayNGNP\n@VIPV2rayNGNP",
+        "date": "2026-05-28T16:36:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18982_0_a43763c2.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/VIPV2rayNGNP",
+            "type": "telegram",
+            "display_text": "https://t.me/VIPV2rayNGNP"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vipV2rayNGnp/18982"
+      },
+      {
+        "id": 18981,
+        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
+        "date": "2026-05-28T16:27:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18981_0_a43763c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/18981"
+      },
+      {
+        "id": 18980,
+        "text": "ایرانسل متصل:\nvless://b51b79ef-de4e-4c88-924a-9b32ae7bfadd@108.61.198.98:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#https://t.me/VIPV2rayNGNP\n@VIPV2rayNGNP",
+        "date": "2026-05-28T16:24:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_18980_0_a43763c2.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/VIPV2rayNGNP",
+            "type": "telegram",
+            "display_text": "https://t.me/VIPV2rayNGNP"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/vipV2rayNGnp/18980"
+      },
       {
         "id": 18979,
         "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
@@ -4539,243 +4782,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vipV2rayNGnp/18885"
-      },
-      {
-        "id": 18884,
-        "text": "اپ استور و گوگل پلی رفع فیلتر شده دانلودی دارید انجام بدید",
-        "date": "2026-05-27T20:05:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18884_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18884"
-      },
-      {
-        "id": 18883,
-        "text": "اپ استور و گوگل پلی رفع فیلتر شده دانلودی دارید انجام بدید",
-        "date": "2026-05-27T20:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18883_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18883"
-      },
-      {
-        "id": 18882,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
-        "date": "2026-05-27T20:03:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18882_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18882"
-      },
-      {
-        "id": 18881,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
-        "date": "2026-05-27T19:44:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18881_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18881"
-      },
-      {
-        "id": 18880,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
-        "date": "2026-05-27T19:40:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18880_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18880"
-      },
-      {
-        "id": 18879,
-        "text": "ری اشکن با شما\n❤️",
-        "date": "2026-05-27T19:30:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18879_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18879"
-      },
-      {
-        "id": 18878,
-        "text": "کانفینگ عادی\nvless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=%2Fde&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#%https://t.me/VIPV2rayNGNP\nvless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=%2Fquestion%2Favatar%2Fhot&security=tls&encryption=none&insecure=1&host=pagescm.freen34.cc.cd&type=ws&allowInsecure=1&sni=pagescm.freen34.cc.cd#https://t.me/VIPV2rayNGNP\nvless://ae0dd58e-e222-40bf-84ae-365a97532737@45.130.125.160:443?path=%2F&security=tls&encryption=none&insecure=0&host=pagescm.freen1.de5.net&type=ws&allowInsecure=0&sni=pagescm.freen1.de5.net#https://t.me/VIPV2rayNGNP\n@VIPV2rayNGNP",
-        "date": "2026-05-27T19:30:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18878_0_4293216a.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/VIPV2rayNGNP",
-            "type": "telegram",
-            "display_text": "https://t.me/VIPV2rayNGNP"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/vipV2rayNGnp/18878"
-      },
-      {
-        "id": 18877,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
-        "date": "2026-05-27T19:28:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18877_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18877"
-      },
-      {
-        "id": 18876,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
-        "date": "2026-05-27T19:26:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18876_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18876"
-      },
-      {
-        "id": 18875,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
-        "date": "2026-05-27T19:20:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18875_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18875"
-      },
-      {
-        "id": 18874,
-        "text": "کانفینگ عادی\nvless://dba52067-4f1b-4be5-8c4d-0798f9c938f4@45.76.83.35:54985?security=&encryption=none&headerType=none&type=tcp#https://t.me/VIPV2rayNGNP\nss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206bXpJcGZIb1ZIL1hybmszY3VTYjlhdz09OkJuQUgzVjBMTkg0dWZ5eW1HdW1Ua1E9PQ@5.160.47.211:8443#https://t.me/VIPV2rayNGNP\nvless://5f46e04e-b903-4a59-a419-d580bd4a343f@89.19.223.42:8443?type=grpc&security=reality&fp=chrome&pbk=rnvgTt3K13mlAU8aQi4xhge5Hk46G7XJwoAHxmCFeUU&sid=194e7591c6d8d261&sni=rutonl1.krusofiya.fun&mode=multi&serviceName=AfaGP#https://t.me/VIPV2rayNGNP\ntrojan://%6d%69%74%69%76%70%6e@208.103.161.175:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=cdn.iranpoems.ir&type=ws&allowInsecure=0&sni=cdn.iranpoems.ir#https://t.me/VIPV2rayNGNP\ntrojan://%6d%69%74%69%76%70%6e@208.103.161.39:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=cdn.iranpoems.ir&type=ws&allowInsecure=0&sni=cdn.iranpoems.ir#https://t.me/VIPV2rayNGNP\nvless://2e7a09b1-1c94-45e0-9b0a-9a221dc7280b@macnetdev.macnetdev.link:52483?encryption=none&security=none&type=tcp#https://t.me/VIPV2rayNGNP\nvless://a7f54af9-295a-4f94-ae81-e6b7ba44d42f@px1t-tab-57fzza.de.deepl-cdn.com:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&sni=deepl.com&spx=/#https://t.me/VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
-        "date": "2026-05-27T19:16:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18874_0_4293216a.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/VIPV2rayNGNP",
-            "type": "telegram",
-            "display_text": "https://t.me/VIPV2rayNGNP"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/vipV2rayNGnp/18874"
-      },
-      {
-        "id": 18873,
-        "text": "لپ لپ.npvt",
-        "date": "2026-05-27T18:58:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18873_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18873"
-      },
-      {
-        "id": 18872,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
-        "date": "2026-05-27T18:56:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18872_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18872"
-      },
-      {
-        "id": 18870,
-        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\nT.me/VIPV2rayNGNP",
-        "date": "2026-05-27T18:41:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18870_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18870"
-      },
-      {
-        "id": 18869,
-        "text": "پسرای چنل دانلود نکنین دخترا برن اینستاگرام\n❤️",
-        "date": "2026-05-27T18:30:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18869_0_4293216a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18869"
       }
     ],
     "Vippackager": [
@@ -7053,6 +7059,81 @@
     ],
     "Broz_time": [
       {
+        "id": 2413,
+        "text": "🇮🇷\nکانفیگ ویتوری برای تمومی اپراتور ها نامحدود مولتی لوکیشن (ممکنه یسری مناطق کار بکنه و یسری مناطق دیگ کار نکنه)\n⭐️\nvless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#@sogoandfuckyourlove\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSmpWSXZITnFickFtVzNI@4.168.201.153:443?type=tcp#@sogoandfuckyourlove\ntrojan://mitivpn@45.130.125.76:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.app-cloud.ir#@sogoandfuckyourlove\nvless://942469ee-7f8e-443d-bfd2-4f8b1faa5970@199.232.57.91:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=Api.nHl14.iR.&type=ws#@sogoandfuckyourlove\n📲\nدانلود و آموزش استفاده(کلیک کن)\n👉\n⚡️\nفیلترینگ شدید و نت ملی رو باهاش دور بزن !\n✅\n@V2rayNGVPN",
+        "date": "2026-05-28T18:49:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Broz_time_2413_0_5e722c42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Broz_time/2413"
+      },
+      {
+        "id": 2412,
+        "text": "🛜\n🇮🇷\nکانفیگ نپستر برای تمومی اپراتور ها نامحدود مولتی لوکیشن (ممکنه یسری مناطق کار بکنه و یسری مناطق دیگ کار نکنه)\n⭐️\n📲\nنحوه اتصال داخل اندروید\n(کلیک کن)\n👉\n✅\n@ProxyMTProtoIR",
+        "date": "2026-05-28T18:00:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Broz_time_2412_0_5e722c42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Broz_time/2412"
+      },
+      {
+        "id": 2411,
+        "text": "sni\n:\nspeedtest.net\nIp\n:\n151.101.130.219\n🕛\n«\n@Broz_time",
+        "date": "2026-05-28T17:53:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Broz_time_2411_0_5e722c42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Broz_time/2411"
+      },
+      {
+        "id": 2410,
+        "text": "🇮🇷\nکانفیگ ویتوری برای اینترنت ملی\ntrojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#\nvless://b51b79ef-de4e-4c88-924a-9b32ae7bfadd@108.61.198.98:80?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#\nvless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?encryption=none&type=tcp&security=tls&headerType=none&sni=sub.sbrf-cdn342.ru&alpn=http%2F1.1&fp=qq&allowInsecure=0&flow=xtls-rprx-vision#\n📲\nدانلود و آموزش استفاده(کلیک کن)\n👉\n🕛\n«\n@Broz_time",
+        "date": "2026-05-28T17:28:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Broz_time_2410_0_5e722c42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Broz_time/2410"
+      },
+      {
+        "id": 2409,
+        "text": "🇮🇷\nکانفیگ ویتوری برای اینترنت ملی\nvless://180ab60e-c359-42aa-b14c-ee77aeb99ce1@real.aspapn.ir:52700?encryption=mlkem768x25519plus.native.0rtt.58RsoIwmLjlOVL_NYSV-RZtXdxnJW114iyD0G3RbZgc&host=play.google.com&path=%2F&security=none&type=ws#@meliproxyy\nvless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?path=%2F&security=tls&encryption=none&insecure=0&host=ws-x1.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=ws-x1.pages.dev#@meliproxyy\nvless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#@meliproxyy\nvless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?path=%2F&security=tls&encryption=none&insecure=0&host=hi-wg.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hi-wg.pages.dev#@meliproxyy\n📲\nدانلود و آموزش استفاده(کلیک کن)\n👉\n🕛\n«\n@Broz_time",
+        "date": "2026-05-28T16:49:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Broz_time_2409_0_5e722c42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Broz_time/2409"
+      },
+      {
         "id": 2408,
         "text": "🇮🇷\nکانفیگ ویتوری برای اینترنت ملی\nvless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#\nvmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNza2hvZGFtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==\nvless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@snapp.ir:8880?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=cd.ahwaz-game.ir#\n📲\nدانلود و آموزش استفاده(کلیک کن)\n👉\n🕛\n«\n@Broz_time",
         "date": "2026-05-28T16:04:40+00:00",
@@ -8685,103 +8766,413 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Broz_time/2005"
-      },
+      }
+    ],
+    "IranintlTV": [
       {
-        "id": 2004,
-        "text": "⭐️\nwhitedns settings\n:\nMin up 44 Max 44\nMin 444 Max 444\nResolver timeout 0.7\nNetwork Tuning:\nUp dub 15\nDl dup 30\nlz4\n🕛\n«\n@Broz_time",
-        "date": "2026-05-12T15:00:51+00:00",
+        "id": 339463,
+        "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، در نشست خبری کاخ سفید گفت ما در ایران تغییر رژیم نداشتیم اما رژیم را تغییر داده‌ایم و همان‌طور که رییس‌جمهور ترامپ گفت و پیش‌تر هم گفته‌ایم، لایه اول رهبری حذف شد، لایه دوم نیز حذف شد و اکنون در لایه سوم هستیم.\nاو افزود حکومت ایران سه ستون دارد: دولت، سپاه پاسداران و روحانیون. آن‌ها در برقراری ارتباط با یکدیگر مشکل دارند، بنابراین ما صبور هستیم اما صبر ما نامحدود نیست.\nبسنت اضافه کرد ترامپ همیشه توافق صلح را ترجیح می‌دهد، بنابراین هر کاری که تاکنون انجام داده‌ایم دفاعی بوده و در حال حاضر نیز همین مسیر را ادامه خواهیم داد. اما اگر رییس‌جمهور فکر کند نمی‌تواند به توافق صلح برسد، گزینه اقدام نظامی دوباره روی میز خواهد بود.\nhttps://iranintl.com/202605282114",
+        "date": "2026-05-28T19:07:26+00:00",
         "media": [
           {
             "type": "image",
-            "file": "Broz_time_2004_0_9e713746.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Broz_time/2004"
-      },
-      {
-        "id": 2003,
-        "text": "✖️\nسایت بین المللی bet120x\n✖️\n👍\nدارای مجوز رسمی Gambling Judge سوئد\n👍\n💳\nشارژ حساب از طریق ارز و یووچر و پرمیوم ووچر\n💳\nتسویه حساب دلاری سریع\n💊\nبیمه شرط میکس\n⚠️\nفروش شرط\n🔔\nویرایش شرط\n3️⃣\n2️⃣\n🎁\n20%هدیه واریز از طریق ارز و ووچر ┅━━━━━━━━━━━…",
-        "date": "2026-05-12T14:32:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Broz_time_2003_0_9e713746.jpg"
+            "file": "IranintlTV_339463_0_9c9b9dfb.jpg"
           },
           {
             "type": "image",
-            "file": "Broz_time_2003_1_4e5a32ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Broz_time/2003"
-      },
-      {
-        "id": 2002,
-        "text": "✖️\nسایت بین المللی\nbet120x\n✖️\n👍\nدارای مجوز رسمی Gambling Judge سوئد\n👍\n💳\nشارژ حساب از طریق ارز و\nیووچر\nو پرمیوم ووچر\n💳\nتسویه حساب دلاری سریع\n💊\nبیمه شرط میکس\n⚠️\nفروش شرط\n🔔\nویرایش شرط\n3️⃣\n2️⃣\n🎁\n20%هدیه واریز از طریق ارز و ووچر\n┅━━━━━━━━━━━\n🎁\n10%برگشت باخت به صورت روزانه\n🎁\n10%برگشت باخت به صورت هفتگی\n🎁\n10%برگشت باخت به صورت ماهانه\n💻\nادرس ورود به سایت:\nhttps://bet120x.com/fa/?btag=971470\n➖\n➖\n➖\n➖\n➖\n👈\nآموزش واریز و برداشت دلاری\n👉\n🔪\nکانال اطلاع رسانی:\n👇\ng22\n🅰\n✈️\nhttps://t.me/+RvVnWMHCqUc4YzFk",
-        "date": "2026-05-12T14:32:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Broz_time_2002_0_9e713746.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Broz_time_2002_1_7bc0f214.jpg"
+            "file": "IranintlTV_339463_1_f5eeaf0c.jpg"
           }
         ],
         "links": [
           {
-            "url": "https://bet120x.com/fa/?btag=971470",
+            "url": "https://iranintl.com/202605282114",
             "type": "external",
-            "display_text": "https://bet120x.com/fa/?btag=971470"
-          },
-          {
-            "url": "https://t.me/+RvVnWMHCqUc4YzFk",
-            "type": "telegram",
-            "display_text": "https://t.me/+RvVnWMHCqUc4YzFk"
+            "display_text": "https://iranintl.com/202605282114"
           }
         ],
         "has_media": true,
         "has_links": true,
-        "source": "https://t.me/Broz_time/2002"
+        "source": "https://t.me/IranintlTV/339463"
       },
       {
-        "id": 2001,
-        "text": "🟢\nDns Resolver:\n85.185.1.10\n,\n2.188.21.240\n,\n2.188.21.90\n,\n2.188.21.100\n,\n2.188.21.190\n🕛\n«\n@Broz_time",
-        "date": "2026-05-12T14:24:50+00:00",
+        "id": 339462,
+        "text": "خبرگزاری تسنیم، وابسته به سپاه، درباره روند مذاکرات تهران و واشینگتن نوشت: «برخلاف ادعای منابع غربی، متن تفاهم‌نامه احتمالی تا این لحظه نهایی و قطعی نشده است.»\nتسنیم شامگاه پنج‌شنبه به نقل از یک منبع نزدیک به تیم مذاکره‌کننده نوشت تهران تا این لحظه نهایی شدن متن را به میانجی پاکستانی اعلام نکرده است.\nhttps://iranintl.com/202605282517",
+        "date": "2026-05-28T18:52:09+00:00",
         "media": [
           {
             "type": "image",
-            "file": "Broz_time_2001_0_9e713746.jpg"
+            "file": "IranintlTV_339462_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339462_1_e7a63c07.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605282517",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605282517"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339462"
+      },
+      {
+        "id": 339461,
+        "text": "وزارت خارجه اسرائیل اعلام کرد تصمیم شرم‌آور و مضحک سازمان ملل برای گنجاندن نهادهای اسرائیلی در ضمیمه گزارش خشونت جنسی در درگیری‌ها، نشانه‌ای دیگر از ماهیت واقعی این سازمان است؛ نهادی سیاسی‌زده و فاسد که اصول بنیان‌گذاری خود را کنار گذاشته و به‌طور نظام‌مند اسرائیل را به‌عنوان هدف اصلی خود قرار داده است. این تصمیم نمونه‌ای دیگر از خصومت دیرینه و نهادینه‌شده سازمان ملل علیه اسرائیل است.\nدر این بیانیه آمده تصمیم امروز باید در بستر واقعی خود درک شود: تلاشی برای ایجاد تقارن ساختگی میان اسرائیل و جنایات جنسی واقعی ارتکاب‌یافته از سوی حماس. این تنها انگیزه آن است.\nوزارت خارجه اسرائیل آنتونیو گوترش را مسئول این اقدام دانست و اعلام کرد او کشتار ۷ اکتبر را توضیح‌پذیر جلوه داده، نقش کارکنان سازمان ملل در آن جنایات را پنهان کرده و این سازمان را به پایین‌ترین نقطه خود رسانده است.\nاسرائیل اعلام کرد با توجه به نقض استانداردهای صداقت، سلامت و حرفه‌ای‌گری از سوی گوترش، تمام روابط خود با دفتر دبیرکل را قطع می‌کند و تا زمان تعیین دبیرکل جدید سازمان ملل منتظر خواهد ماند.\nhttps://iranintl.com/202605286441",
+        "date": "2026-05-28T18:47:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339461_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339461_1_9c15c393.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605286441",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605286441"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339461"
+      },
+      {
+        "id": 339460,
+        "text": "🎧\nنسخه صوتی دومینو: توافق برای بازگشایی تنگه هرمز\n@iranintlTV",
+        "date": "2026-05-28T18:44:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339460_0_9c9b9dfb.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/Broz_time/2001"
+        "source": "https://t.me/IranintlTV/339460"
       },
       {
-        "id": 2000,
-        "text": "🇮🇷\nکانفیگ اسلیپ‌نت برای اینترنت ملی\nslipnet-enc://Af9xuGJxcl8wPrBNXskqx7acR7k24HayPfRd7Mx/Q2AqTa2pc/Bome3tzYMf5F9zvNljmBfaFj4TjI1unl80SQ/6XoVq6X/T4DGe6vnrQNRv1pPBpKfmQa8fMPrefq+xaxMK9dCbH58JtBqXxPgxsqmLyfP3o8OY8zGAVowIbTcaHQvFN9vumUNoUCFWW9yH9YyKHShX9icuD+Iq9dx2EZsVVfXZEbmHMa/SbTldpgVXxMqGxg5VXYl1iqimzzhyhRTd8Js0YA1xStyAphTT1BQwHGjfGHzzHpGLBIMSkbQdBl/B8rLte8WUFz9+3eLNX94Ji6jvgZRYaPQvSr64KA+XOjKyisQFZhgLuQDPFUB/boFqoO3oRI2E/ItNXgS9PImcVEEUg3OIQtpScGG1yQEvbWQHm4bEQKC8QifOKilZ4n7LyY80FeXoBMu5zJeZbbvsNki0yrK7Y+ZNnv97bV9nDZ7IkThGwaXQDcr76P4eJrccZRpbqdO4EEtQ5F8/eaHyEWapPMSoVrtLmHT1MkRWH61K+F4b2iHP1dEgQdjVlv4xzyM1SUMx+KJhHr362BOSOcOzplhMN2qGuSQvmgi54w21fe4EE59AoO3cCLZdSppNuAnLJ2M4HXdQDHVtVFZ4pxQ6fpJ/Wxz9nYiSfUoTkCxjhQnRuYiVzVF8Db0GWM9blhXVqcKM247HVOSWPRqtKF6sTnyfZlOXznjmtxTfLJ4UWiS7ffKIvEH9Gg==\n📲\nدانلود و آموزش استفاده(کلیک کن)\n👉\n🕛\n«\n@Broz_time",
-        "date": "2026-05-12T13:29:44+00:00",
+        "id": 339459,
+        "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
+        "date": "2026-05-28T18:34:37+00:00",
         "media": [
           {
             "type": "image",
-            "file": "Broz_time_2000_0_9e713746.jpg"
+            "file": "IranintlTV_339459_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_339459_1_58c152a0.mp4"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/Broz_time/2000"
-      }
-    ],
-    "IranintlTV": [
+        "source": "https://t.me/IranintlTV/339459"
+      },
+      {
+        "id": 339458,
+        "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
+        "date": "2026-05-28T18:34:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339458_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_339458_1_cdb8cfdb.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339458"
+      },
+      {
+        "id": 339456,
+        "text": "🗣\nروایت شما از زندگی در آتش‌بس- پنجشنبه ۷ خرداد ۱۴۰۶\n🔹\nاز این‌که اینترنت برگشته نباید خوشحال شد. حق‌مون رو ازمون گرفتن و قطره‌قطره دارن بهمون پس می‌دن. چیزی نیست که باعث شادی بشه.\n🔹\nمن دانش‌آموز رشته کامپیوتر هستم و با یک سیستم قدیمی درس‌هام رو می‌گذرونم. یک ساله می‌خوام سیستم بخرم، اما هر روز گرون‌تر میشه. این همه پول مدرسه می‌دم، اما مجبورم برم کافی‌نت تا کارهام رو انجام بدم.\n🔹\nالیگودرز: در حالی که آخوندا عید قربان رو با شام مفصل جشن می‌گیرن، مردم حتی نون ساده هم نمی‌تونن بخرن.\n🔹\nاز خرم‌آباد: همه‌چی روزبه‌روز داره سخت‌تر و بدتر از قبل میشه. موز کیلویی ۴۹۰ تومن شده.\n🔹\nخیلی وقت بود گوشت از سفره حذف شده بود. الان مرغ هم رفته، فقط تونستم مقداری پای مرغ بخرم. از بوشهر.\n🔹\nمن یک کارگر نانوایی هستم. سهمیه آرد نانوایی‌ها رو کسر کردن و هیچ‌کس جوابگو نیست.\n🔹\nآخه در کشوری که حقوق قانون کار پانزده میلیون باشه و اجاره خونه هم پنج میلیون و گوشت کیلویی دو میلیون، چه‌جوری میشه زندگی کرد؟!\n🔹\nاینترنت رو به قولی وصل کردن و گند زدن با این وصل کردنشون. وضعیت الان بدتر از حتی جنگ شده. من دیگه روم نمی‌شه حتی فروش داشته باشم. فیلتری که می‌دادم ۴ هزار تومان، الان باید بدم ۵۰.\n🔹\nمن ۳۰ میلیون حقوق می‌گیرم، کارم فروشندگیه. حدود ۹۰ درصد خرج من ناهار سر کار هست. هیچ چیز برای خودم نمی‌خرم غیر از خوراکی برای خواهر کوچکم. نمی‌دونم چکار کنم. کار کنم؟ درس بخونم؟ بیکار بمونم؟ زندگی خیلی سخته.\n🔹\nرفسنجان: مردم تو رو خدا امیدتون رو از دست ندید. رانندگان، بازاریان اعتصاب کنید. ما هم منتظر فراخوان شاهزاده هستیم تا برگردیم به خیابون و کار رو تموم کنیم.\n🔹\nاز اسفندماه تعدیل نیرو شدم، با سابقه بیش از ۱۰ سال بیمه. برای بیمه بیکاری هم اقدام کردم. متأسفانه هنوز هیچ‌گونه وجهی دریافت نکردم. زندگی سخته، بچه کوچک داریم.\n🔹\nاصلاً نمی‌خوام سیاه‌نمایی کنم، ولی وضعیت جوریه که برای خریدن سیب‌زمینی و پیاز هم تردید می‌کنم. چیزی که اساساً در مورد خریدش نباید فکر کرد.\n🔹\nبیش از سه ماه به‌خاطر قطعی اینترنت دفترمون رو تعطیل کردیم، اما سر در برابر «پرو» فرود نیاوردیم. به امید روزهای روشن.",
+        "date": "2026-05-28T18:34:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339456_0_9c9b9dfb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339456"
+      },
+      {
+        "id": 339455,
+        "text": "وال‌استریت پس از حملات یازده سپتامبر، فقط شش روز تعطیل بود، اما روسیه پس از حمله به اوکراین، بازار مسکو را یک ماه تعطیل کرد. بورس‌های امارات پس از حملات موشکی و پهپادی جمهوری اسلامی فقط دو روز معاملات را متوقف کردند، در حالیکه بورس تهران، در یک رکورد تاریخی، بیش از هشتاد روز تعطیل بود. در این قسمت چرتکه، محمد ماشین‌چیان رویکرد آمریکایی و روسی به بازار را در مقیاس ایران و امارات بررسی می‌کند.\nتماشای نسخه کامل «چرتکه» در یوتیوب:\nhttps://youtu.be/gPWijjjbR5M",
+        "date": "2026-05-28T18:14:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339455_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_339455_1_0ffc129d.mp4"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://youtu.be/gPWijjjbR5M",
+            "type": "youtube",
+            "display_text": "https://youtu.be/gPWijjjbR5M"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339455"
+      },
+      {
+        "id": 339454,
+        "text": "یک مقام ارشد عرب که مستقیما در میانجی‌گری مذاکرات میان واشینگتن و تهران حضور دارد، به ان‌بی‌سی نیوز گفت مذاکره‌کنندگان آمریکا و ایران سه روز پیش بر سر مفاد توافق آتش‌بس به تفاهم رسیده‌اند، اما هر دو طرف اعلام و نهایی‌کردن آن را به تعویق انداخته‌اند.\nاین مقام گفت: توافق سه روز پیش در دوحه نهایی شد، اما حالا همه منتظر اقدام طرف مقابل هستند و این تاخیرها را «ناامیدکننده» خواند.\nhttps://iranintl.com/202605287097",
+        "date": "2026-05-28T18:10:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339454_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339454_1_39e41608.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605287097",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605287097"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339454"
+      },
+      {
+        "id": 339453,
+        "text": "بنیامین نتانیاهو در مصاحبه‌ای در کنفرانس «بیکعات هاردن» اعلام کرد: «در روز اول یا دوم جنگ گفتم چهره خاورمیانه را تغییر خواهیم داد. از همان ابتدا روشن بود که فقط با حماس و حزب‌الله روبه‌رو نیستیم، بلکه محور جمهوری اسلامی پشت آن‌ها قرار دارد.»\nنتانیاهو افزود: «ما نیاز به تغییر داشتیم. برای من روشن بود که دوران تحمل و جذب ضربه به پایان رسیده است. دیگر ضربه را تحمل نمی‌کنیم؛ از حالت دفاعی خارج می‌شویم و یکی‌یکی به آن‌ها ضربه می‌زنیم.»\nاو ادامه داد: «ما هرگز در چنین فاصله‌هایی، با چنین تداومی و با چنین شدتی در آسمان تهران عملیات انجام نداده بودیم. در آسمان یمن هم با چنین شدتی عمل نکرده بودیم.»\nنتانیاهو گفت: «ضربات بسیار سنگینی به آن‌ها وارد کرده‌ایم و هرگز تا این اندازه قوی نبوده‌ایم. اما همچنان با رژیم آسیب‌دیده ایران روبه‌رو هستیم و تهدید هسته‌ای هنوز وجود دارد.»\nاو افزود: «هنوز باید کار را کامل کنیم. من تقریبا هر روز با رییس‌جمهور ترامپ صحبت می‌کنم. علاوه بر خنثی‌سازی تهدید هسته‌ای، باید تهدیدی را که می‌توان آن را فوق‌فناورانه دانست نیز مهار کنیم؛ یعنی تهدید پهپادها، پهپادهای فیبر نوری و نسل بعدی آن‌ها.»\nh",
+        "date": "2026-05-28T17:53:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339453_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339453_1_98f9918e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339453"
+      },
+      {
+        "id": 339452,
+        "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد یک شهروند شعارهای «جاوید شاه» و «این آخرین نبرده» را روی دیواری در یکی از شهرهای ایران با اسپری نوشته است. برای حفظ امنیت شهروندان مکان این ویدئو ذکر نمی‌شود.",
+        "date": "2026-05-28T17:37:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339452_0_9c9b9dfb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339452"
+      },
+      {
+        "id": 339451,
+        "text": "این گزارش به قطع ۸۸ روزه اینترنت از سوی جمهوری اسلامی می‌پردازد؛ اقدامی که به یک محاصره دیجیتال علیه مردم تبدیل شد، میلیاردها دلار خسارت بر جای گذاشت و ارتباط ایرانیان با جهان، کسب‌وکار، آموزش و حق دسترسی به حقیقت را مسدود کرد.\nآرین ریسباف گزارش می‌دهد.\n@iranintltv",
+        "date": "2026-05-28T17:22:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339451_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_339451_1_9dac20b2.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339451"
+      },
+      {
+        "id": 339450,
+        "text": "🎧\nنسخه صوتی چرتکه : بازگشایی بورس از ابوظبی تا تهران\n@iranintlTV",
+        "date": "2026-05-28T17:21:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339450_0_9c9b9dfb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339450"
+      },
+      {
+        "id": 339449,
+        "text": "اینترنت ایران به‌طور نسبی برگشته و مردم ایران دیشب در «برنامه» توانستند صدای خود را به ایران برسانند. امشب هم، بدون این‌که موضوع مشخصی داشته باشیم، «برنامه» را در اختیار شما می‌گذاریم تا بیایید و هر حرفی را که دارید، با ایران در میان بگذارید؛ پس اگر امشب اینترنت دارید، روی خط بیایید.\n«برنامه» صدای شماست.\nما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\nبیایید و روایت خود را برای همیشه ثبت کنید.\nتاریخ با صدای شما نوشته می‌شود.\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:\n۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n«برنامه با کامبیز حسینی»\n«یک ایران صدای شما را می‌شنود»\n@iranintltv",
+        "date": "2026-05-28T17:21:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339449_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339449_1_a317dc28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339449"
+      },
+      {
+        "id": 339448,
+        "text": "شبکه حقوق بشر کردستان از صدور حکم اعدام برای اسماعیل رمضان‌پور، ۳۸ ساله، و آرمان معرفتی، ۳۰ ساله، از معترضان انقلاب ملی ایرانیان در دی ۱۴۰۴ خبر داد.\nبراساس این گزارش، آرمان معرفتی، اهل سقز استان کردستان، در جریان اعتراضات توسط نیروهای امنیتی بازداشت و پس از مدتی به زندان تهران بزرگ منتقل شد. او در شعبه ۱۵ دادگاه انقلاب تهران به ریاست قاضی صلواتی به اتهام «محاربه» به اعدام محکوم شد.\nهمچنین اسماعیل رمضان‌پور، اهل استان فارس و ساکن یزد، در جریان اعتراضات توسط نیروهای امنیتی بازداشت و به یک بازداشتگاه امنیتی در یزد منتقل شد. به گفته این منبع، او در این بازداشتگاه برای اعترافات اجباری مورد شکنجه قرار گرفت و پس از پایان دوران بازجویی به زندان مرکزی یزد منتقل شد.\nاتهامات انتسابی به رمضان‌پور از سوی دستگاه امنیتی جمهوری اسلامی شامل «اجتماع و تبانی برای ارتکاب جرم علیه امنیت داخلی کشور» و «تخریب عمدی اموال عمومی (آتش‌زدن ساختمان شهرداری یزد) به قصد مقابله با نظام جمهوری اسلامی» اعلام شده است.\nhttps://iranintl.com/202605284687",
+        "date": "2026-05-28T17:19:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339448_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339448_1_b14ced2b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605284687",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605284687"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339448"
+      },
+      {
+        "id": 339447,
+        "text": "سازمان حقوق بشری هه‌نگاو گزارش داد که میثم ویسی و مجتبی ویسی، دو برادر که پس از انقلاب ملی ایرانیان در دی ۱۴۰۴ مخفیانه زندگی می‌کردند، ساعت ۴ بامداد پنج‌شنبه ۷ خرداد ۱۴۰۵ در روستای «قلعه کهوش» شهرستان دالاهو با شلیک مستقیم نیروهای سپاه پاسداران کشته شدند.\nهه‌نگاو نوشت: «پناهگاه و محل اقامت این دو برادر به محاصره همه‌جانبه و سنگین نیروهای سپاه پاسداران درآمد و ماموران مسلح بدون هیچ گونه اخطار قبلی از چهار طرف به سوی این منزل مسکونی شلیک کردند و در پی این شلیک‌های هدفمند، میثم و مجتبی ویسی در دم جان باختند.»\nبر اساس این گزارش، میثم و مجتبی ویسی از پیروان آیین یارسان و از فعالان سرشناس فرهنگی و از موسسان کتابخانه «دره‌دریژ» در کرمانشاه بودند.\nhttps://iranintl.com/202605281533",
+        "date": "2026-05-28T17:06:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339447_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339447_1_c7322072.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605281533",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605281533"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339447"
+      },
+      {
+        "id": 339446,
+        "text": "🔻\nدر کمتر از دو هفته تا جام جهانی ۲۰۲۶، هنوز تکلیف ویزای تیم فوتبال ایران مشخص نیست؛ فدراسیون فوتبال و مقامات جمهوری اسلامی می‌گویند آمریکا باید ویزای چندبار ورود برای اعضای تیم صادر کند.\n🔹\nتوضیحات رها پوربخش، عضو تحریریه ایران اینترنشنال\n@iranintltvsport",
+        "date": "2026-05-28T17:03:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339446_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_339446_1_d6580ebf.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339446"
+      },
+      {
+        "id": 339445,
+        "text": "شبکه العربیه به نقل از منابع دیپلماتیک گزارش داد توافق میان واشینگتن و تهران در دو مرحله انجام خواهد شد و مرحله نخست شامل امضای یک یادداشت تفاهم است.\nدر این گزارش آمده است پاکستان شاهد مراسم امضای این تفاهم‌نامه خواهد بود.\nپیش‌تر اکسیوس گزارش داد مذاکره‌کنندگان آمریکا و ایران بر سر یک یادداشت تفاهم ۶۰ روزه برای تمدید آتش‌بس و آغاز گفت‌وگوهای هسته‌ای به توافق رسیده‌اند، اما ترامپ هنوز تایید نهایی نداده است.\nhttps://iranintl.com/202605284573",
+        "date": "2026-05-28T16:57:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339445_0_9c9b9dfb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339445_1_d180e56e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605284573",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605284573"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339445"
+      },
+      {
+        "id": 339444,
+        "text": "یک فرد نظامی با ارسال پیامی به ایران اینترنشنال می‌گوید که حکومت چند ماه است دیگر به آن‌ها گوشت و مرغ نمی‌دهند. پیام او با هوش مصنوعی خوانده شده است.",
+        "date": "2026-05-28T16:54:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339444_0_9c9b9dfb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339444"
+      },
+      {
+        "id": 339443,
+        "text": "🎧\nنسخه صوتی اخبار شبانگاهی | پنجشنبه ۷ خرداد\n@iranintlTV",
+        "date": "2026-05-28T16:40:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339443_0_9c9b9dfb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339443"
+      },
       {
         "id": 339441,
         "text": "دنی دانون، سفیر اسرائیل در سازمان ملل متحد تصمیم این سازمان برای قرار دادن نام این کشور در فهرست سیاه مربوط به اتهام‌های خشونت جنسی در مناطق درگیر جنگ را محکوم کرد.\nاو در شبکه اجتماعی ایکس این اقدام را «یک رسوایی اخلاقی» خواند.\nوزارت خارجه اسرائیل نیز در پیامی در شبکه ایکس اعلام کرد: «تصمیم شرم‌آور و مضحک سازمان ملل برای قرار دادن نهادهای اسرائیلی در ضمیمه گزارش مربوط به خشونت جنسی مرتبط با درگیری‌ها، بار دیگر ماهیت واقعی سازمان ملل را نشان می‌دهد؛ نهادی سیاسی‌زده و فاسد که اصول بنیان‌گذاری خود را کنار گذاشته و هدف اصلی آن حمله سیستماتیک به اسرائیل است.»\nhttps://iranintl.com/202605288522",
@@ -10479,483 +10870,117 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/339338"
-      },
-      {
-        "id": 339337,
-        "text": "سپاه اعلام کرد در واکنش به حمله‌های پرتابه‌های هوایی آمریکا در سحرگاه پنج‌شنبه به نقطه‌ای در حاشیه فرودگاه بندرعباس، یک پایگاه هوایی آمریکا را که مبدا این حملات بود در ساعت ۴:۵۰ هدف قرار داده است.\nسپاه تاکید کرد در صورت تکرار حمله‌های آمریکا، پاسخ جمهوری اسلامی «قاطع‌تر» خواهد بود.\nhttps://iranintl.com/202605287903",
-        "date": "2026-05-28T03:26:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339337_0_17b62bc2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339337_1_7854f1e3.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605287903",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605287903"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339337"
-      },
-      {
-        "id": 339336,
-        "text": "سپاه اعلام کرد در واکنش به حمله‌های پرتابه‌های هوایی آمریکا در سحرگاه پنج‌شنبه به نقطه‌ای در حاشیه فرودگاه بندرعباس، یک پایگاه هوایی آمریکا را که مبدا این حملات بود در ساعت ۴:۵۰ هدف قرار داده است.\nسپاه تاکید کرد در صورت تکرار حمله‌های آمریکا، پاسخ جمهوری اسلامی «قاطع‌تر» خواهد بود.\nhttps://iranintl.com/202605287903",
-        "date": "2026-05-28T03:25:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339336_0_17b62bc2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339336_1_6b14ed25.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605287903",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605287903"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339336"
-      },
-      {
-        "id": 339335,
-        "text": "در پی شنیده شدن صداهای انفجار در کویت، ارتش این کشور اعلام کرد این صداها ناشی از رهگیری حملات موشکی و پهپادهای متخاصم از سوی سامانه‌های پدافند هوایی کویت بوده است. پیش‌تر رسانه‌ها از شنیده شدن صداهای انفجار و فعال شدن آژیرهای خطر در کویت خبر دادند.\nhttps://iranintl.com/202605286737",
-        "date": "2026-05-28T02:58:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339335_0_17b62bc2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339335_1_245b50aa.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605286737",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605286737"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339335"
-      },
-      {
-        "id": 339334,
-        "text": "تسنیم به نقل از یک منبع آگاه نظامی گزارش داد ساعاتی پیش یک نفتکش آمریکایی با خاموش کردن سیستم راداری خود قصد عبور از تنگه هرمز را داشت، اما پس از شلیک نیروی دریایی سپاه، این نفتکش مجبور به توقف و بازگشت شد.\nپیش‌ترآکسیوس به نقل از یک مقام ارشد آمریکایی گزارش داد جمهوری اسلامی چهار پهپاد انتحاری را به سوی یک کشتی نیروی دریایی آمریکا و یک کشتی تجاری شلیک کرد، اما نیروهای آمریکا این پهپادها را سرنگون کردند.\nhttps://iranintl.com/202605282248",
-        "date": "2026-05-28T01:10:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339334_0_17b62bc2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339334_1_d2e1daa2.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605282248",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605282248"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339334"
-      },
-      {
-        "id": 339325,
-        "text": "هشت روایت کوتاه از هشت زندگی ناتمام.\nاز شاهین‌شهر تا تهرانپارس، از کرج تا زنجان؛ جوانانی که بعضی تازه وارد زندگی مشترک، کار یا آینده‌ای تازه شده بودند، در خیابان‌های ایران هدف گلوله قرار گرفتند. بعضی در آغوش خانواده جان دادند، بعضی با تیر خلاص کشته شدند و بعضی حتی پس از مرگ، حقیقت کشته‌شدنشان انکار شد.\nروزبه صفری هلیسادی، مجتبی انصاری‌فرد، اشکان شهبازی، ساینا نظام‌دوست، صفا فرزانفر، رضا کاووسی حیدری، عرشیا براری و آرمین سلطان‌محمدی؛\nجاویدنامان انقلاب ملی ایرانیان.\nاین نام‌ها سند خشونتی است که بر مردم ایران گذشت؛ و یادشان بخشی از راهی است که تا آزادی ادامه دارد.\n#جاویدنامان_انقلاب_ملی_ایرانیان",
-        "date": "2026-05-28T00:04:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339325_0_17b62bc2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339325_1_323994d6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339325_2_5ee6244f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339325_3_d5a00ea5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339325_4_b82cd0c0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339325_5_43c7b62a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339325_6_8727f833.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339325_7_2402663c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339325_8_6ae66e6b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339325_9_fab14aa5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339325"
-      },
-      {
-        "id": 339324,
-        "text": "یک مقام آمریکایی در گفت‌وگو با رویترز از حملات جدید آمریکا به یک سایت نظامی در ایران خبر داد و گفت ارتش آمریکا همچنین چندین پهپاد ایرانی را رهگیری و سرنگون کرده است. هنوز به جزییات این سایت نظامی و تعداد پهپادها اشاره‌ای نشده است.\nساعتی پیش در پی شنیده شدن صدای ۳ انفجار در شرق بندرعباس، پدافند هوایی این شهر فعال شد.\nhttps://iranintl.com/202605271743",
-        "date": "2026-05-27T23:50:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339324_0_17b62bc2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339324_1_07d84283.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605271743",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605271743"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339324"
-      },
-      {
-        "id": 339323,
-        "text": "یک مقام آمریکایی به رویترز گفت ارتش آمریکا حملات تازه‌ای را در ایران انجام داده و این حملات یک سایت نظامی را هدف قرار داده است. طبق این گزارش، مقام‌های آمریکا این سایت را تهدیدی برای نیروهای آمریکایی و تردد تجاری دریایی در تنگه هرمز قلمداد کرده بودند.\nاین مقام، که به شرط فاش نشدن نامش صحبت کرد، گفت ارتش آمریکا همچنین چندین پهپاد ایرانی را رهگیری و سرنگون کرده است.\nساعتی پیش در پی شنیده شدن صدای ۳ انفجار در شرق بندرعباس، پدافند هوایی این شهر فعال شد.\nhttps://iranintl.com/202605274221",
-        "date": "2026-05-27T23:39:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339323_0_17b62bc2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339323_1_9235d5e0.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605274221",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605274221"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339323"
-      },
-      {
-        "id": 339322,
-        "text": "بعد از بازگشت نسبی اینترنت، مردم چه گفتند؟\nبازگشت نسبی اینترنت به ایران، فقط به معنای وصل شدن دوبارهٔ اینستاگرام و واتس‌اپ نبود؛ میلیون‌ها ایرانی، پس از ماه‌ها، دوباره توانستند همدیگر را پیدا کنند، حرف بزنند، تصویر بفرستند و روایت خودشان را از آن‌چه در این مدت بر آن‌ها گذشته، منتشر کنند. شاید مهم‌ترین اتفاق ۲۴ ساعت گذشته دقیقاً همین باشد؛ بازگشت روایت مردم در برابر روایت رسمی حکومت و صاحبان «سیم‌کارت‌های سفید».\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/Xum6cfiHzgU\n@iranintltv",
-        "date": "2026-05-27T23:28:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339322_0_17b62bc2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339322_1_0e15a6a4.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://youtu.be/Xum6cfiHzgU",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Xum6cfiHzgU"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339322"
-      },
-      {
-        "id": 339321,
-        "text": "اسرائیل هیوم گزارش داد ترامپ متن پیش‌نویس یادداشت تفاهم با جمهوری اسلامی را برای نتانیاهو و شماری از رهبران منطقه فرستاده است تا نظر آن‌ها را دریافت کند. این متن طی روز گذشته ارسال شده و در تماس تلفنی شب گذشته ترامپ و نتانیاهو نیز مورد بررسی قرار گرفته است.\nاسرائیل هیوم نوشت بر اساس توضیح آمریکا به کشورهای خلیج فارس، هیچ توافقی امضا نخواهد شد که به جمهوری اسلامی اجازه دهد سلاح هسته‌ای داشته باشد یا کنترل تنگه هرمز را در اختیار بگیرد. واشینگتن همچنین تاکید کرده بازگشایی کامل و آزادانه تنگه هرمز، شرط اساسی پیشرفت در مذاکرات است.\nبه گزارش اسرائیل هیوم، منابع دیپلماتیک می‌گویند آمریکا اصرار دارد جمهوری اسلامی برای تحویل اورانیوم غنی‌شده تعهد کتبی ارائه کند. ترامپ نیز گفته است تهران در ازای واگذاری اورانیوم، کاهش تحریم دریافت نخواهد کرد و مارکو روبیو تاکید کرده است ایران به سلاح هسته‌ای دست نخواهد یافت.\nhttps://iranintl.com/202605277271",
-        "date": "2026-05-27T23:28:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339321_0_17b62bc2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339321_1_192221a0.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605277271",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605277271"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339321"
-      },
-      {
-        "id": 339320,
-        "text": "سمیرا از آلمان: خاله‌ام ماه‌هاست جلوی تلویزیون نشسته تا اسم پسرِ جاویدنامش را ببیند\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/Xum6cfiHzgU\n@iranintltv",
-        "date": "2026-05-27T23:26:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339320_0_17b62bc2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339320_1_80e6dbd7.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://youtu.be/Xum6cfiHzgU",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Xum6cfiHzgU"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339320"
-      },
-      {
-        "id": 339319,
-        "text": "نور از تهران: پزشکیان حق ما را از ما گرفت و به‌عنوان صدقه برگرداند.\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/Xum6cfiHzgU\n@iranintltv",
-        "date": "2026-05-27T23:25:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339319_0_17b62bc2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339319_1_f914b208.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://youtu.be/Xum6cfiHzgU",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Xum6cfiHzgU"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339319"
-      },
-      {
-        "id": 339318,
-        "text": "🎧\nنسخه صوتی برنامه با کامبیز حسینی؛ بازگشت اینترنت و عبور مردم از روایت رسمی حکومت\n@iranintlTV",
-        "date": "2026-05-27T22:55:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339318_0_17b62bc2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339318"
-      },
-      {
-        "id": 339317,
-        "text": "ریک اسکات، سناتور جمهوری‌خواه، گفت ایالات متحده به رهبری دونالد ترامپ به هر شکل مانع دستیابی جمهوری اسلامی به سلاح هسته‌ای خواهد شد.\nاو افزود یا توافقی برای توقف این برنامه حاصل می‌شود یا اقدام نظامی قاطع انجام خواهد شد.\nگزارش مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-27T22:44:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339317_0_17b62bc2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339317_1_3232dc38.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339317"
-      },
-      {
-        "id": 339316,
-        "text": "رسانه‌های ایران از شنیده شدن صدای ۳ انفجار از شرق شهر بندرعباس حوالی ساعت ۱:۳۰ بامداد خبر دادند. هنوز محل دقیق و منشا این صداها مشخص نیست و پیگیری‌ها برای مشخص شدن آن ادامه دارد. هم‌زمان برای دقایقی پدافند هوایی بندرعباس نیز فعال شد.\nhttps://iranintl.com/202605276527",
-        "date": "2026-05-27T22:43:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339316_0_17b62bc2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339316_1_fb24f962.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605276527",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605276527"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339316"
-      },
-      {
-        "id": 339315,
-        "text": "همزمان با افزایش امیدها به بازگشایی تنگه هرمز، قیمت جهانی نفت حدود پنج درصد کاهش یافت. رویترز گزارش داد تردد نفتکش‌ها در تنگه هرمز هنوز به سطح پیش از جنگ بازنگشته است.\nگزارش اردوان روزبه، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-27T22:39:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339315_0_17b62bc2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339315_1_9faf1d94.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339315"
-      },
-      {
-        "id": 339314,
-        "text": "دونالد ترامپ گفت واشینگتن درباره کاهش تحریم‌ها یا پرداخت پول به جمهوری اسلامی گفت‌وگو نمی‌کند. نیویورک‌تایمز نیز گزارش داد دارایی‌های بلوکه‌شده و برنامه هسته‌ای جمهوری اسلامی همچنان از محورهای اختلاف در مذاکرات هستند.\nگزارش نیلوفر منصوری، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-27T22:39:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339314_0_17b62bc2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339314_1_985fa55b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339314"
-      },
-      {
-        "id": 339313,
-        "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ترامپ و روبیو تاکید کرده‌اند که هنوز توافقی با جمهوری اسلامی شکل نگرفته و اختلافات سیاسی همچنان پابرجاست. به روایت آمریکا هنوز توافقی به‌دست نیامده و اگر توافق نشود آمریکا به جنگ برخواهد گشت.»\n@iranintltv",
-        "date": "2026-05-27T22:32:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339313_0_17b62bc2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339313_1_173d34d7.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339313"
-      },
-      {
-        "id": 339312,
-        "text": "قطع اینترنت برای دانشجویان ایرانی‌تبار در کانادا فقط به معنای بی‌خبری از خانواده‌هایشان نبوده است.\nاختلال در انتقال پول، فشار اقتصادی بر خانواده‌ها و سقوط ارزش ریال، بسیاری از این دانشجویان را با مشکلات مالی و روانی روبه‌رو کرده است.\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-27T22:23:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339312_0_17b62bc2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339312_1_a12dd23e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339312"
-      },
-      {
-        "id": 339311,
-        "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «در جریان جنگ، ده‌ها مقام ارشد جمهوری اسلامی از جمله فرماندهان نظامی و امنیتی کشته شده‌اند. فرماندهان سپاه، ستاد کل و قرارگاه خاتم‌الانبیا در سطوح بالای حکومت کشته شدند، اما جمهوری اسلامی با وجود ادعاهای زیاد حتی قادر به کشتن هیچ‌یک از نیروهای ارشد اسرائیلی و آمریکایی نشد. این مشخص می‌کند چه کسی دست بالا را داشت و چه کسی دست پایین را.»\n@iranintltv",
-        "date": "2026-05-27T22:09:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339311_0_17b62bc2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339311_1_cef1a1ee.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339311"
-      },
-      {
-        "id": 339310,
-        "text": "مارکو روبیو، وزیر خارجه آمریکا، گفت: «اگر یک چیز را تحولات اخیر دوباره ثابت کرده باشد، این است که ایران نباید به سلاح هسته‌ای دست پیدا کند. ایران همچنان بزرگ‌ترین حامی تروریسم در جهان است و نباید سلاح هسته‌ای داشته باشد.»\nاو افزود: «اگر توافق امکان‌پذیر باشد، ما می‌خواهیم به آن برسیم. اگر این مسیر جواب ندهد، گزینه‌های دیگری هم وجود دارد.»\n@iranintltv",
-        "date": "2026-05-27T22:06:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339310_0_17b62bc2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339310_1_677456b9.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339310"
       }
     ],
     "tavaanatech": [
+      {
+        "id": 47185,
+        "text": "🔵\nپروکسی‌های امن MTproto برای عبور از سد فیلترینگ در تلگرام- پنج‌شنبه ۷ خرداد- ۱۴۰۵\n🤖\nبات تلگرامی بشکن\nبرای دریافت پروکسی‌های شادوساکس،\n📶\nو فیلترشکن و پاسخ به پرسش‌های شما\nUnited Arab Emirates\nhttps://t.me/proxy?server=87.248.129.210&port=4455&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20\nRussian Federation\nhttps://t.me/proxy?server=r20.proxytg.space&port=8443&secret=ee882e7f1447939817016bb33afc4fe86c7232302e70726f787974672e7370616365\nFinland\nhttps://t.me/proxy?server=nitro.proxytune.info.&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nFinland\nhttps://t.me/proxy?server=37.27.23.200&port=8443&secret=c72c3f2a6dab2843217e4b78bf0231d2\nUnited States of America\nhttps://t.me/proxy?server=bomberoo.shop&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nUnited Arab Emirates\nhttps://t.me/proxy?server=87.248.129.210&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\nGermany\nhttps://t.me/proxy?server=db.road-digger.info.&port=8443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v\nGermany\nhttps://t.me/proxy?server=178.104.221.250&port=8443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v\nNetherlands (Kingdom of the)\nhttps://t.me/proxy?server=195.254.165.4&port=8443&secret=EERighJJvXrFGRMCIMJdCQ\nRussian Federation\nhttps://t.me/proxy?server=r18.proxytg.space&port=8443&secret=eeeaf4cdef4ff30b4e3308e93f8a881ddd7231382e70726f787974672e7370616365\nبرای استفاده سایر کاربران، دوستان و هم‌وطنان، این پروکسی‎‌ها را به اشتراک بگذارید\n➡\n✍\nBeshkan",
+        "date": "2026-05-28T17:36:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "tavaanatech_47185_0_591fca3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "tavaanatech_47185_1_99a0d283.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=87.248.129.210&port=4455&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=87.248.129.210&port=4455&secret=7h..."
+          },
+          {
+            "url": "https://t.me/proxy?server=r20.proxytg.space&port=8443&secret=ee882e7f1447939817016bb33afc4fe86c7232302e70726f787974672e7370616365",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=r20.proxytg.space&port=8443&secret..."
+          },
+          {
+            "url": "https://t.me/proxy?server=nitro.proxytune.info.&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=nitro.proxytune.info.&port=443&sec..."
+          },
+          {
+            "url": "https://t.me/proxy?server=37.27.23.200&port=8443&secret=c72c3f2a6dab2843217e4b78bf0231d2",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=37.27.23.200&port=8443&secret=c72c..."
+          },
+          {
+            "url": "https://t.me/proxy?server=bomberoo.shop&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=bomberoo.shop&port=25565&secret=ee..."
+          },
+          {
+            "url": "https://t.me/proxy?server=87.248.129.210&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=87.248.129.210&port=4455&secret=ee..."
+          },
+          {
+            "url": "https://t.me/proxy?server=db.road-digger.info.&port=8443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=db.road-digger.info.&port=8443&sec..."
+          },
+          {
+            "url": "https://t.me/proxy?server=178.104.221.250&port=8443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=178.104.221.250&port=8443&secret=7..."
+          },
+          {
+            "url": "https://t.me/proxy?server=195.254.165.4&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=195.254.165.4&port=8443&secret=EER..."
+          },
+          {
+            "url": "https://t.me/proxy?server=r18.proxytg.space&port=8443&secret=eeeaf4cdef4ff30b4e3308e93f8a881ddd7231382e70726f787974672e7370616365",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=r18.proxytg.space&port=8443&secret..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/tavaanatech/47185"
+      },
+      {
+        "id": 47184,
+        "text": "📶\nپروکسی‌های امن V2Ray\n🔐\nو شادوساکس برای عبور از سد فیلترینگ در تلگرام- پنج‌‌شنبه ۷ خرداد - ۱۴۰۵\n🤖\nبات تلگرامی بشکن\nبرای دریافت پروکسی‌های شادوساکس،\n📶\nو فیلترشکن و پاسخ به پرسش‌های شما\nAustria\nvless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=austria.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp&headerType=none#%20\nNetherlands (Kingdom of the)\nvless://d511e429-e32b-46a7-ac07-a0fffa9b634c@144.31.157.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.deepl.com&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&type=tcp&headerType=none#%20\nItaly\nvless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp&headerType=none#%20\nNetherlands (Kingdom of the)\nvless://1e4cbe3e-f5b2-4629-9f41-d6f82ad2fabd@185.70.186.72:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=HCAPfG0TaMTlGVAWQH1uUBeGnZQROm-5Tq2uCFU07xk&sid=28569c51ba75eb&type=tcp&headerType=none#%20\nItaly\nvless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&type=tcp&headerType=none#%20\nFrance\nvless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&type=tcp&headerType=none#%20\nSerbia\nvless://e60f8ade-411b-4ceb-b3bd-2439676b4695@91.225.217.27:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=66I_EZijZ-HoERv8Xzmv5KydHjz4dp81Grb8CJpIy38&sid=cb89&type=tcp&headerType=none#%20\nUnited States of America\nvmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLA0KICAicG9ydCI6ICIxODAwMCIsDQogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=\nSerbia\nvless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8&sid=30fa&type=tcp&headerType=none#%20\nNetherlands (Kingdom of the)\nvless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%20\n📣\nتوضیح یک نکته مهم:\nپروکسی‌هایی که برای عبور از فیلترینگ و دسترسی به اینترنت جهانی منتشر می‌شوند، معمولاً بر بستر ابزارهایی مانند MTProto و Shadowsocks عمل می‌کنند و در شرایط عادی می‌توانند محدودیت‌های اعمال‌شده روی برخی سرویس‌ها را دور بزنند.\nبا این حال، در زمان‌هایی که اتصال ایران به اینترنت جهانی به‌صورت گسترده یا کامل قطع می‌شود و دسترسی کاربران به شبکه بین‌المللی به حداقل می‌رسد، این پروکسی‌ها نیز ممکن است امکان دور زدن شبکه داخلی (اینترانت) را نداشته باشند.\n✍\nBeshkan",
+        "date": "2026-05-28T17:24:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "tavaanatech_47184_0_591fca3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "tavaanatech_47184_1_79d9094d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/tavaanatech/47184"
+      },
+      {
+        "id": 47183,
+        "text": "اختلال در دریافت پیامک‌های تایید گوگل؛\nفقط به پیامک تکیه نکنید\n🔴\nبررسی گزارش‌های دریافتی از کاربران بعد از بازگشایی اینترنت جهانی نشان بررسی گزارش‌های کاربران پس از بازگشایی اینترنت جهانی نشان می‌دهد دریافت پیامک‌های تأیید گوگل برای بخشی از کاربران ایرانی با مشکل روبه‌رو شده است. بعضی کاربران پیامک را با تأخیر دریافت می‌کنند، بعضی اصلا کدی نمی‌گیرند و در برخی موارد ورود به حساب گوگل ناتمام می‌ماند.\nاین مشکل لزوما به معنای اختلال سراسری در سرویس‌های گوگل نیست و احتمال دارد به محدودیت‌های ارتباطی، مسیرهای مخابراتی بین‌المللی یا وضعیت اپراتورها مربوط باشد.\n🔴\nدر چنین شرایطی، بهتر است کاربران برای ورود امن‌تر به حساب گوگل فقط به پیامک وابسته نباشند. گزینه‌های مطمئن‌تر شامل Google Authenticator، پیام تأیید گوگل روی گوشی یا همان Google Prompt، کدهای پشتیبان یا Backup Codes و در صورت امکان، کلید امنیتی یا Security Key هستند. گوگل هم در راهنمای رسمی خود این روش‌ها را به‌عنوان راه‌های جایگزین برای ورود دومرحله‌ای معرفی کرده است.\n💸\ntavaanatech",
+        "date": "2026-05-28T16:43:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "tavaanatech_47183_0_591fca3e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "tavaanatech_47183_1_d0ad3d95.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/tavaanatech/47183"
+      },
       {
         "id": 47182,
         "text": "دانلود فیلترشکن\nOrbot\nنسخه اندروید(بتا)\n📱\nنسخه مخصوص گوشی‌های قدیمی‌تر با پردازنده ۳۲ بیتی ARM. برای دستگاه‌های قدیمی یا ضعیف‌تر مناسب است.\n💸\ntavaanatech",
@@ -12954,58 +12979,6 @@
         ],
         "links": [],
         "has_media": true
-      },
-      {
-        "id": 46995,
-        "text": "مومن‌نسب: فضای مجازی به هیچ وجه نباید به حالت قبل برگردد\nروح‌الله مومن‌نسب، دبیر کل جبهه انقلاب اسلامی و از مدافعان سرخت فیلترینگ که به عنوان خالق «نظریه بارداری با دوگیگ اینترنت رایگان»نیز شناخته می‌شود، در شبکه اجتماعی \"ویراستی\"پست جدیدی منتشر کرده و در آن از مخالفت با بازگشایی اینترنت و بازگشت شبکه به وضعیت پیشین نوشته است. در متن این پست که سیتنا تصویری از آن منتشر کرده آمده است:\n«نمی‌شود تنگه هرمز و مرزهای آبی را به روی رژیم‌های متخاصم و تروریستی آمریکا و اسرائیل ببندیم و فضای مجازی و جغرافیای سایبری ایران را در اختیار همان رژیم‌ها قرار دهیم.\nفضای مجازی به هیچ وجه نباید به حالت قبل برگردد؛ همان‌طور که امام شهید، دانش‌آموزان مینابی و هزاران جان عزیزتر از جان‌مان به حالت قبلی برنمی‌گردند.»\nمومن‌نسب همچنین در سالهای قبل در مناظره‌ای با موضوع شبکه‌های اجتماعی و فیلترینگ گفته بود:\n«فیلترشکن‌فروشی که باعث دسترسی مردم به محتوای پورنوگرافی می‌شود، می‌تواند به عنوان مفسد فی الارض محاکمه شود.»\n◾️\nاما واقعیت ساده‌تر و تلخ‌تر است: اینترنت آزاد دشمن مردم نیست؛ دشمن انحصارطلبی است، دشمن رانت است. دشمن پروپاگاندای حکومتی است. دشمن روایت رسمی بدون رقیب است. برای همین هم کسانی که از بستن اینترنت دفاع می‌کنند، همزمان از شنیده شدن صدای مردم در شبکه‌های آزاد می‌ترسند.\nطرح: رضا عقیلی\n💸\ntavaanatech",
-        "date": "2026-05-07T15:23:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "tavaanatech_46995_0.jpg",
-            "url": "https://cdn1.telesco.pe/file/HdjRgJA91NtKLpV9SyNBWEpTbSsXXwOZrUb2KkgjuinDRCkcbrP8Pcbfbxn4s8xVToRTo5tMjzd4gAViBNuYlwvEM7yb4t9JIJc1SpY1dnXixr7-YmBFH25fHnbMUSaeakD8vlyOQrMXBugLWCupYmAI5PZ3fbH2EGc1wTlFrakYYrknEg7Y7QybHzRGyw5WdxXtfUt8vsA9vAuUo2Slzx0eNSEhXVtNBwlZRWRRQ1Y-3IGhUBjmdohslOPmt21OqALxCEXvZoxln7NrmjxgQSzbqwzyEt-SYhnm9jyUZP_422HM8tn0HUZYyCX9gm9MhBuCmXUWGP1hL7iqzoy9lg.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true
-      },
-      {
-        "id": 46994,
-        "text": "😐\nجلوگیری از جمع‌آوری اطلاعات توسط هوش مصنوعی Grok\nدر شبکه اجتماعیِ ایکس، به طور پیش‌فرض، این قابلیت که داده‌های حساب ایکس شما برای آموزش سرویس هوش مصنوعی، ‌جمع‌آوری شود، فعال است. اما شما می‌توانید برای حفظ حریم خصوصی‌ خود آن را غیرفعال کنید.\nوب‌سایت\n📱\nیوتیوب\n🖥\n💸\ntavaanatech",
-        "date": "2026-05-08T20:04:35.356082",
-        "media": [
-          {
-            "type": "image",
-            "file": "tavaanatech_46994_0.jpg",
-            "url": "https://cdn1.telesco.pe/file/HdjRgJA91NtKLpV9SyNBWEpTbSsXXwOZrUb2KkgjuinDRCkcbrP8Pcbfbxn4s8xVToRTo5tMjzd4gAViBNuYlwvEM7yb4t9JIJc1SpY1dnXixr7-YmBFH25fHnbMUSaeakD8vlyOQrMXBugLWCupYmAI5PZ3fbH2EGc1wTlFrakYYrknEg7Y7QybHzRGyw5WdxXtfUt8vsA9vAuUo2Slzx0eNSEhXVtNBwlZRWRRQ1Y-3IGhUBjmdohslOPmt21OqALxCEXvZoxln7NrmjxgQSzbqwzyEt-SYhnm9jyUZP_422HM8tn0HUZYyCX9gm9MhBuCmXUWGP1hL7iqzoy9lg.jpg"
-          },
-          {
-            "type": "file",
-            "file": "tavaanatech_46994_4.mp4",
-            "url": "https://cdn4.telesco.pe/file/6e9031cb22.mp4?token=b8UzOrPgzsg2ka5nPUVQmQXGfYoJcg1MJ_Q6tJ7p_vESKFOrJWRehPmTtIp9QTSpE95tmIeFTfQweyuPe4LdEQ2cJ8FbfUiStFnIMkvzMasOhrKU_VnvNAFqvJERe6_jdQl4434FKmNxfRW9sSM1NBk64LPfWud-ejqROfOBsUoAgwGzR_2AKhxDprO9O7Hfb7C435tWEosftO8F4cOpISGj6WVKjh8s22J_36HLmvTK-LdlDqwfN7DkFZRcCa8S0f8EEfQNsh0r8EoATo9DupuZkg2z32XtQJ3PHrPoRGO36X1rbH6rrTbF0euLaPlZBwauJcxi1bFXvRlsShirLA"
-          },
-          {
-            "type": "file",
-            "file": "tavaanatech_46994_5.mp4",
-            "url": "https://cdn4.telesco.pe/file/6e9031cb22.mp4?token=b8UzOrPgzsg2ka5nPUVQmQXGfYoJcg1MJ_Q6tJ7p_vESKFOrJWRehPmTtIp9QTSpE95tmIeFTfQweyuPe4LdEQ2cJ8FbfUiStFnIMkvzMasOhrKU_VnvNAFqvJERe6_jdQl4434FKmNxfRW9sSM1NBk64LPfWud-ejqROfOBsUoAgwGzR_2AKhxDprO9O7Hfb7C435tWEosftO8F4cOpISGj6WVKjh8s22J_36HLmvTK-LdlDqwfN7DkFZRcCa8S0f8EEfQNsh0r8EoATo9DupuZkg2z32XtQJ3PHrPoRGO36X1rbH6rrTbF0euLaPlZBwauJcxi1bFXvRlsShirLA"
-          }
-        ],
-        "links": [],
-        "has_media": true
-      },
-      {
-        "id": 46993,
-        "text": "دستگاه تمام اتوماتیک عدالت!\nطرح: حنیف بهاری\n💸\ntavaanatech",
-        "date": "2026-05-07T13:04:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "tavaanatech_46993_0.jpg",
-            "url": "https://cdn1.telesco.pe/file/HdjRgJA91NtKLpV9SyNBWEpTbSsXXwOZrUb2KkgjuinDRCkcbrP8Pcbfbxn4s8xVToRTo5tMjzd4gAViBNuYlwvEM7yb4t9JIJc1SpY1dnXixr7-YmBFH25fHnbMUSaeakD8vlyOQrMXBugLWCupYmAI5PZ3fbH2EGc1wTlFrakYYrknEg7Y7QybHzRGyw5WdxXtfUt8vsA9vAuUo2Slzx0eNSEhXVtNBwlZRWRRQ1Y-3IGhUBjmdohslOPmt21OqALxCEXvZoxln7NrmjxgQSzbqwzyEt-SYhnm9jyUZP_422HM8tn0HUZYyCX9gm9MhBuCmXUWGP1hL7iqzoy9lg.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true
       }
     ],
     "whitedns": [
@@ -14887,6 +14860,25 @@
       }
     ],
     "ZibaNabz": [
+      {
+        "id": 23943,
+        "text": "قیمت ها در ربات تغییر کرد حتما بررسی بفرمایید\nدقت کنید سرویس ها برای شرایط نت ملی تعبیه شده و درصورت بروز مشکل و جنگ شما متصل و پایدار هستین!!!!\nپ ن : سرویس های شرایط عادی هم بزودی در ربات قرار میگیره !!\nربات رو استارت کنید [\n@v2rayngsazzbot\n]\nکد تخفیف 30 درصد\nsmartplus30",
+        "date": "2026-05-28T17:57:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_23943_0_6f0afd11.jpg"
+          },
+          {
+            "type": "image",
+            "file": "ZibaNabz_23943_1_2993b3c7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/23943"
+      },
       {
         "id": 23942,
         "text": "🔻\nکد تخفیف 30 درصد جهت خرید یا تمدید سرویس : smartvpn30\n🟢\n30 درصد تخفیف برای 100 نفر اول جهت خرید یا تمدید سرویس\n🐦\nزودتر از بقیه میتونید کد تخفیف رو وارد کنید و از این تخفیف بهره مند بشید.  ربات رو استارت کنید [ @v2rayngsazzbot ]  امروز رو با کد 30 درصد…",
@@ -16822,6 +16814,27 @@
     ],
     "echo_center": [
       {
+        "id": 6471,
+        "text": "https://t.me/proxy?server=hh87.salarjavidan.online&port=8991&secret=f41d30c2e0ca3895ca053b26d98af5b3\nپروکسی\n@Echo_Center",
+        "date": "2026-05-28T17:57:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_6471_0_8d64716b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=hh87.salarjavidan.online&port=8991&secret=f41d30c2e0ca3895ca053b26d98af5b3",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=hh87.salarjavidan.online&port=8991..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/echo_center/6471"
+      },
+      {
         "id": 6470,
         "text": "vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#Echo_Center\n@Echo_Center",
         "date": "2026-05-28T16:21:50+00:00",
@@ -18439,24 +18452,58 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/echo_center/6205"
-      },
+      }
+    ],
+    "Config_HATunnel": [
       {
-        "id": 6163,
-        "text": "کسی از تهران زلزله رو حس کرد؟ خوبید؟",
-        "date": "2026-05-12T22:02:38+00:00",
+        "id": 66895,
+        "text": "کانفیگ.    ha tunnel plus\n🟠\n#تونل_پلاس\n❤️\nبرنامه مورد نیاز از گوگل پلی\n@Config_HATunnel",
+        "date": "2026-05-28T17:12:14+00:00",
         "media": [
           {
             "type": "image",
-            "file": "echo_center_6163_0_07b6451a.jpg"
+            "file": "Config_HATunnel_66895_0_e93e6047.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/echo_center/6163"
-      }
-    ],
-    "Config_HATunnel": [
+        "source": "https://t.me/Config_HATunnel/66895"
+      },
+      {
+        "id": 66894,
+        "text": "⬅️\nدستور ۵٠ نوع غذای فوری خوشمزه و رژیمی",
+        "date": "2026-05-28T16:31:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_66894_0_e93e6047.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/66894"
+      },
+      {
+        "id": 66893,
+        "text": "😋\nماکارونی رو آبکش نکنید که نصف عمر‌تون به\nفناست\nمنم قبلا نمیدونستم تا\nدوست\nآشپزم\nبهم گفت چجوری بپزم\nانقدر خوشمزه میشه،شیش لیگ و چلوگوشت جلوش کم\nمیاره\nکی فکر میکرد ماکارونی ازبرنج جلو\nبزنه\n🍝\n: @ashpziam",
+        "date": "2026-05-28T16:31:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_66893_0_e93e6047.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Config_HATunnel_66893_1_b4de7e3a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/66893"
+      },
       {
         "id": 66892,
         "text": "فیلترشکن\n🟣\nHamara Tunnel\n🟣\nv3 (21)\nمتودهای UDP و Fast Dns سریع متصل میشند ، مابقی هم چندتا تنظیمشون تست کنید متصل میشه.\n- دقت کنید بعد ورود برنامه بروز میشه ، تو این تاریخ کانفیگ بروزش نسخه 1.0 هست پس حواستون باشه.\n🔹\nدر صورت عدم بروزرسانی کانفیگ ، از Vpn استفاده نمایید.\n@Config_HATunnel",
@@ -20470,60 +20517,39 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/66509"
-      },
-      {
-        "id": 66508,
-        "text": "چندتا ایپی خفن:\n184.50.87.0/24\n184.31.170.0/24\n184.31.169.0/24\n184.26.163.0/24\n144.76.1.0/24\n142.54.178.0/24\n138.201.54.0/24\n104.124.148.0/24\n96.16.97.0/24\n95.216.69.0/24\n94.130.0.0/16\n92.122.123.0/24\n65.109.34.0/24\n63.141.0.0/24\n50.7.5.0/24\n23.67.253.0/24\n23.195.0.0/24\n23.32.5.0/24\n2.22.151.0/16\n151.101.0.0/16\nیک لیست آیپیِ جدید برایِ شیروخورشید:\n2.22.21.152 95.101.23.82 23.215.0.164 23.197.161.35 184.28.230.87 23.220.128.221 96.17.207.142 23.50.131.18 23.36.162.209 23.219.3.212 23.223.245.150 96.16.122.59 23.2.13.138 23.2.13.144 96.17.207.135 23.220.113.51 96.17.72.41 23.203.185.105 95.101.35.83 2.21.239.23 23.54.210.170 23.215.60.73 95.101.181.125 23.192.237.222 23.200.143.71 23.58.222.98 125.56.219.8 104.80.49.118 96.16.122.158 2.21.239.10 96.16.122.65 95.101.23.170 104.111.202.158 23.2.13.201 92.123.102.104 23.58.222.139 2.17.147.89 96.17.178.132 23.49.248.6 23.222.30.64 23.55.110.70 23.2.13.153 173.222.105.65 23.200.143.73 23.201.217.14 23.55.110.200 95.101.23.25 23.37.206.186 173.222.105.42 95.101.29.12 88.221.92.177 23.50.131.132 184.86.251.27 2.16.244.11 2.16.27.71 2.19.10.30 104.121.12.86 23.73.207.16 2.18.190.26 96.16.122.149 23.201.217.150 95.101.23.168 96.17.207.162 96.16.122.48 95.101.35.73 23.192.237.208 80.67.82.179 96.17.207.154 2.21.89.66 2.18.190.27 95.100.156.147 23.192.46.51 104.76.220.137 23.36.162.198 23.37.197.128 96.17.207.143 23.36.162.208 23.36.162.202 23.200.143.88 23.55.110.46 23.55.110.143 173.222.105.18 2.23.176.166 23.44.10.10 104.126.37.171 23.55.155.169 23.210.123.174 104.117.76.26 23.46.188.168 23.58.222.147 95.101.200.63 125.56.219.32 23.192.237.209 95.101.29.54 23.46.230.118 96.17.207.153 184.25.52.200 23.202.156.203 23.36.162.196 96.16.122.145 23.33.126.163 95.101.29.30 23.36.162.215 23.39.249.249 2.21.239.29 23.210.73.136 104.126.37.161 23.2.13.186 23.50.131.160 23.219.138.200 96.16.122.153 104.117.76.146 23.38.49.97 2.19.196.105 96.16.122.141 104.78.170.186 96.17.222.31 23.41.37.129 23.2.13.227 23.222.126.108 2.20.255.113 2.17.251.98 23.2.13.152 95.101.23.27 2.21.239.21 23.211.49.252 88.221.168.5 104.103.90.156 23.79.20.249 88.221.132.162 23.59.235.208 23.60.69.118 23.46.188.71 104.122.212.92 23.219.1.4 23.57.43.195 184.51.252.135 2.22.6.68 23.217.11.56 95.100.69.108 23.40.63.69\n@Config_HATunnel",
-        "date": "2026-05-16T12:42:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_66508_0_90af9368.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/66508"
-      },
-      {
-        "id": 66507,
-        "text": "امروز 16 May روز جهانی پسره؛ ولی تو ایران بهتره بگیم روز مرد ..\nمرد های که این روزا زیر بار سختیا و مشکلات زندگی کمر خم نکردن و بی وقفه در حال تلاش کردن هستند\nپروکسی متصل\n✅\nhttps://t.me/proxy?server=194.120.230.199&port=25565&secret=dd79e344818749bd7ac519130220c25d09\n@Config_HATunnel",
-        "date": "2026-05-16T12:32:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_66507_0_90af9368.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/proxy?server=194.120.230.199&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
-            "type": "telegram",
-            "display_text": "https://t.me/proxy?server=194.120.230.199&port=25565&secret=..."
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/Config_HATunnel/66507"
-      },
-      {
-        "id": 66506,
-        "text": "اسکنر پیدا کردن ایپی های سالم برای استفاده در برنامه شیروخورشید.\nبدون فیلترشکن توی مرورگر باز کنید\nآی پی ها رو تو ورودی آیپی وارد میکنید بعد میزنید آماده سازی لیست و بعد شروع رو میزنید ، هرچی خوب بود بزن کپی ای پی های موفق\n@Config_HATunnel",
-        "date": "2026-05-16T11:53:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_66506_0_90af9368.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/66506"
       }
     ],
     "apkclub": [
+      {
+        "id": 70534,
+        "text": "🟠\n15 کد لایسنس جدید Avast VPN\nکد‌ها یکماهه هستند و ظرفیت هر کد 100 نفر هستش.\n➤\n9ESWYE-4HJYC2-4YCJ5E\n➤\nLCCKWA-BAZ442-4YCJPA\n➤\nSR3RYV-QS7CF2-4YCJV6\n➤\n22L82J-YN556J-4YCJVW\n➤\nPGKT5S-4GBZBJ-4YCJPS\n➤\nUJ5WLR-83CVY2-4YCJQA\n➤\nZGJF2K-VKTDWJ-4YCJPJ\n➤\nFKKBKP-MR6M4J-4YCJD2\n➤\n62HHA4-CX5CTJ-4YCJ76\n➤\nBKWXF9-H8SLQJ-4YCJJS\n➤\n7THEC3-RMAGJJ-4YCJU2\n➤\nFWF624-MAKZ32-4YCJV6\n➤\nT6RTFU-T5MDCJ-4YCJNA\n➤\n2EYJ9A-43H9G2-4YCJXA\n➤\nDZES2M-SXLHQ2-4YCJQA\n🔸\nبرنامه\nAvast VPN\nبه دلیل تحریم کاربران ایرانی، به صورت مستقیم وارد نمیشه و ارور میده. برای ورود، باید حتما قبلش به یک فیلترشکن دیگه وصل بشید.\n🔹\nمراحل فعال‌سازی:\nیکی از کدهای لایسنس بالا رو کپی کنید. (کلیک کنید کپی میشه). وارد برنامه بشید، روی سه نقطه گوشه صفحه کلیک کنید.\nگزینه Already purchased? رو بزنید، بعد Enter activation code رو انتخاب کنید و کد رو وارد کنید. سپس روی Active کلیک کنید تا اکانت فعال بشه.\n🔸\nچون برنامه تحریمه، ترجیحا مستقیم از داخلش وصل نشید، ممکنه اکانت مسدود بشه. باید از ویجت استفاده کنید:\nبرای ساخت ویجت روی صفحه اصلی گوشی چند ثانیه نگه دارید و از بخش ویجت‌های گوشی، ویجت Avast VPN را پیدا کرده و به صفحه اصلی اضافه کنید. حالا هر بار با یک لمس روی ویجت، VPN وصل میشه.\n﻿\n🔹\nاگر اتصال برقرار نشد، پروتکل رو از تنظیمات برنامه تغییر بدید.\nایرانسل و مخابرات:\nپروتکل Mimic یا OpenVPN\nهمراه اول:\nپروتکل Mimic\n📥\nبرای دانلود فایل از ربات روی (\nدانــلود\n) کلیک کنید.\n📲\n@APKCLUB",
+        "date": "2026-05-28T17:38:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_70534_0_499ae954.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/70534"
+      },
+      {
+        "id": 70533,
+        "text": "",
+        "date": "2026-05-28T17:37:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "apkclub_70533_0_499ae954.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/apkclub/70533"
+      },
       {
         "id": 70532,
         "text": "⌛\nمدیرعامل شرکت زیرساخت: بهبود\n#کیفیت_اینترنت\nچند روزی زمان می برد/ روند\n#ترافیک_بین‌الملل\nافزایشی است\nمعاون وزیر ارتباطات و مدیرعامل شرکت ارتباطات زیرساخت:\n🔹\n«بهبود کیفیت سرویس‌ها و بازگشت ترافیک بین‌الملل به دلیل طولانی شدن قطعی‌ها چند روزی زمان‌ می برد، در  شکل روند افزایشی ترافیک بین‌الملل قابل مشاهده است، کمی صبور باشید.\n📲\n@APKCLUB",
@@ -22227,34 +22253,6 @@
             "text": "https://github.com/iampedii/range-scout-android/"
           }
         ],
-        "has_media": true
-      },
-      {
-        "id": 70281,
-        "text": "‼️\n‼️\nپستی عجیب در پیامرسان های داخلی در مورد فیلترینگ و قطعی اینترنت\n✳️\n@APKCLUB",
-        "date": "2026-05-08T12:08:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_70281_0.jpg",
-            "url": "https://cdn1.telesco.pe/file/MV0z6vQhW2JogglLwlg6-tlNE1ux8HM5Bd-haHBNuDdW4FMuL9UN27QyVwxs1eFMSn-X1N8AfUeKqbBxZJSTE729ZA81g4oi5tR5k6QwnZe-8paLJL0ReDbjWwZqG6DhKWjpEuR2yit00ZqCY14UISIjzEZ3RGrz5Kz5EV91eJfKw3ylIez92Jk_BqJdqNQ-gNxsJHrwVcGu_Dp3whPAGJYgKBin7jm9IXJB0CcExRFl6hIV8V-CvFsFLKAVnM3FXvkYa0fE-vIr0Rw8FagwR0iZpHNwpMiyvEn4WdqWvgJwT9dxZOmNZpP7iAp0RNUFnlcYMHENzXeQmQbj4pnXaA.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true
-      },
-      {
-        "id": 70280,
-        "text": "فالوور اینستاگرام\nIP: آمریکا\n🇺🇸\nBIN: 515462004452XXXX | 03 | 2028\nلینک سایت:\nkicksta.com\n#MJEKING\n@APKCLUB",
-        "date": "2026-05-08T10:30:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_70280_0.jpg",
-            "url": "https://cdn1.telesco.pe/file/MV0z6vQhW2JogglLwlg6-tlNE1ux8HM5Bd-haHBNuDdW4FMuL9UN27QyVwxs1eFMSn-X1N8AfUeKqbBxZJSTE729ZA81g4oi5tR5k6QwnZe-8paLJL0ReDbjWwZqG6DhKWjpEuR2yit00ZqCY14UISIjzEZ3RGrz5Kz5EV91eJfKw3ylIez92Jk_BqJdqNQ-gNxsJHrwVcGu_Dp3whPAGJYgKBin7jm9IXJB0CcExRFl6hIV8V-CvFsFLKAVnM3FXvkYa0fE-vIr0Rw8FagwR0iZpHNwpMiyvEn4WdqWvgJwT9dxZOmNZpP7iAp0RNUFnlcYMHENzXeQmQbj4pnXaA.jpg"
-          }
-        ],
-        "links": [],
         "has_media": true
       }
     ],
@@ -24339,22 +24337,22 @@
       }
     ]
   },
-  "last_update": "2026-05-28T16:27:41.745546+00:00",
+  "last_update": "2026-05-28T19:14:56.689834+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 1366,
-    "total_media": 1789,
-    "total_files": 1789,
-    "total_links": 391,
+    "total_posts": 1367,
+    "total_media": 1778,
+    "total_files": 1778,
+    "total_links": 397,
     "files_by_type": {
-      "image": 1724,
-      "video": 60,
-      "file": 3,
+      "image": 1720,
+      "video": 55,
+      "file": 1,
       "audio": 2
     },
-    "referenced_files": 1789,
-    "existing_media_files": 1789,
-    "total_size_mb": 309.33,
-    "last_calculation": "2026-05-28T16:27:41.767964+00:00"
+    "referenced_files": 1778,
+    "existing_media_files": 1778,
+    "total_size_mb": 271.8,
+    "last_calculation": "2026-05-28T19:14:56.711226+00:00"
   }
 }
