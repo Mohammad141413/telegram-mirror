@@ -2,6 +2,36 @@
   "channels": {
     "vslshi": [
       {
+        "id": 10829,
+        "text": "متصل  :\nvless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?encryption=none&type=grpc&mode=gun#@lvslshi",
+        "date": "2026-05-30T14:07:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_10829_0_288be830.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/10829"
+      },
+      {
+        "id": 10828,
+        "text": "متصل  :\nvless://e221880c-0ada-4e89-a336-62c3b909f787@104.18.32.47:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&allowinsecure=1&type=grpc&serviceName=iranprimer.usip.org.entekhab.ir.presstv.ir.alef.ir.yjc.ir.presstv.ir.en.mehrnews.com&sni=Old-CaREg74s0ugV9a.CaRboNblAcKBMw.ir#@vslshi",
+        "date": "2026-05-30T13:59:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vslshi_10828_0_288be830.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vslshi/10828"
+      },
+      {
         "id": 10826,
         "text": "@playlist\n⭐️",
         "date": "2026-05-30T13:46:20+00:00",
@@ -1819,39 +1849,54 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vslshi/10683"
-      },
-      {
-        "id": 10682,
-        "text": "متصل ۲ :\nvless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=sub.sbrf-cdn342.ru&fp=qq&headerType=none&alpn=http/1.1#@vslshi",
-        "date": "2026-05-28T11:59:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_10682_0_33dc1e9c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vslshi/10682"
-      },
-      {
-        "id": 10681,
-        "text": "متصل :\nvless://c575c0fd-4833-4cba-937d-2342fd32544b@104.17.121.71:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/index.html&sni=de.vpncustomize.cc.cd&fp=chrome&mode=stream-one&alpn=h2,http/1.1#@vslshi",
-        "date": "2026-05-28T11:50:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vslshi_10681_0_33dc1e9c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vslshi/10681"
       }
     ],
     "Configir98": [
+      {
+        "id": 10260,
+        "text": "🛜\nکانفیگ Npv\nپر سرعت برای نت ملی\n🛡\nمناسب برای تمامی اپراتور ها\nT.me/CONFiGiR98",
+        "date": "2026-05-30T14:02:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_10260_0_cf3ea567.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/10260"
+      },
+      {
+        "id": 10259,
+        "text": "🛜\nکانفیگ Npv\nپر سرعت برای نت ملی\n🛡\nمناسب برای تمامی اپراتور ها\nT.me/CONFiGiR98",
+        "date": "2026-05-30T13:59:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_10259_0_cf3ea567.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/10259"
+      },
+      {
+        "id": 10258,
+        "text": "🛜\nکانفیگ Npv\nپر سرعت برای نت ملی\n🛡\nمناسب برای تمامی اپراتور ها\nT.me/CONFiGiR98",
+        "date": "2026-05-30T13:51:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Configir98_10258_0_cf3ea567.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Configir98/10258"
+      },
       {
         "id": 10257,
         "text": "🛜\nکانفیگ Npv\nپر سرعت برای نت ملی\n🛡\nمناسب برای تمامی اپراتور ها\nT.me/CONFiGiR98",
@@ -3318,60 +3363,24 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Configir98/10146"
-      },
-      {
-        "id": 10145,
-        "text": "🆕\n🔤\n🔤\n🔤\n🔤\n🔤\n🔤\n🚀\nvless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=hi-wg.pages.dev&sni=hi-wg.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98\nvless://ae0dd58e-e222-40bf-84ae-365a97532737@81.255.155.10:443?encryption=none&type=ws&security=tls&path=%2Ftools&host=pagescm.freen2.de5.net&sni=pagescm.freen2.de5.net&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98\nvless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98\nvless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98\nvless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=ws-x1.pages.dev&sni=ws-x1.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98\ntrojan://mitivpn@104.18.32.47:2096?type=ws&security=tls&path=%2F%3Fed%3D2048&sni=www.app-cloud.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/Configir98\ntrojan://mitivpn@104.18.32.47:8443?type=ws&security=tls&path=%2F%3Fed%3D2048&sni=www.app-cloud.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#https://t.me/Configir98\nvless://569dffc8-aa31-4e4f-ae8a-e158421e5b2a@me-and-who.fazelextremeisreal.com:58101?encryption=none&type=tcp&security=reality&headerType=none&sni=refersion.com&fp=chrome&allowInsecure=1&pbk=dcQd16Gscf8M8wbOPE4woBaxQ5uAzdSxDSHhM1VlPEQ&sid=a68ba8&spx=%2F#https://t.me/Configir98\nvless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=hi-wg.pages.dev&sni=hi-wg.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98\nvless://ae0dd58e-e222-40bf-84ae-365a97532737@81.255.155.10:443?encryption=none&type=ws&security=tls&path=%2Ftools&host=pagescm.freen2.de5.net&sni=pagescm.freen2.de5.net&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98\nvless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98\nvless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:443?encryption=none&type=ws&security=tls&path=%2F&host=jp.aniua.qzz.io&sni=jp.aniua.qzz.io&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98\nvless://27302727-9dfa-4975-990e-88c7a63747cd@50.62.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=ws-x1.pages.dev&sni=ws-x1.pages.dev&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8#https://t.me/Configir98\nvless://942469ee-7f8e-443d-bfd2-4f8b1faa5970@199.232.57.91:80?encryption=none&type=ws&path=%2F%3Fed%3D2056&host=Api.nHl14.iR.#https://t.me/Configir98\n🔹\nاگه وصل نشدید با سایفون ترکیب کنید\nT.me/CONFiGiR98",
-        "date": "2026-05-28T14:46:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_10145_0_772ca5f4.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/Configir98",
-            "type": "telegram",
-            "display_text": "https://t.me/Configir98"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/Configir98/10145"
-      },
-      {
-        "id": 10144,
-        "text": "🛜\nکانفیگ Npv\nبرای نت ملی\n📶\nمناسب برای تمامی نت ها\n🇮🇷\nبه امید فردایی بهتر\nT.me/CONFiGiR98",
-        "date": "2026-05-28T14:03:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_10144_0_772ca5f4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Configir98/10144"
-      },
-      {
-        "id": 10142,
-        "text": "🛜\nکانفیگ نپسترنت\nبرای نت ملی\n🔵\nمناسب برای تمامی اپراتور ها\n🇮🇷\nبه امید فردایی بهتر\nT.me/Configir98",
-        "date": "2026-05-28T12:55:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_10142_0_772ca5f4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Configir98/10142"
       }
     ],
     "vipV2rayNGnp": [
+      {
+        "id": 19089,
+        "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n💥\nT.me/VIPV2rayNGNP",
+        "date": "2026-05-30T13:50:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_19089_0_1f63ba7f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/19089"
+      },
       {
         "id": 19088,
         "text": "🤍\nNapsternetV Config\n🔒\nPassword :\n@VIPV2rayNGNP\n💥\nT.me/VIPV2rayNGNP",
@@ -4873,21 +4882,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vipV2rayNGnp/18987"
-      },
-      {
-        "id": 18986,
-        "text": "نسخه جدید فیلترشکن Super Vpn\n(آخرین نسخه بدون محدودیت)\nپسورد ‌:\n@VIPV2rayNGNP\n@VIPV2rayNGNP",
-        "date": "2026-05-28T17:12:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_18986_0_a43763c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/18986"
       }
     ],
     "Vippackager": [
@@ -9259,6 +9253,100 @@
     ],
     "IranintlTV": [
       {
+        "id": 339746,
+        "text": "شاهزاده رضا پهلوی در نشست «امنیت دریای سیاه» در اودسا در جنوب اوکراین، ضمن انتقاد از هرگونه توافق احتمالی، گفت که جمهوری اسلامی را مدیریت نکنید، بلکه به آن پایان دهید.\nاو افزود: «محور مسکو-تهران یک دشمن هماهنگ برای همه است و باید قاطعانه و با انسجام با آن برخورد شود.»\nشاهزاده رضا پهلوی ادامه داد: «هر توافقی با جمهوری اسلامی مانند توافقات با شوروی سابق موضوع را حل نکرده است.»\nhttps://iranintl.com/202605309589",
+        "date": "2026-05-30T14:11:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339746_0_b74b71e4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339746_1_896cccd3.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605309589",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605309589"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339746"
+      },
+      {
+        "id": 339745,
+        "text": "شاهزاده رضا پهلوی در نشست «امنیت دریای سیاه» در اودسا در جنوب اوکراین، گفت که دنیای آزاد هنوز متوجه ماهیت جمهوری اسلامی نشده است.\nشاهزاده رضا پهلوی درباره تلاش برای توافق با جمهوری اسلامی با امید به ایجاد ثبات، گفت که یک سگ وحشی در نهایت دست شما را گاز می‌گیرد.\nاو افزود: «پهپادهایی که اوکراین را هدف قرار می‌دهد از سوی جمهوری اسلامی تهیه شده و با همان پهپادها مردم معترض خود را در خیابان تعقیب می‌کند تا تک‌تیراندازها آن‌ها را هدف قرار دهند.»\nشاهزاده رضا پهلوی گفت که تهران و مسکو معماران مشترک هرج‌ومرج در جهان هستند.\nhttps://iranintl.com/202605309766",
+        "date": "2026-05-30T14:00:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339745_0_b74b71e4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339745_1_68d3b0e2.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605309766",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605309766"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339745"
+      },
+      {
+        "id": 339744,
+        "text": "اسماعیل سقاب اصفهانی، معاون رییس‌جمهور دولت جمهوری اسلامی، از تشدید بحران انرژی در ایران خبر داد و گفت کمبود روزانه بنزین به ۳۰ میلیون لیتر و کسری گاز به ۱۰۰ میلیارد متر مکعب رسیده است.\nگفت‌وگو با عطا حسینیان، روزنامه‌نگار اقتصادی و حوزه انرژی\n@iranintltv",
+        "date": "2026-05-30T13:58:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339744_0_b74b71e4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_339744_1_47472b8a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/339744"
+      },
+      {
+        "id": 339743,
+        "text": "مجتبی یوسفی، عضو هیات رییسه مجلس گفت: «رهبری در بحث مذاکرات، ۱۰ شرط مشخص کردند که اگر تیم مذاکره‌کننده ۱۰ شرط را رعایت نکند، نه مردم، نه نمایندگان، نه نخبگان، آن توافق را حتما به‌عنوان توافق خوب در نظر نخواهند گرفت و می‌شود تجربه‌ای که در اعتماد به غرب باعث عقب‌افتادگی کشور شد.»\nاو افزود: «امروز باید هم‌قسم شویم تا به گفته امام شهید و امام جدیدمان، مسائل اصلی کشور را حل کنیم.»\nhttps://iranintl.com/202605306617",
+        "date": "2026-05-30T13:54:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_339743_0_b74b71e4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_339743_1_ce5423c8.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605306617",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605306617"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/339743"
+      },
+      {
         "id": 339742,
         "text": "حسینعلی شهریاری، نماینده سیستان و بلوچستان در مجلس گفت: «الان شهر زاهدان هزار لیتر در ثانیه کمبود آب دارد؛ به‌طوری که طبق گفته بعضی از شهروندان، برخی از آنها ۲۴ تا ۴۸ ساعت آب ندارند و مناطق زیادی از زاهدان در این زمینه دچار مشکل هستند.»\nاو ادامه داد: «مثلا الان در زاهدان که مرکز استان است، از دولت‌های قبل، به علت کمبود آب، دو پروژه در آن شروع شد؛ یکی انتقال آب از دریای عمان که قرار بود به سیستان و بلوچستان جنوبی و خراسان رضوی برسد و دیگری هم آبی که قرار بود از دشت تهلاب برای شهر زاهدان بیاید.»\nhttps://iranintl.com/202605302542",
         "date": "2026-05-30T13:39:46+00:00",
@@ -11265,90 +11353,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/339633"
-      },
-      {
-        "id": 339632,
-        "text": "🎧\nنسخه صوتی حرف آخر با پوریا زراعتی - مجتبی و وحیدی مانع توافق هستند\n@iranintlTV",
-        "date": "2026-05-29T18:54:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339632_0_d72d7d64.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339632"
-      },
-      {
-        "id": 339631,
-        "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
-        "date": "2026-05-29T18:36:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339631_0_d72d7d64.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_339631_1_6bb8e0c0.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/339631"
-      },
-      {
-        "id": 339630,
-        "text": "خبرگزاری تسنیم، وابسته به سپاه پاسداران گزارش داد که شامگاه جمعه، در پی رصد ریزپرنده متخاصم «دشمن آمریکایی-اسرائیلی» در حوالی قشم از سوی پدافند هوایی ارتش، مورد اصابت قرار گرفت و منهدم شد.\nپیش‌تر رسانه‌های ایران تصاویری از شلیک ممتد پدافند در محدوده قشم منتشر کرده بودند.\nhttps://iranintl.com/202605297986",
-        "date": "2026-05-29T18:34:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339630_0_d72d7d64.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339630_1_e73a2014.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605297986",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605297986"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339630"
-      },
-      {
-        "id": 339622,
-        "text": "به گزارش وال‌استریت ژورنال، امارات متحده عربی در روزهای ابتدایی جنگ و حتی تا یک روز پس از اعلام آتش‌بس، ده‌ها حمله هوایی در ایران انجام داده است.\nبه گفته منابع آگاه، دامنه این حملات بسیار گسترده‌تر از چیزی بوده که پیش‌تر گزارش شده بود.\nبر اساس این گزارش، این موضوع نشان می‌دهد امارات متحده عربی در مقایسه با برخی کشورهای منطقه خلیج‌فارس، رویکردی تهاجمی‌تر و همسو با منافع راهبردی خود اتخاذ کرده است.\nhttps://iranintl.com/202605292290",
-        "date": "2026-05-29T17:26:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_339622_0_d72d7d64.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_339622_1_144d2926.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605292290",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605292290"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/339622"
       }
     ],
     "tavaanatech": [
@@ -25129,22 +25133,22 @@
       }
     ]
   },
-  "last_update": "2026-05-30T13:51:09.605354+00:00",
+  "last_update": "2026-05-30T14:14:56.312763+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1389,
-    "total_media": 1858,
-    "total_files": 1858,
+    "total_media": 1859,
+    "total_files": 1859,
     "total_links": 442,
     "files_by_type": {
-      "image": 1780,
+      "image": 1781,
       "video": 74,
       "file": 1,
       "audio": 3
     },
-    "referenced_files": 1858,
-    "existing_media_files": 1858,
-    "total_size_mb": 362.62,
-    "last_calculation": "2026-05-30T13:51:09.628372+00:00"
+    "referenced_files": 1859,
+    "existing_media_files": 1859,
+    "total_size_mb": 365.74,
+    "last_calculation": "2026-05-30T14:14:56.335474+00:00"
   }
 }
