@@ -1,7 +1,7 @@
-Last run: 2026-06-04 16:02:39 UTC
-Workflow: 26963575719
+Last run: 2026-06-04 18:35:51 UTC
+Workflow: 26971725317
 Repository: Mohammad141413/telegram-mirror
 Validation: success
 Mirror success: true
-Media files: 1884
-Media size: 333M
+Media files: 1882
+Media size: 300M
