@@ -16178,6 +16178,21 @@
     ],
     "ZibaNabz": [
       {
+        "id": 24005,
+        "text": "سلام صبحتون بخیر باشه\n🙂\n❤️",
+        "date": "2026-06-05T04:02:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_24005_0_13f3b294.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/24005"
+      },
+      {
         "id": 24004,
         "text": "کانفیگ V2ray تانل شده 5 ترابایت خریداری شد و  مخصوص نت ملی داخل ربات قرار داد شد\n💀\nدریافت کانفیگ تانل شده رایگان و پروکسی از ربات:\n👇\nتعداد محدود\n🔥\n🔥\n🔥\nhttps://t.me/RobateFiltere_Bot?start=_QTFBTIXQOFRWJGD",
         "date": "2026-06-04T18:31:27+00:00",
@@ -18162,25 +18177,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ZibaNabz/23771"
-      },
-      {
-        "id": 23770,
-        "text": "📱\nv2ray\nاز تو ربات\n@v2rayngsazzbot\nقیمتا رو ببینید\n======================\n🗿\nopenvpn\n🗿\nwireguard\n🖥\nL2TP\nبرای خرید سرویس openvpn و wireguard و L2TP  هم میتونید به ایدی زیر پیام بدین {کیفیت این سرویس ها بشدت عالیه و ایپی این سرورا تقریبا برای هر کاری بهینه شدن}.\n🚨\nمشکلی داشتین من خدمتم\n🟢\nخرید از ربات :\n@v2rayngsazzbot\n🔴\nخرید از پشتیبانی :\n@v2rayngsaz",
-        "date": "2026-05-12T05:18:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ZibaNabz_23770_0_b797a83a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "ZibaNabz_23770_1_e8b6c3f7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ZibaNabz/23770"
       }
     ],
     "echo_center": [
@@ -25844,23 +25840,23 @@
       }
     ]
   },
-  "last_update": "2026-06-05T03:44:12.824456+00:00",
+  "last_update": "2026-06-05T04:14:40.032049+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1427,
-    "total_media": 1889,
-    "total_files": 1889,
+    "total_media": 1888,
+    "total_files": 1888,
     "total_links": 466,
     "files_by_type": {
-      "image": 1802,
+      "image": 1801,
       "video": 71,
       "file": 1,
       "document": 13,
       "audio": 2
     },
-    "referenced_files": 1889,
-    "existing_media_files": 1889,
-    "total_size_mb": 311.33,
-    "last_calculation": "2026-06-05T03:44:12.847151+00:00"
+    "referenced_files": 1888,
+    "existing_media_files": 1888,
+    "total_size_mb": 311.23,
+    "last_calculation": "2026-06-05T04:14:40.049804+00:00"
   }
 }
