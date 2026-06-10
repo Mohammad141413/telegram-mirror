@@ -10062,6 +10062,75 @@
     ],
     "IranintlTV": [
       {
+        "id": 341439,
+        "text": "رویترز به نقل از یک مقام آمریکایی گزارش داد در حال حاضر گزارشی از آسیب یا تلفات در میان نیروهای آمریکایی یا خسارت به پایگاه‌های آمریکا در منطقه وجود ندارد. او افزود تقریبا تمام موشک‌ها و پهپادهای شلیک‌شده از سوی ایران رهگیری و منهدم شده‌اند.\nفاکس نیوز نیز به نقل از یک مقام ارشد آمریکا گزارش داد که ایالات متحده در حملات سه‌شنبه شب، به ۲۰ هدف در درون ایران حمله کرده است.\nhttps://iranintl.com/202606105874",
+        "date": "2026-06-10T04:57:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_341439_0_2bf04006.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_341439_1_83a46e91.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202606105874",
+            "type": "external",
+            "display_text": "https://iranintl.com/202606105874"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/341439"
+      },
+      {
+        "id": 341438,
+        "text": "وزارت خارجه جمهوری اسلامی در بیانیه‌ای ضمن محکوم کردن حمله‌های جدید آمریکا به مناطق جنوبی ایران، به همه کشورهای منطقه، به ویژه در خلیج فارس، هشدار داد اگر آمریکا و اسرائیل از قلمرو آنها برای حمله به ایران استفاده کنند، تهران در هدف قرار دادن مبدا این حملات درنگ نخواهد کرد.\nhttps://iranintl.com/202606104647",
+        "date": "2026-06-10T04:49:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_341438_0_2bf04006.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_341438_1_a32df94a.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202606104647",
+            "type": "external",
+            "display_text": "https://iranintl.com/202606104647"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/341438"
+      },
+      {
+        "id": 341437,
+        "text": "سرخط خبرهای چهارشنبه ۲۰ خرداد\n@iranintltv",
+        "date": "2026-06-10T04:33:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_341437_0_2bf04006.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_341437_1_800ac158.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/341437"
+      },
+      {
         "id": 341436,
         "text": "ارتش کویت اعلام کرد که سامانه‌های پدافند هوایی این کشور چند هدف هوایی متخاصم را رهگیری و منهدم کرده‌اند. پیش‌تر قرارگاه خاتم‌الانبیا از حمله تلافی‌جویانه سپاه و ارتش به چند پایگاه آمریکا در منطقه خبر داده بود.\nhttps://iranintl.com/202606108120",
         "date": "2026-06-10T03:54:18+00:00",
@@ -12129,63 +12198,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/341338"
-      },
-      {
-        "id": 341337,
-        "text": "کریم خان، دادستان ارشد دیوان بین‌المللی کیفری از مقام خود تعلیق شد. قرار است کشورهای عضو این نهاد قضایی به زودی درباره برکناری کامل او رأی‌گیری کنند. تحقیق هجده ماهه این نهاد اتهام آزار جنسی کریم خان را ثابت کرده است. یک کارمند زن دیوان بین‌المللی کیفری کریم خان را متهم کرده که در سفرهای کاری به زور در تخت کنار او خوابیده و او را آزار جنسی داده داست. کریم خان این اتهامات را رد کرده است.\n@iranintltv",
-        "date": "2026-06-09T13:29:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_341337_0_ead21cab.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_341337_1_5b97431d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/341337"
-      },
-      {
-        "id": 341336,
-        "text": "آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال، با اشاره به محاصره دریایی بنادر ایران و کاهش چشمگیر فروش نفت جمهوری اسلامی گفت بخش عمده صادرات کنونی نفت به چین از ذخایر شناور پیش از محاصره تامین می‌شود. به گفته او، ارائه تخفیف‌های بیشتر و کاهش تولید نفت، فشار بر صنعت نفت ایران را افزایش داده است.\n@iranintltv",
-        "date": "2026-06-09T13:25:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_341336_0_ead21cab.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_341336_1_fd188128.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/341336"
-      },
-      {
-        "id": 341334,
-        "text": "اطلاعات رسیده به ایران‌اینترنشنال حاکی است فرزانه ساسانی‌پور، ۴۲ ساله و مادر دو فرزند، در جریان اعتراضات دی‌ماه در کوه‌چنار استان فارس، هنگام کمک به مجروحان، با شلیک گلوله ماموران حکومتی جان باخته است.\nجزییات بیشتر با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-06-09T13:06:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_341334_0_ead21cab.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_341334_1_ac298134.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/341334"
       }
     ],
     "tavaanatech": [
@@ -23761,6 +23773,21 @@
     ],
     "FreakConfig": [
       {
+        "id": 7806,
+        "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇳🇱\n🇩🇪\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=%2F&security=&encryption=none&host=api.aramonlineshop.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig\nvless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://85dca508-15cc-43fc-8c35-8bc87c8a7858@45.128.233.31:8443?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=ssj.new-persian-song.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://b4a00211-ae46-49bc-8f36-0c4425eb7e86@199.232.78.158:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=nesfsheshab.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://b4a00211-ae46-49bc-8f36-0c4425eb7e86@151.101.108.223:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=nesfsheshab.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.192:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vh.mojaz-persian-music.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=ssd.new-persian-song.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig`\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n⚡\n@FreakConfig",
+        "date": "2026-06-10T04:33:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "FreakConfig_7806_0_279f7ccf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/FreakConfig/7806"
+      },
+      {
         "id": 7805,
         "text": "بخواب ایرانی خبری نیست",
         "date": "2026-06-09T22:26:16+00:00",
@@ -25393,25 +25420,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/FreakConfig/7665"
-      },
-      {
-        "id": 7657,
-        "text": "",
-        "date": "2026-03-12T12:26:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "FreakConfig_7657_0_0a41f9a7.jpg"
-          },
-          {
-            "type": "video",
-            "file": "FreakConfig_7657_1_d3b36339.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/FreakConfig/7657"
       }
     ],
     "configraygan": [
@@ -26500,23 +26508,23 @@
       }
     ]
   },
-  "last_update": "2026-06-10T04:12:39.882218+00:00",
+  "last_update": "2026-06-10T04:59:36.004054+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1470,
-    "total_media": 1944,
-    "total_files": 1944,
-    "total_links": 457,
+    "total_media": 1943,
+    "total_files": 1943,
+    "total_links": 459,
     "files_by_type": {
-      "image": 1842,
-      "video": 85,
+      "image": 1844,
+      "video": 82,
       "file": 1,
       "document": 14,
       "audio": 2
     },
-    "referenced_files": 1944,
-    "existing_media_files": 1944,
-    "total_size_mb": 327.12,
-    "last_calculation": "2026-06-10T04:12:39.905498+00:00"
+    "referenced_files": 1943,
+    "existing_media_files": 1943,
+    "total_size_mb": 321.02,
+    "last_calculation": "2026-06-10T04:59:36.022163+00:00"
   }
 }
