@@ -7557,18 +7557,9 @@
         "id": 12628,
         "text": "",
         "date": "2026-05-30T10:41:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestIELTS_12628_0_a4ee1d68.jpg"
-          },
-          {
-            "type": "video",
-            "file": "BestIELTS_12628_1_5d88dada.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestIELTS/12628"
       },
@@ -7576,14 +7567,9 @@
         "id": 12627,
         "text": "Tip: Use passive voice in formal writing\n📄\n✅\nThe new policy was introduced by the university last year.\n✅\nSeveral solutions were suggested during the meeting.\n📝\nدر writing رسمی، passive voice بیشتر استفاده می‌شود چون تمرکز روی action یا result است، نه شخص انجام‌دهنده. این ساختار مخصوصاً در Academic Task 1 و گزارش‌ها بسیار کاربردی است.\n📌\nبرای نکات بیشتر همراه ما باشید...\n|\nکانال تلگرام\n|\nپیج اینستاگرام\n|\nکانال یوتیوب\n|",
         "date": "2026-05-29T14:32:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestIELTS_12627_0_a4ee1d68.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestIELTS/12627"
       },
@@ -7591,14 +7577,9 @@
         "id": 12626,
         "text": "🟢\nبرای دریافت اطلاعات کامل و بررسی شرایطت، عدد «22» رو به آیدی زیر در تلگرام ارسال کن\n⬇️\n🚀\nt.me/ApplyFinlandStudy\n🚀\nt.me/ApplyFinlandStudy",
         "date": "2026-05-24T09:25:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestIELTS_12626_0_5e4d44da.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestIELTS/12626"
       },
@@ -9891,6 +9872,176 @@
     ],
     "IranintlTV": [
       {
+        "id": 342141,
+        "text": "شبکه سی‌ان‌ان به نقل از مقام‌های آگاه گزارش داد برنامه امضای مجازی یادداشت تفاهم میان آمریکا و جمهوری اسلامی طی ۲۴ ساعت گذشته شکل گرفت تا توافق هرچه سریع‌تر نهایی شود و از بروز موانع احتمالی در آخرین لحظات جلوگیری شود.\nبه گفته این مقام‌ها، اگرچه دونالد ترامپ، رییس‌جمهوری آمریکا، هفته گذشته گفته بود انتظار دارد مراسم امضا به‌صورت حضوری در اروپا برگزار شود و جی‌دی ونس، معاون رییس‌جمهوری آمریکا، در آن شرکت کند، اما این برنامه عملی نشد.\nسی‌ان‌ان نوشت بخشی از این تغییر به مشکلات برنامه‌ریزی و زمان‌بندی مربوط می‌شود. بر اساس این گزارش، رییس‌جمهوری و معاون او به دلایل امنیتی و تداوم اداره دولت همزمان به خارج از کشور سفر نمی‌کنند و ترامپ قرار است صبح دوشنبه برای شرکت در نشست گروه هفت راهی فرانسه شود.\nبه گفته یک منبع آگاه، در نتیجه امضای الکترونیکی برای نهایی کردن تفاهم پیشنهاد شد. این منبع افزود برخی میانجی‌ها نگران بودند هرچه امضای این یادداشت بیشتر به تعویق بیفتد، احتمال بروز رخدادی که روند پیشرفت را مختل کند یا باعث عقب‌نشینی یکی از طرف‌ها شود، افزایش یابد.\nhttps://iranintl.com/202606132591",
+        "date": "2026-06-13T20:01:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342141_0_ca766a8d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_342141_1_9986da15.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202606132591",
+            "type": "external",
+            "display_text": "https://iranintl.com/202606132591"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/342141"
+      },
+      {
+        "id": 342140,
+        "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد که شماری از ایرانی‌های ساکن بریتانیا روز ۲۳ خرداد در شهر بیرمنگام با در دست داشتن پرچم شیروخورشید در تظاهراتی علیه جمهوری اسلامی، اسامی جاویدنامان انقلاب ملی ایرانیان را بر زبان آورده و آنان را «با شرف» خطاب کردند.",
+        "date": "2026-06-13T20:00:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342140_0_ca766a8d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_342140_1_eb103bae.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/342140"
+      },
+      {
+        "id": 342139,
+        "text": "ویدیوی منتشرشده در شبکه‌های اجتماعی نشان می‌دهد جمعی از حامیان تندروی حکومت، بعدازظهر شنبه ۲۳ خرداد، مقابل دفتر نمایندگی وزارت خارجه در مشهد تجمع کرده و شعار «مرگ بر عراقچی بی‌شرف سازشکار» و «مرگ بر عراقچی بی‌شرف نفوذی» سر دادند.\nبخشی از حامیان جمهوری اسلامی در روزهای اخیر، وزارت خارجه و تیم مذاکره‌کننده را به دادن امتیازهای بیش از حد به آمریکا متهم کرده‌اند.",
+        "date": "2026-06-13T19:57:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342139_0_ca766a8d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_342139_1_145a0933.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/342139"
+      },
+      {
+        "id": 342138,
+        "text": "🔻\nتیم ملی فوتبال استرالیا پس از عملکرد قابل دفاع در جام جهانی قطر، کار خود در جام جهانی ۲۰۲۶ را با دیدار برابر ترکیه آغاز می‌کنند؛ جایی که «ساکروز» برای سنت‌شکنی در ادوار جام جهانی و شروع تورنمنت با سه امتیاز، کار بسیار سختی برابر شاگردان مونتلا خواهند داشت.\n🔹\nگزارش علیرضا محبی، خبرنگار ایران اینترنشنال\n@iranintltvsport",
+        "date": "2026-06-13T19:57:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342138_0_ca766a8d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_342138_1_432f8513.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/342138"
+      },
+      {
+        "id": 342137,
+        "text": "🔻\n۲۴ سال پس از سومی در جام جهانی ۲۰۰۲، تیم ملی ترکیه بار دیگر در جام جهانی حاضر شده و در اولین مسابقه به مصاف استرالیا می‌رود و فوتبال دوستان در ترکیه برای تماشای نمایش آردا گولر و یارانش باید ساعت هفت صبح به وقت آنکار بیدار شوند.\n🔹\nتوضیحات فرزیا ثابتی، خبرنگار ایران اینترنشنال\n@iranintltvsport",
+        "date": "2026-06-13T19:57:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342137_0_ca766a8d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_342137_1_889ae189.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/342137"
+      },
+      {
+        "id": 342136,
+        "text": "بن سبطی، پژوهشگر ایران و اسرائیل، گفت: «از زمانی که دولت و بخش قابل توجهی از جامعه لبنان مشاهده کردند اسرائیل حزب‌الله را به شدت تضعیف کرده، این احساس در حاکمیت لبنان تقویت شده که اکنون فرصت مناسبی برای بازگرداندن کنترل کامل کشور به دولت مرکزی و ارتش رسمی لبنان فراهم شده است.»\n@iranintltv",
+        "date": "2026-06-13T19:56:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342136_0_ca766a8d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_342136_1_f40dda3f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/342136"
+      },
+      {
+        "id": 342135,
+        "text": "توافق ایران و آمریکا؛ حکومت ایران چه امتیازاتی گرفته است؟\nچشم‌انداز با مهدی مهدوی‌آزاد\nنسخه کامل این برنامه در یوتیوب:\nhttps://youtu.be/qKxkAIYUJcY\n@iranintltv",
+        "date": "2026-06-13T19:56:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342135_0_ca766a8d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_342135_1_426eb597.mp4"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://youtu.be/qKxkAIYUJcY",
+            "type": "youtube",
+            "display_text": "https://youtu.be/qKxkAIYUJcY"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/342135"
+      },
+      {
+        "id": 342134,
+        "text": "محمود نبویان، نایب‌رییس کمیسیون امنیت ملی مجلس جمهوری اسلامی، در واکنش به اعلام آمریکا و پاکستان درباره امضای یادداشت تفاهم میان آمریکا و جمهوری اسلامی در روز یکشنبه، گفت: «آمریکا با این توافق به پیروزی کامل می‌رسد.»\nاو در گفت‌وگو با خبرگزاری دانشجو با اشاره به مفاد این تفاهم افزود: «آمریکا به دنبال این است که همه مشکلات خودش، از جمله قیمت نفت و بنزین، را حل کند و بعد دوباره به کشور حمله کند.»\nنبویان همچنین گفت: «هرچه پیام ضعف بفرستیم، جنگ به ما نزدیک‌تر می‌شود. با این توافقات نمی‌شود جلوی دشمن ایستاد.»\nhttps://iranintl.com/202606135842",
+        "date": "2026-06-13T19:45:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342134_0_ca766a8d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_342134_1_c34ada07.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202606135842",
+            "type": "external",
+            "display_text": "https://iranintl.com/202606135842"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/342134"
+      },
+      {
         "id": 342133,
         "text": "🎧\nنسخه صوتی چشم‌انداز: توافق ایران و آمریکا؛ حکومت ایران چه امتیازاتی گرفته است؟\n@iranintlTV",
         "date": "2026-06-13T19:38:37+00:00",
@@ -11805,184 +11956,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/342007"
-      },
-      {
-        "id": 342004,
-        "text": "عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، در گفت‌وگو با شبکه خبر گفت یادداشت تفاهم احتمالی میان تهران و واشینگتن، شامل پایان درگیری‌ها در تمامی جبهه‌ها، از جمله لبنان، خواهد بود.\nگفت‌وگو با علی رشید، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-06-13T06:06:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_342004_0_ca766a8d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_342004_1_fe502ec4.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/342004"
-      },
-      {
-        "id": 342003,
-        "text": "امید معماریان، تحلیل‌گر سیاسی در موسسه دان، گفت: «اگر آمریکا به دنبال دستیابی به توافقی پایدار با جمهوری اسلامی است، باید اطمینان حاصل کند که اسرائیل قادر به برهم زدن آن نخواهد بود.»\nاو افزود جزییات توافق احتمالی درباره برنامه هسته‌ای جمهوری اسلامی و همچنین آزادسازی دارایی‌های بلوکه‌شده ایران، از مهم‌ترین نگرانی‌های اسرائیل به شمار می‌رود.\n@iranintltv",
-        "date": "2026-06-13T06:04:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_342003_0_ca766a8d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_342003_1_810244f8.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/342003"
-      },
-      {
-        "id": 341996,
-        "text": "🔻\nجام جهانی ۲۰۲۶ با برگزاری مراسم افتتاحیه پرشور و پر ستاره در لس‌آنجلس، رسما در آمریکا آغاز شد و آمریکا پس از ۳۲ سال بار دیگر میزبانی این رقابت‌ها را بر عهده گرفت.\n🔹\nاین سومین افتتاحیه جام جهانی ۲۰۲۶ بود که به میزبانی آمریکا، مکزیک و کانادا برگزار می‌شود.\n🔹\nکتی پری، خواننده آمریکایی، به همراه تیوس لوکا، خواننده ۱۰ ساله نروژی، دقایقی پیش از ورود بازیکنان به زمین اجرا کرد.\n🔹\nفیوچر، رپر آمریکایی، تایلا، خواننده اهل آفریقای جنوبی، آنیتا، خواننده برزیلی، و لیسا، عضو گروه بلک‌پینک، نیز از دیگر هنرمندان حاضر در مراسم افتتاحیه لس‌آنجلس بودند.\n🔹\nتیم ملی آمریکا پس از این مراسم به مصاف پاراگوئه رفت.\n🔹\nتصاویر بیشتری از افتتاحیه را در\nصفحه اینستاگرام ایران اینترنشنال ورزشی\nببینید.\n🔹\nجزییاتی از مراسم افتتاحیه لس آنجلس را در\nوب‌سایت ایران اینترنشنال\nبخوانید.\n@iranintltvsport",
-        "date": "2026-06-13T05:47:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_341996_0_ca766a8d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_341996_1_619e65a8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_341996_2_d3f01b75.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_341996_3_b5d323db.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_341996_4_8720726a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_341996_5_e571512a.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_341996_6_952f3514.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_341996_7_2669914f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/341996"
-      },
-      {
-        "id": 341995,
-        "text": "🎧\nنسخه صوتی اخبار بامدادی | شنبه ۲۳ خرداد\n@iranintlTV",
-        "date": "2026-06-13T05:43:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_341995_0_ca766a8d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/341995"
-      },
-      {
-        "id": 341994,
-        "text": "صفحه فارسی وزارت خارجه اسرائیل در پستی در شبکه ایکس با اشاره به سالگرد جنگ ۱۲ روزه آمریکا و اسرائیل علیه جمهوری اسلامی نوشت: یک سال پیش در چنین روزی، ده‌ها تن از مقامات ارشد رژیم «تروریستی» جمهوری اسلامی در سه ثانیه نخست جنگ کشته شدند.\nاین صفحه تاکید کرد که این افراد پیش از کشته شدن بارها اسرائیل را تهدید به نابودی و در داخل نیز مردم ایران را سرکوب می‌کردند، در سه ثانیه اول جنگ هدف قرار گرفتند.\nhttps://iranintl.com/202606134797",
-        "date": "2026-06-13T05:38:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_341994_0_ca766a8d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_341994_1_ccccf30b.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202606134797",
-            "type": "external",
-            "display_text": "https://iranintl.com/202606134797"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/341994"
-      },
-      {
-        "id": 341993,
-        "text": "دومین روز رقابت‌های جام جهانی ۲۰۲۶ در حالی به پایان رسید که تیم ملی آمریکا در نتیجه‌ای غیرمنتظره، با برتری ۴ بر ۱ برابر پاراگوئه به پیروزی رسید.\nگزارش علیرضا مدیری، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-06-13T05:38:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_341993_0_ca766a8d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_341993_1_8d50da59.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/341993"
-      },
-      {
-        "id": 341992,
-        "text": "ایرانیان مقیم اوکلند نیوزیلند در آستانه سالروز تولد مجیدرضا رهنورد و در پاسخ به فراخوان شاهزاده رضا پهلوی، با برگزاری راهپیمایی، تشکیل زنجیره انسانی و برافراشتن پرچم شیر و خورشید، یاد او و دیگر جان‌باختگان راه آزادی ایران را گرامی داشتند.\nعلیرضا محبی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
-        "date": "2026-06-13T05:29:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_341992_0_ca766a8d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_341992_1_324acfb4.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/341992"
-      },
-      {
-        "id": 341991,
-        "text": "هم‌زمان با برگزاری برنامه‌ای برای تماشای دیدار تیم‌های ملی کانادا و بوسنی‌وهرزگوین در شهر کلگری کانادا، شماری از ایرانیان با در دست داشتن پرچم شیر و خورشید در میان جمعیت حضور یافتند.\nسپیدار ولیان، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
-        "date": "2026-06-13T05:22:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_341991_0_ca766a8d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_341991_1_7ec94e29.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/341991"
       }
     ],
     "tavaanatech": [
@@ -19712,6 +19685,21 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 68053,
+        "text": "💚\n#کانفیگ_SocksIP\nساکس آی پی\nلینک دانلود SocksIP از گوگل پلی\nتنظیمات مورد نیاز\n@Config_HATunnel",
+        "date": "2026-06-13T19:56:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_68053_0_bc7048e4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/68053"
+      },
+      {
         "id": 68043,
         "text": "نپستر\n@Config_HATunnel",
         "date": "2026-06-13T19:15:05+00:00",
@@ -21529,31 +21517,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/67753"
-      },
-      {
-        "id": 67752,
-        "text": "98% پوزیشن های جنسی که میبنید !\nاز این چنل بدون‌ سانسور کپی میشه\n👇\nhttps://t.me/+gUwWGMvcvLYxNGM0\nhttps://t.me/+gUwWGMvcvLYxNGM0",
-        "date": "2026-06-09T20:35:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_67752_0_fccaa3a7.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Config_HATunnel_67752_1_8bf2c90f.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/+gUwWGMvcvLYxNGM0",
-            "type": "telegram",
-            "display_text": "https://t.me/+gUwWGMvcvLYxNGM0"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/Config_HATunnel/67752"
       }
     ],
     "apkclub": [
@@ -26076,22 +26039,22 @@
       }
     ]
   },
-  "last_update": "2026-06-13T19:45:41.093966+00:00",
+  "last_update": "2026-06-13T20:03:18.432645+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1473,
-    "total_media": 1914,
-    "total_files": 1914,
-    "total_links": 404,
+    "total_media": 1904,
+    "total_files": 1904,
+    "total_links": 405,
     "files_by_type": {
-      "image": 1803,
+      "image": 1793,
       "video": 96,
       "document": 13,
       "audio": 2
     },
-    "referenced_files": 1914,
-    "existing_media_files": 1914,
-    "total_size_mb": 499.44,
-    "last_calculation": "2026-06-13T19:45:41.117936+00:00"
+    "referenced_files": 1904,
+    "existing_media_files": 1904,
+    "total_size_mb": 496.95,
+    "last_calculation": "2026-06-13T20:03:18.454655+00:00"
   }
 }
