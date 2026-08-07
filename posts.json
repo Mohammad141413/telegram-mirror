@@ -20319,6 +20319,25 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 70853,
+        "text": "صبحتون عسلی\n😍\n😂\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
+        "date": "2026-08-07T04:13:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_70853_0_307bc93b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "Config_HATunnel_70853_1_0d0e4312.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/70853"
+      },
+      {
         "id": 70852,
         "text": "🦋\nاگه اهل داستانی جوین شو\n📚",
         "date": "2026-08-06T22:09:49+00:00",
@@ -22210,21 +22229,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/70637"
-      },
-      {
-        "id": 70636,
-        "text": "🔞\n《مایع منی 》در زنان چگونه است\n⁉️\nمشاهده فیلم\n👉\n😒\n❤️",
-        "date": "2026-08-02T11:41:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70636_0_0b57b87e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/70636"
       }
     ],
     "apkclub": [
@@ -28374,21 +28378,21 @@
       }
     ]
   },
-  "last_update": "2026-08-07T03:34:57.776745+00:00",
+  "last_update": "2026-08-07T04:23:02.109383+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1640,
-    "total_media": 2068,
-    "total_files": 2068,
+    "total_media": 2069,
+    "total_files": 2069,
     "total_links": 378,
     "files_by_type": {
       "image": 1971,
-      "video": 96,
+      "video": 97,
       "audio": 1
     },
-    "referenced_files": 2068,
-    "existing_media_files": 2068,
-    "total_size_mb": 428.15,
-    "last_calculation": "2026-08-07T03:34:57.801266+00:00"
+    "referenced_files": 2069,
+    "existing_media_files": 2069,
+    "total_size_mb": 437.1,
+    "last_calculation": "2026-08-07T04:23:02.134806+00:00"
   }
 }
