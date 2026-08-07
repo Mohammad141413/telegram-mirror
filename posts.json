@@ -16914,6 +16914,21 @@
     ],
     "ZibaNabz": [
       {
+        "id": 24398,
+        "text": "سلام و درود صبحتون بخیر عزیزان دل\n🙂\n❤️",
+        "date": "2026-08-07T04:59:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_24398_0_697c1c00.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/24398"
+      },
+      {
         "id": 24397,
         "text": "✅\nجهت تهیه سرویس v2ray  از ربات زیر قبل خرید تست بگیرین و بعد بخرین\n✅\nربات رو استارت کنید [\n@v2rayngsazzbot\n]\n👈",
         "date": "2026-08-06T09:51:28+00:00",
@@ -18599,25 +18614,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/ZibaNabz/24259"
-      },
-      {
-        "id": 24258,
-        "text": "بدون شرح :\nاگر کسی کوچکترین مشکلی رو سرویسش داره حتما حتما پشتیبانی اعلام کنه\n@v2rayngsaz\nجهت تست رایگان و خرید ربات رو استارت کنید\n[\n@v2rayngsazzbot\n]",
-        "date": "2026-07-10T16:33:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ZibaNabz_24258_0_13e7dc21.jpg"
-          },
-          {
-            "type": "image",
-            "file": "ZibaNabz_24258_1_813a7af9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/ZibaNabz/24258"
       }
     ],
     "echo_center": [
@@ -20318,6 +20314,21 @@
       }
     ],
     "Config_HATunnel": [
+      {
+        "id": 70854,
+        "text": "قدر زندگی در کنار خانواده تون رو بدونید! مخصوصا اونجاها که یکی صداتون میکنه:\nپاشو بیا سر سفره،\nچایی میخوری برات بیارم؟\nمیوه میخوری؟\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
+        "date": "2026-08-07T04:24:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_70854_0_307bc93b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/70854"
+      },
       {
         "id": 70853,
         "text": "صبحتون عسلی\n😍\n😂\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
@@ -22214,21 +22225,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/70638"
-      },
-      {
-        "id": 70637,
-        "text": "ایشون هم به عروسی رونالدو دعوت شده.\nفرد دعوت شده\n@Config_HATunnel",
-        "date": "2026-08-02T12:50:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70637_0_0b57b87e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/70637"
       }
     ],
     "apkclub": [
@@ -28378,21 +28374,21 @@
       }
     ]
   },
-  "last_update": "2026-08-07T04:23:02.109383+00:00",
+  "last_update": "2026-08-07T05:21:17.328318+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1640,
-    "total_media": 2069,
-    "total_files": 2069,
+    "total_media": 2068,
+    "total_files": 2068,
     "total_links": 378,
     "files_by_type": {
-      "image": 1971,
+      "image": 1970,
       "video": 97,
       "audio": 1
     },
-    "referenced_files": 2069,
-    "existing_media_files": 2069,
-    "total_size_mb": 437.1,
-    "last_calculation": "2026-08-07T04:23:02.134806+00:00"
+    "referenced_files": 2068,
+    "existing_media_files": 2068,
+    "total_size_mb": 437.04,
+    "last_calculation": "2026-08-07T05:21:17.347833+00:00"
   }
 }
