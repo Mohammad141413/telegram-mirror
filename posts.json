@@ -10379,6 +10379,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 351567,
+        "text": "وال استریت ژورنال به نقل از یک مقام‌ آمریکایی گزارش داد دولت ترامپ تنها با ترتیباتی در تنگه هرمز موافقت خواهد کرد که بر اساس آن، جمهوری اسلامی هیچ عوارض یا هزینه‌ای دریافت نکند و نتواند مانع دسترسی هیچ‌کس به این آبراه شود. او گفت هرگونه مسیر کشتیرانی مشخص‌شده موقت خواهد بود.\nیک مقام آمریکایی دیگر گفت اگر تهران تنگه هرمز را بدون هیچ مانعی باز کند، آمریکا محاصره بنادر ایران را لغو خواهد کرد.\nhttps://iranintl.com/202608080967",
+        "date": "2026-08-08T03:15:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351567_0_d8a97303.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351567_1_7d425eee.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608080967",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608080967"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351567"
+      },
+      {
         "id": 351566,
         "text": "وب‌سایت «ایست آسیا فروم» در تحلیلی نوشت جنگ ۲۰۲۶ جمهوری اسلامی و آمریکا ممکن است زمینه احیای همکاری‌های موشکی تهران و پیونگ‌یانگ را فراهم کند؛ هرچند تاکنون شواهدی از مشارکت مستقیم کره شمالی در بازسازی توان موشکی جمهوری اسلامی دیده نشده است.\nاین تحلیل می‌گوید جمهوری اسلامی پس از جنگ به دنبال بازسازی زرادخانه موشکی خود است و کره شمالی، با بهره‌گیری از حمایت فنی روسیه و تجربه به‌کارگیری موشک‌هایش در جنگ اوکراین، اکنون توانایی‌های بیشتری برای انتقال فناوری در اختیار دارد.\nبه نوشته این گزارش، تهران به‌ویژه ممکن است به فناوری‌هایی مانند کلاهک‌های مانورپذیر، سامانه‌های فریب پدافند و افزایش دقت موشک‌ها علاقه‌مند باشد؛ حوزه‌هایی که کره شمالی در سال‌های اخیر روی آن‌ها کار کرده است.\nhttps://iranintl.com/202608087178",
         "date": "2026-08-08T01:32:33+00:00",
@@ -12402,25 +12427,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351461"
-      },
-      {
-        "id": 351460,
-        "text": "🔻\nایوان تونی، مهاجم ۳۰ ساله تیم ملی فوتبال انگلیس و باشگاه الاهلی عربستان سعودی، به ضرب‌وجرح در یک کلوپ شبانه در مرکز لندن متهم شد.\n🔹\nاین حادثه در ۶ دسامبر ۲۰۲۵ در خیابان «واردور» در منطقه سوهو، در مرکز لندن رخ داده است. پیگیری‌های قانونی در نهایت منجر به صدور اتهام رسمی «ایجاد جراحت و آسیب جسمی عمدی» علیه این مهاجم پیشین برنتفورد در روز پنج‌شنبه، ۳۱ ژوئیه شد.\n🔹\nاین اتهام در حالی مطرح می‌شود که تونی ماه گذشته در ترکیب اصلی تیم ملی انگلیس، در دیدار رده‌بندی جام جهانی برابر فرانسه به میدان رفت و در پیروزی ۶ بر ۴ تیمش نقش داشت.\n🔹\nسخنگوی تونی در واکنشی رسمی به این گزارش اعلام کرد: «ایوان از صدور این اتهام مطلع است و اگرچه طبیعتاً شوکه شده، اما بی‌صبرانه منتظر است تا در دادگاه فرصت پاک کردن نام خود از این اتهامات را پیدا کند.»\n🔹\nطبق اعلام مراجع قضایی، تونی که اهل نورث‌همپتون است، باید روز پنج‌شنبه، ۲۴ سپتامبر، برای رسیدگی به پرونده و پاسخ‌گویی به اتهامات مطرح‌شده در دادگاه وست‌مینستر حاضر شود.\n@iranintltvsport",
-        "date": "2026-08-07T10:06:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351460_0_a33d6ce4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_351460_1_e1bac634.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351460"
       }
     ],
     "tavaanatech": [
@@ -23751,6 +23757,21 @@
     ],
     "FreakConfig": [
       {
+        "id": 9008,
+        "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇩🇪\n🇺🇸\n🔌\nوضعیت : متصل تا زمان فیلتر\nvmess://eyJhZGQiOiIxODUuMTczLjEwNC43OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlNGIzNjM5MS0wMTRmLTQ0NjItODA5Yy04ZTY0YWE4NDM1OWUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL1Byb3h5X1N0YXRpb24vIiwicG9ydCI6IjIwMzAiLCJwcyI6IvCfh6nwn4eqQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==\nvless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://bdba330b-dfc6-4b66-93e4-b10f906bf4fb@5.231.18.206:443?security=reality&encryption=none&pbk=Td6pxpk4V5hmDKU7_K0zV64VzUL1mEtI-F_6TCHNwjE&headerType=none&fp=edge&type=tcp&sni=monalisgame.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%AD%40FreakConfig\ntrojan://e6975922-245b-4507-8d12-61b3a5434bc4@69.46.46.208:443?path=%2Fws%2Ftrojan%2Fe6975922-245b-4507-8d12-61b3a5434bc4%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=ezaccess1-luffy-ezaccess1-ab56.up.railway.app&fp=edge&type=ws&allowInsecure=0&sni=ezaccess1-luffy-ezaccess1-ab56.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.166:62145?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B4%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
+        "date": "2026-08-08T02:30:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "FreakConfig_9008_0_c3c1d5fd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/FreakConfig/9008"
+      },
+      {
         "id": 9007,
         "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇩🇪\n🇳🇱\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%B3%F3%A0%81%A3%F3%A0%81%B4%F3%A0%81%BF%40FreakConfig\nvless://44ebd5d8-c8a3-408c-8195-1cb1e97c5c21@64.176.61.124:443?security=reality&encryption=none&pbk=kOzjn-aqsOrs5AXRAYKOsU-xY-NdK3Q8ZH0XdwitFRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=products.amd.com&sid=069fba81c72d1e#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig\nvless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nsocks://Og@91.108.146.28:1080#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvmess://eyJhZGQiOiI2NS4xMDkuMjA4LjIzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjODk2NDA2Yi1jY2M0LTRjMzctOGI4Yy0xNTk2NGYzMmE5YTIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ2OTYyIiwicHMiOiLwn4er8J+HrkBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=\nvless://40303e53-3674-433c-bf6d-0155a761c966@95.182.114.74:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
         "date": "2026-08-07T21:31:00+00:00",
@@ -25444,21 +25465,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/FreakConfig/8905"
-      },
-      {
-        "id": 8904,
-        "text": "گزارشات مبتنی بر دستور آمادگی به دیتاسنتر ها برای آمادگی قطعی کامل اینترنت در روز های آینده منبع موثقی نداره و فعلا در حد شایعه هست.\nروتینگ سمت اروپا دچار اختلال هست و انتظار می‌ره بزودی اوکی بشه. اگه سرویسی دارید که سمت آسیا و آسیای شرقی هست متصل هست الان بصورت مستقیم .",
-        "date": "2026-08-02T21:13:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "FreakConfig_8904_0_f3dff712.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/FreakConfig/8904"
       }
     ],
     "configraygan": [
@@ -28221,13 +28227,13 @@
       }
     ]
   },
-  "last_update": "2026-08-08T02:01:28.306108+00:00",
+  "last_update": "2026-08-08T03:17:08.313673+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1640,
     "total_media": 2020,
     "total_files": 2020,
-    "total_links": 398,
+    "total_links": 399,
     "files_by_type": {
       "image": 1915,
       "video": 104,
@@ -28235,7 +28241,7 @@
     },
     "referenced_files": 2020,
     "existing_media_files": 2020,
-    "total_size_mb": 484.49,
-    "last_calculation": "2026-08-08T02:01:28.330453+00:00"
+    "total_size_mb": 484.5,
+    "last_calculation": "2026-08-08T03:17:08.336962+00:00"
   }
 }
