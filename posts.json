@@ -13711,6 +13711,36 @@
     ],
     "whitedns": [
       {
+        "id": 1451,
+        "text": "🌎\nپروژه WhiteVPN رو اوپن‌سورس کردیم و در گیتهاب میتونید بهش دسترسی داشته باشید.\nhttps://github.com/WhiteDNS/WhiteVPN\nهمراه با پابلیک شدن پروژه، نسخه ۱.۳.۰ هم ریلیز کردیم\n⛏\nدر این نسخه امکان\n• امکان routing برای سایت ها و آی‌پی های ایرانی به تنظیمات اضافه شده تا دیگه نیاز نباشه اتصال رو برای سایت های داخلی قطع کنید.\n• اشتراک گذاری WhiteVPN در شبکه اضافه شده.\n• حالا میتونید اپ پروکسی اپ در داخل اپ های دیگه مثل سایفون استفاده کنید.\n• تست سرعت به سابسکریپشن اضافه شده\nدانلود نسخه جدید از گیت‌هاب\nhttps://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.3.0",
+        "date": "2026-08-14T04:10:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1451_0_8bb829ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1451_1_fbfbd268.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN"
+          },
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.3.0",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.3.0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1451"
+      },
+      {
         "id": 1449,
         "text": "WhiteAesther V1.0.2\nدوستان سلام :\nما روی هسته Aether که حاصل زحمت دوست عزیزمون\nCluvexStudio\nهست یک کلاینت**\nآزمایشی ورژن بتا\n** درست کردیم . که اگر دوست دارید تست کنید و لطف کنید فیدبک بدید.\nپیشاپیش ممنونیم\n❤️\n❤️\n❤️\nاموزش :\n📖\n**راهنمای WhiteAesther**\n**۱ — نصب**\nفایل **arm64-v8a** رو بگیر (تقریباً همه گوشی‌های ۲۰۱۷ به بعد).\nمطمئن نیستی؟ **universal** همه‌جا کار می‌کنه، فقط حجمش بیشتره.\n**۲ — سه تا نکته اول**\n▪️\n**Traffic** → گزینه Coverage روی **Whole device** باشه\n⚠️\nحالت Proxy only خودش هیچی رو رد نمی‌کنه! به‌نظر می‌رسه وصل شده ولی عملاً هیچ ترافیکی از تونل نمی‌ره.\n▪️\n**Routes** → پروفایل روی **Adaptive**\n▪️\n**Settings** → اجازه اجرا در پس‌زمینه رو بده، وگرنه با خاموش شدن صفحه قطع می‌شه\n**۳ — اگه وصل نشد، به این ترتیب امتحان کن**\n**قدم ۱ — پروتکل**\nRoutes → Advanced → Preferred transport → **MASQUE over HTTP/2**\n📌\nروی **همراه اول** مدتیه QUIC (یعنی UDP) کاملاً بسته شده. یعنی H3 اصلاً وصل نمی‌شه و فقط H2 جواب می‌ده.\nاز نسخه ۱.۰.۲ اپ خودش این کار رو می‌کنه.\n**قدم ۲ — تیکه‌تیکه کردن TLS**\n⭐️\nTraffic → Advanced → **Split the TLS handshake** → روشن\nفیلترینگ معمولاً فقط تیکه اول بسته رو می‌خونه تا ببینه کجا وصل می‌شی. وقتی تیکه‌تیکه بفرستی، نمی‌تونه بخونه.\nاگه با H2 وصل می‌شی ولی کنده، **حتماً اینو امتحان کن**.\n**قدم ۳ — پروفایل**\nRoutes → Profile → **Strict network**\n(برای شبکه‌هایی که خیلی چیزها رو می‌بندن)\n**قدم ۴ — خاموش کردن IPv6**\nTraffic → Addresses → **IPv4 only**\nروی خیلی از شبکه‌های موبایل ایران IPv6 نیمه‌کاره‌ست.\n**قدم ۵ — مبهم‌سازی**\nTraffic → Advanced → Obfuscation → **Aggressive**\n💡\nاگه قدم ۲ مشکلت رو حل کرد، **Off** رو هم تست کن — شاید پدینگ اضافه فقط داشته سرعتت رو می‌گرفته.\n**قدم ۶ — اند‌پوینت دستی**\nRoutes → Endpoint → Specific address → دکمه **Find endpoints**\n⚠️\nگزینه Fall back automatically رو روشن نگه دار.\n**۴ — گزارش مشکل**\nSettings → Diagnostics & logs\n۱. Detail level روی **Verbose**\n۲. دوباره سعی کن وصل بشی\n۳. برگرد و **Send** رو بزن\nقبل از ارسال دقیقاً متنی که فرستاده می‌شه رو می‌بینی، و IP‌ها پیش‌فرض مخفی می‌شن. هیچی بدون اجازه‌ات از گوشیت بیرون نمی‌ره.\n**نکته:** اون خط خاکستری کوچیک زیر متن بزرگ توی صفحه اصلی، پیغام خود موتوره. برای فهمیدن مشکل همیشه اول اونو بخون.\nhttps://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3\n@whitedns",
         "date": "2026-08-13T08:29:01+00:00",
@@ -15780,41 +15810,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1309"
-      },
-      {
-        "id": 1308,
-        "text": "6 سرور اهدایی و فعال WhiteDNS داشته باشید برای زمان قطعی (کلیک کنید روش کپی میشه)\nServer #1 thx to Rasul\n♥️\nLocation: Turkey\n🇹🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7nwn4e3ICAgdGh4IHRvIFJhc3VsIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYW5vbnltb3VzLm9ic2VydmVyIiwiZW5jcnlwdGlvbl9rZXkiOiJiMjc1MDM5MTk5YjFjOGM5IiwiZW5jcnlwdGlvbl9tZXRob2QiOjN9fX0\nServer #2 thx to Araskhatare\n♥️\nLocation: Germany\n🇩🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6nwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI5ZGIxNjYwMmM4Yzc3NjcxOWJhZDE3ZWZjOWQxM2E0NCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #3 thx to Araskhatare\n♥️\nLocation: USA\n🇺🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6ImVkMGNlZjE2YjcxNTNiOGQ4MzVhMzI3ODYxNTk3YzY0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #4 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6vwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImIuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiIyZjAyZTNiN2NiNTg3ZjM4M2U0MWM0MmU4ZWYzYWY2MSIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #5 thx to Araskhatare\n♥️\nLocation: UK\n🇬🇧\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6zwn4enICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkYmYwMmYyYWVmZmQzM2QyNDY0M2ViODM4OGY2N2Y0ZCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #6 thx to Araskhatare\n♥️\nLocation: Ireland\n🇮🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh67wn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImkuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6IjY0MTVlYjhmOTBmMWQ0NjY1N2JjZTljYjc5MTg2NDY2IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
-        "date": "2026-07-25T11:49:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1308_0_edff540b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1308_1_8a4020d1.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.youtube.com/watch?v=tz8cj7HzHVI",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=tz8cj7HzHVI"
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=filwdiPKN90",
-            "type": "youtube",
-            "display_text": "https://www.youtube.com/watch?v=filwdiPKN90"
-          },
-          {
-            "url": "https://youtu.be/Mc--GlKw2wg",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Mc--GlKw2wg"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1308"
       }
     ],
     "ZibaNabz": [
@@ -26683,13 +26678,13 @@
       }
     ]
   },
-  "last_update": "2026-08-14T04:00:13.687784+00:00",
+  "last_update": "2026-08-14T04:14:18.345157+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1651,
     "total_media": 1740,
     "total_files": 1740,
-    "total_links": 344,
+    "total_links": 343,
     "files_by_type": {
       "image": 1647,
       "video": 91,
@@ -26698,7 +26693,7 @@
     },
     "referenced_files": 1740,
     "existing_media_files": 1740,
-    "total_size_mb": 441.93,
-    "last_calculation": "2026-08-14T04:00:13.708876+00:00"
+    "total_size_mb": 441.92,
+    "last_calculation": "2026-08-14T04:14:18.361656+00:00"
   }
 }
