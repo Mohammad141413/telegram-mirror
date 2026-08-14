@@ -9517,6 +9517,21 @@
     ],
     "IranintlTV": [
       {
+        "id": 352613,
+        "text": "سام اصغری، بازیگر و مدل، در این گفت‌وگوی ویژه با ایران‌اینترنشال از فراز و نشیب زندگی شخصی و حرفه‌ای اش می‌گوید. لازم به ذکر است که این گفت‌وگو پیش از اعتراضات دی‌ماه و کشتار خونین معترضان در ۱۸ و ۱۹ دی‌ماه انجام شده است. نسخه کامل این گفت‌وگو را در یوتیوب…",
+        "date": "2026-08-14T23:27:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352613_0_7d4cc388.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352613"
+      },
+      {
         "id": 352612,
         "text": "مسعود پزشکیان در دیدار هفته گذشته با دبیران احزاب سیاسی، از کاهش درآمدهای نفتی، افزایش هزینه واردات و خسارت واردشده به کارخانه‌ها خبر داد و گفت: نمی‌توانیم نفت بفروشیم. ویدیوهای این نشست به‌تازگی منتشر شد.\n@iranintltv",
         "date": "2026-08-14T23:03:55+00:00",
@@ -11552,25 +11567,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352512"
-      },
-      {
-        "id": 352511,
-        "text": "سرخط خبرهای جمعه ۲۳ مرداد\n@iranintltv",
-        "date": "2026-08-14T09:39:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_352511_0_fd5357d7.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_352511_1_e6d2f1fc.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352511"
       }
     ],
     "tavaanatech": [
@@ -19116,6 +19112,21 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 71232,
+        "text": "باشد که رها شویم، از رنجی که از آنِ ما نیست\n🕊\n03:03",
+        "date": "2026-08-14T23:33:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_71232_0_5e0d5770.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/71232"
+      },
+      {
         "id": 71231,
         "text": "آموزش رایگان ادمینی اینستاگرام و تلگرام  :\n💙",
         "date": "2026-08-14T23:02:09+00:00",
@@ -20862,16 +20873,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/71095"
-      },
-      {
-        "id": 71094,
-        "text": "شهرداری تهران از آغاز خرید خانه های سانتی متری خبر داد!\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
-        "date": "2026-08-12T06:42:09+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/71094"
       }
     ],
     "apkclub": [
@@ -26614,7 +26615,7 @@
       }
     ]
   },
-  "last_update": "2026-08-14T23:25:50.151177+00:00",
+  "last_update": "2026-08-14T23:52:55.181618+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1651,
@@ -26622,14 +26623,14 @@
     "total_files": 1736,
     "total_links": 334,
     "files_by_type": {
-      "image": 1621,
-      "video": 112,
+      "image": 1622,
+      "video": 111,
       "document": 1,
       "audio": 2
     },
     "referenced_files": 1736,
     "existing_media_files": 1736,
-    "total_size_mb": 496.51,
-    "last_calculation": "2026-08-14T23:25:50.185284+00:00"
+    "total_size_mb": 495.63,
+    "last_calculation": "2026-08-14T23:52:55.218473+00:00"
   }
 }
