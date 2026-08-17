@@ -9539,6 +9539,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 353014,
+        "text": "چند باب مغازه در اطراف میدان شهرداری گرگان شامگاه دوشنبه، ۲۶ مرداد، از حدود ساعت ۱۹:۱۵ دچار آتش‌سوزی شد و نیروهای آتش‌نشانی و امدادی برای اطفای حریق وارد عمل شدند. علت آتش‌سوزی و میزان خسارت هنوز مشخص نیست.\n@iranintltv",
+        "date": "2026-08-17T20:16:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353014_0_74ecb81f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353014_1_76486e37.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353014"
+      },
+      {
         "id": 353013,
         "text": "رهبر حزب محافظه‌کار کانادا در دیدار با ایرانیان ونکوور از عملکرد دولت فدرال انتقاد کرد و خواستار اخراج فوری افرادی شد که به صورت داوطلبانه با سپاه پاسداران همکاری می‌کنند.\nاو با تاکید بر اینکه سربازان وظیفه نباید هدف قرار بگیرند، گفت این سربازان وظیفه خود قربانی این نهاد «تروریستی» هستند.\nرهبر حزب محافظه‌کار کانادا همچنین از هماهنگی برای دیدار با شاهزاده رضا پهلوی و دعوت رسمی از او برای سفر به کانادا خبر داد.\nhttps://iranintl.com/202608172050",
         "date": "2026-08-17T20:01:35+00:00",
@@ -11508,25 +11527,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352913"
-      },
-      {
-        "id": 352912,
-        "text": "گروهی از ایرانیان ساکن آستین در ایالت تگزاس آمریکا روز یکشنبه ۲۵ مرداد با برگزاری تجمعی خواهان قطع مذاکره دولت ترامپ با جمهوری اسلامی شدند و اجرای اعدام معترضان در ایران را محکوم کردند.\n@iranintltv",
-        "date": "2026-08-17T06:58:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_352912_0_f8229cf9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_352912_1_bd961def.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352912"
       }
     ],
     "tavaanatech": [
@@ -19221,6 +19221,40 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 71353,
+        "text": "از تو،\nبتی ساختہ‌ام بزرگ و مقدس!\nمحال است بگذارم\nابراهیمی در من\nمبعوث شود!\n♥️\n‎‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌‌‌‌‌ ‎‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌‌\n✨\nصفر عاشقی 00:00\n@Config_HATunnel",
+        "date": "2026-08-17T20:30:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_71353_0_a7a65646.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/71353"
+      },
+      {
+        "id": 71352,
+        "text": "وقتی نوتیف پیامش میاد:\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
+        "date": "2026-08-17T20:17:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_71352_0_a7a65646.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Config_HATunnel_71352_1_7d98a244.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/71352"
+      },
+      {
         "id": 71351,
         "text": "‏ایرانسل و همراه اول فکر کنم یه بسته رو به چند نفر می‌فروشن.\n@Config_HATunnel\n| 1991",
         "date": "2026-08-17T17:14:33+00:00",
@@ -20997,26 +21031,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/71207"
-      },
-      {
-        "id": 71206,
-        "text": "7, کانفیگ نپستر همه اپراتورها پرسرعت\n🚀\n@Config_HATunnel",
-        "date": "2026-08-14T04:40:50+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/71206"
-      },
-      {
-        "id": 71205,
-        "text": "ما آخرین نسلی هستیم که می‌دونیم دنیای قبل از اینترنت چه حس و حالی داشت\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
-        "date": "2026-08-14T04:40:01+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/71205"
       }
     ],
     "apkclub": [
@@ -26861,21 +26875,21 @@
       }
     ]
   },
-  "last_update": "2026-08-17T20:02:30.983861+00:00",
+  "last_update": "2026-08-17T20:32:02.078963+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1652,
-    "total_media": 1736,
-    "total_files": 1736,
+    "total_media": 1739,
+    "total_files": 1739,
     "total_links": 384,
     "files_by_type": {
-      "image": 1638,
+      "image": 1641,
       "video": 96,
       "audio": 2
     },
-    "referenced_files": 1736,
-    "existing_media_files": 1736,
-    "total_size_mb": 393.4,
-    "last_calculation": "2026-08-17T20:02:31.003736+00:00"
+    "referenced_files": 1739,
+    "existing_media_files": 1739,
+    "total_size_mb": 389.89,
+    "last_calculation": "2026-08-17T20:32:02.099841+00:00"
   }
 }
