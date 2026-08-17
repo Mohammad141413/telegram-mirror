@@ -13484,6 +13484,21 @@
     ],
     "whitedns": [
       {
+        "id": 1504,
+        "text": "سلام دوستان :\n❤️\nاینقدر درخواست برای IP ثابت برنامه های  whiteAesther و whitevpn اومده که دیدیم بهتر هست ، یک پست براتون بگذارم\nدر حال حاظر  این امکان توی آخرین ورژن های این دو برنامه وجود ندارد\nاما ما دو نفر هستیم که داریم روش کار میکنیم و امیدواریم طی روزهای آینده به دستتون برسونیم ، یکم به ما وقت بدید و صبور باشید.\nببخشید که انجام درخواست های شما گاهی طول می‌کشه، چون ما هم مثل تک تک شما درگیر کار و زندگی و مسائل خودمون هستیم و گاهی وقت کم میاریم\nولی مطمئن باشید ما همه پیام های شما را می‌خونیم و تا جایی که بتونیم ترتیب اثر می‌دیم ،\nارادتمند و کوچیک تک تک شما عزیزان دل\nویسپر",
+        "date": "2026-08-17T12:48:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1504_0_21027bca.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1504"
+      },
+      {
         "id": 1502,
         "text": "⚠️\nبه نظر میاد که دامنه\nworkers.dev\nکلادفلر رفع فیلتر شده است",
         "date": "2026-08-16T15:49:50+00:00",
@@ -15625,21 +15640,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1355"
-      },
-      {
-        "id": 1354,
-        "text": "🚀\nانتشار WhiteDNS نسخه 1.6.0\n👆\n⚠️\nلطفا تست بکنید و نتیجه رو به ما بگید\n❤️\nسرور تست CottenDNS   cottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQ290dGVuRE5TIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYmFtYWsueHl6IiwiZW5jcn…",
-        "date": "2026-07-28T10:00:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1354_0_fb7d2731.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/1354"
       }
     ],
     "ZibaNabz": [
@@ -19134,6 +19134,25 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 71343,
+        "text": "همین.\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
+        "date": "2026-08-17T12:53:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_71343_0_a7a65646.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Config_HATunnel_71343_1_6797b227.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/71343"
+      },
+      {
         "id": 71342,
         "text": "🔱\nHTTP Custom\n🇺🇲\n(1).hc",
         "date": "2026-08-17T12:34:49+00:00",
@@ -20870,16 +20889,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/Config_HATunnel/71198"
-      },
-      {
-        "id": 71197,
-        "text": "چه زیبا گفت سهراب سپهري...\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
-        "date": "2026-08-13T20:31:04+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/71197"
       }
     ],
     "apkclub": [
@@ -26717,21 +26726,21 @@
       }
     ]
   },
-  "last_update": "2026-08-17T12:47:12.831229+00:00",
+  "last_update": "2026-08-17T12:59:31.608653+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1652,
-    "total_media": 1713,
-    "total_files": 1713,
+    "total_media": 1715,
+    "total_files": 1715,
     "total_links": 377,
     "files_by_type": {
-      "image": 1612,
+      "image": 1614,
       "video": 99,
       "audio": 2
     },
-    "referenced_files": 1713,
-    "existing_media_files": 1713,
-    "total_size_mb": 388.6,
-    "last_calculation": "2026-08-17T12:47:12.847136+00:00"
+    "referenced_files": 1715,
+    "existing_media_files": 1715,
+    "total_size_mb": 388.72,
+    "last_calculation": "2026-08-17T12:59:31.628724+00:00"
   }
 }
