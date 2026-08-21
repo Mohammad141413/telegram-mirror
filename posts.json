@@ -2759,6 +2759,21 @@
     ],
     "vipV2rayNGnp": [
       {
+        "id": 21087,
+        "text": "",
+        "date": "2026-08-21T23:54:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "vipV2rayNGnp_21087_0_7cc841b7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/vipV2rayNGnp/21087"
+      },
+      {
         "id": 21086,
         "text": "Master VPN.npvt",
         "date": "2026-08-21T21:41:14+00:00",
@@ -4246,21 +4261,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/vipV2rayNGnp/20986"
-      },
-      {
-        "id": 20985,
-        "text": "کانفیگ Npv\n🔐\nپرسرعت برای نت ملی\nمناسب برایتمامی اپراتورها\n⭐️\nمناسب برای دانلود و اینستا\n💬\nیوتیوپ\n▶️\n🔹\nخرید سرور اختصاصی کلیک کن\n👉\n🔹\nدانلود Npv برای اندروید\n🤖\nبرای آیفون\n🤍\nT.me/VIPV2rayNGNP",
-        "date": "2026-08-16T06:44:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "vipV2rayNGnp_20985_0_f462a6a1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/vipV2rayNGnp/20985"
       }
     ],
     "Vippackager": [
@@ -26304,7 +26304,7 @@
       }
     ]
   },
-  "last_update": "2026-08-21T23:30:46.105564+00:00",
+  "last_update": "2026-08-21T23:55:04.437419+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1658,
@@ -26320,6 +26320,6 @@
     "referenced_files": 1580,
     "existing_media_files": 1580,
     "total_size_mb": 470.51,
-    "last_calculation": "2026-08-21T23:30:46.124068+00:00"
+    "last_calculation": "2026-08-21T23:55:04.456673+00:00"
   }
 }
