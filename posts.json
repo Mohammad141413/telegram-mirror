@@ -13862,6 +13862,21 @@
     ],
     "whitedns": [
       {
+        "id": 1619,
+        "text": "",
+        "date": "2026-08-26T13:07:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1619_0_7c89e955.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1619"
+      },
+      {
         "id": 1618,
         "text": "👑\nیک پورت برای حکومت بر همه!\nآموزش نصب و راه‌اندازی CottenRouter\n🇺🇦\nتماشا در یوتیوب\nhttps://youtu.be/N725_-A_-B8\nاگر روی یک سرور چند DNS Tunnel مختلف داشته باشید، خیلی زود به یک مشکل می‌خورید: همه‌شون پورت عمومی 53 رو می‌خوان.\nسرویس CottenRouter دقیقاً برای حل همین مشکل ساخته شده. جلوی تمام سرویس‌ها قرار می‌گیره، دامنه هر درخواست رو تشخیص می‌ده و بدون دست‌کاری Packet، اون رو به Backend درست می‌فرسته.\nیعنی می‌تونید CottenDNS، MasterDnsVPN، StormDNS، thefeed و سرویس‌های مدیریت‌شده با SlipGate رو هم‌زمان روی یک سرور و یک IP اجرا کنید؛ بدون جنگ بر سر پورت 53.\n✍️\nتوی این ویدیو می‌بینیم:\n• سرویس CottenRouter دقیقاً چه مشکلی رو حل می‌کنه\n• مسیریابی درخواست‌ها بر اساس Domain چطور انجام می‌شه\n• چطور چند DNS Tunnel روی یک IP اجرا می‌شن\n• پشتیبانی از DNS، DoT و HTTPS\n• تفاوت نصب مستقیم با Docker\n• پنل مانیتورینگ، محدودسازی ترافیک و قابلیت‌های امنیتی\n• نحوه نصب و اتصال Backendها\nسرویس CottenRouter هیچ Label یا داده اضافه‌ای وارد Packet نمی‌کنه؛ پس فضای قابل استفاده Tunnel و MTU رو هم کاهش نمی‌ده.\n🇺🇦\nتماشا در یوتیوب\nhttps://youtu.be/N725_-A_-B8\n🔗\nسورس‌کد و راهنمای نصب:\nhttps://github.com/TaJirax/CottenRouter\nاگر با DNS Tunnelها کار می‌کنید، این پروژه احتمالاً کلی دردسر از مدیریت سرورتون کم می‌کنه.",
         "date": "2026-08-26T11:43:28+00:00",
@@ -16088,31 +16103,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1451"
-      },
-      {
-        "id": 1449,
-        "text": "WhiteAesther V1.0.2\nدوستان سلام :\nما روی هسته Aether که حاصل زحمت دوست عزیزمون\nCluvexStudio\nهست یک کلاینت**\nآزمایشی ورژن بتا\n** درست کردیم . که اگر دوست دارید تست کنید و لطف کنید فیدبک بدید.\nپیشاپیش ممنونیم\n❤️\n❤️\n❤️\nاموزش :\n📖\n**راهنمای WhiteAesther**\n**۱ — نصب**\nفایل **arm64-v8a** رو بگیر (تقریباً همه گوشی‌های ۲۰۱۷ به بعد).\nمطمئن نیستی؟ **universal** همه‌جا کار می‌کنه، فقط حجمش بیشتره.\n**۲ — سه تا نکته اول**\n▪️\n**Traffic** → گزینه Coverage روی **Whole device** باشه\n⚠️\nحالت Proxy only خودش هیچی رو رد نمی‌کنه! به‌نظر می‌رسه وصل شده ولی عملاً هیچ ترافیکی از تونل نمی‌ره.\n▪️\n**Routes** → پروفایل روی **Adaptive**\n▪️\n**Settings** → اجازه اجرا در پس‌زمینه رو بده، وگرنه با خاموش شدن صفحه قطع می‌شه\n**۳ — اگه وصل نشد، به این ترتیب امتحان کن**\n**قدم ۱ — پروتکل**\nRoutes → Advanced → Preferred transport → **MASQUE over HTTP/2**\n📌\nروی **همراه اول** مدتیه QUIC (یعنی UDP) کاملاً بسته شده. یعنی H3 اصلاً وصل نمی‌شه و فقط H2 جواب می‌ده.\nاز نسخه ۱.۰.۲ اپ خودش این کار رو می‌کنه.\n**قدم ۲ — تیکه‌تیکه کردن TLS**\n⭐️\nTraffic → Advanced → **Split the TLS handshake** → روشن\nفیلترینگ معمولاً فقط تیکه اول بسته رو می‌خونه تا ببینه کجا وصل می‌شی. وقتی تیکه‌تیکه بفرستی، نمی‌تونه بخونه.\nاگه با H2 وصل می‌شی ولی کنده، **حتماً اینو امتحان کن**.\n**قدم ۳ — پروفایل**\nRoutes → Profile → **Strict network**\n(برای شبکه‌هایی که خیلی چیزها رو می‌بندن)\n**قدم ۴ — خاموش کردن IPv6**\nTraffic → Addresses → **IPv4 only**\nروی خیلی از شبکه‌های موبایل ایران IPv6 نیمه‌کاره‌ست.\n**قدم ۵ — مبهم‌سازی**\nTraffic → Advanced → Obfuscation → **Aggressive**\n💡\nاگه قدم ۲ مشکلت رو حل کرد، **Off** رو هم تست کن — شاید پدینگ اضافه فقط داشته سرعتت رو می‌گرفته.\n**قدم ۶ — اند‌پوینت دستی**\nRoutes → Endpoint → Specific address → دکمه **Find endpoints**\n⚠️\nگزینه Fall back automatically رو روشن نگه دار.\n**۴ — گزارش مشکل**\nSettings → Diagnostics & logs\n۱. Detail level روی **Verbose**\n۲. دوباره سعی کن وصل بشی\n۳. برگرد و **Send** رو بزن\nقبل از ارسال دقیقاً متنی که فرستاده می‌شه رو می‌بینی، و IP‌ها پیش‌فرض مخفی می‌شن. هیچی بدون اجازه‌ات از گوشیت بیرون نمی‌ره.\n**نکته:** اون خط خاکستری کوچیک زیر متن بزرگ توی صفحه اصلی، پیغام خود موتوره. برای فهمیدن مشکل همیشه اول اونو بخون.\nhttps://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3\n@whitedns",
-        "date": "2026-08-13T08:29:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1449_0_21cf7dbc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1449_1_f8d76264.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/..."
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1449"
       }
     ],
     "ZibaNabz": [
@@ -26839,22 +26829,22 @@
       }
     ]
   },
-  "last_update": "2026-08-26T13:06:00.020670+00:00",
+  "last_update": "2026-08-26T13:13:01.331353+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1663,
-    "total_media": 1653,
-    "total_files": 1653,
-    "total_links": 427,
+    "total_media": 1652,
+    "total_files": 1652,
+    "total_links": 426,
     "files_by_type": {
-      "image": 1558,
+      "image": 1557,
       "video": 93,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 1653,
-    "existing_media_files": 1653,
-    "total_size_mb": 394.17,
-    "last_calculation": "2026-08-26T13:06:00.040297+00:00"
+    "referenced_files": 1652,
+    "existing_media_files": 1652,
+    "total_size_mb": 394.14,
+    "last_calculation": "2026-08-26T13:13:01.351608+00:00"
   }
 }
