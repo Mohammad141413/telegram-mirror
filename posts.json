@@ -9867,6 +9867,21 @@
     ],
     "IranintlTV": [
       {
+        "id": 355928,
+        "text": "🎧\nنسخه صوتی اخبار بامدادی | یک‌شنبه ۱۵ شهریور\n@iranintlTV",
+        "date": "2026-09-06T06:40:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_355928_0_4df23d7d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/355928"
+      },
+      {
         "id": 355927,
         "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، صف طولانی خودروها را مقابل یک جایگاه سوخت نشان می‌دهد و می‌گوید از یک بامداد تا پنج صبح در صف بنزین بوده است اما بنزین تمام شده و به آنها نرسیده است.",
         "date": "2026-09-06T06:20:54+00:00",
@@ -11898,25 +11913,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/355826"
-      },
-      {
-        "id": 355825,
-        "text": "محمدرضا عارف، معاون دولت مسعود پزشکیان، گفت حوادث دی‌ماه «بسیار سنگین» بود و بیش از سه هزار نفر جان خود را از دست دادند.\nاو با اشاره به اعلام فهرست کشته‌شدگان این حوادث گفت اعلام این فهرست با «تدبیر علی خامنه‌ای» انجام شد و افزود در حالی که اعداد اعلام‌شده از سوی «دشمن» بیش از ۳۰ هزار نفر بود، در داخل هم برخی درباره صحت رقم ۳۶ هزار کشته سوال داشتند.\n@iranintltv",
-        "date": "2026-09-05T08:26:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_355825_0_9f6a9666.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_355825_1_161fe948.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/355825"
       }
     ],
     "tavaanatech": [
@@ -27303,21 +27299,21 @@
       }
     ]
   },
-  "last_update": "2026-09-06T06:25:43.430538+00:00",
+  "last_update": "2026-09-06T06:41:58.996910+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1666,
-    "total_media": 1795,
-    "total_files": 1795,
+    "total_media": 1794,
+    "total_files": 1794,
     "total_links": 387,
     "files_by_type": {
       "image": 1691,
-      "video": 102,
+      "video": 101,
       "document": 2
     },
-    "referenced_files": 1795,
-    "existing_media_files": 1795,
-    "total_size_mb": 401.45,
-    "last_calculation": "2026-09-06T06:25:43.474983+00:00"
+    "referenced_files": 1794,
+    "existing_media_files": 1794,
+    "total_size_mb": 400.67,
+    "last_calculation": "2026-09-06T06:41:59.018750+00:00"
   }
 }
