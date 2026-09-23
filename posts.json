@@ -9311,6 +9311,44 @@
     ],
     "IranintlTV": [
       {
+        "id": 358713,
+        "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گفت که شرکت پتروپارس، زیرمجموعه فرعی شرکت ملی نفت ایران، از چهار ماه پیش به این سو حقوق کارگران یکی از پروژه‌های خود را نداده است.",
+        "date": "2026-09-23T07:30:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_358713_0_5b585ef3.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_358713_1_891ee259.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/358713"
+      },
+      {
+        "id": 358712,
+        "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گزارش داد روز اول مهر، همزمان با آغاز سال تحصیلی، چند ون پرچم‌دار و خودروهای مجهز به بلندگو با پخش نوحه وارد مدرسه براتی در گرمدره شدند و شماری از نیروهای نظامی نیز به محوطه مدرسه رفتند.",
+        "date": "2026-09-23T07:13:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_358712_0_5b585ef3.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_358712_1_513d8471.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/358712"
+      },
+      {
         "id": 358711,
         "text": "محمدجعفر قائم‌پناه، معاون اجرایی مسعود پزشکیان، در بازدید از مدرسه‌ای به مناسبت نخستین روز بازگشایی مدارس، با اشاره به مشکلات معیشتی معلمان گفت که بخشی از سختی‌ها را دولت و بخشی را معلمان و مردم تحمل کنند.\nقائم‌پناه در جمع خبرنگاران گفت: «اینکه گرانی وجود دارد، واقعیت تلخی است، ولی شرایط کشور هم باید درک شود. باید در کنار همه سختی‌ها به ایستادگی‌مان هم توجه کنیم و عزت ایران کماکان مد نظر باشد.»\nاو افزود: «هرچند شرایط سخت است، ولی برای حفظ تمامیت ارضی و عزت ایران، هم دولت باید مقداری بیشتر سختی‌ها را تحمل کند و هم مردم ایران.»\nمعاون اجرایی پزشکیان همچنین گفت: «خوشحالم که مردم با وجود همه سختی‌ها، تاب‌آوری‌شان را به دنیا نشان دادند.»\nhttps://iranintl.com/202609230662",
         "date": "2026-09-23T06:51:49+00:00",
@@ -11319,44 +11357,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/358570"
-      },
-      {
-        "id": 358569,
-        "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد یک حامی حکومت در مشهد به دلیل حجاب مزاحم زنان در یک اتوبوس شده و وقتی متوجه می‌شود یکی از آنها با گوشی خود فیلم می‌گیرد، به او حمله می‌کند.",
-        "date": "2026-09-22T11:59:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_358569_0_6bd59bee.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_358569_1_9e729cb8.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/358569"
-      },
-      {
-        "id": 358568,
-        "text": "جاویدنامان انقلاب ملی ایرانیان\n«فائزه مستعان» ۱۸ دی‌ماه در جریان اعتراضات مردمی در منطقه گوهردشت کرج با شلیک مستقیم نیروهای خامنه‌ای جان خود را از دست داد. نامش در حافظه‌ی این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.\n@iranintltv",
-        "date": "2026-09-22T11:59:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_358568_0_6bd59bee.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_358568_1_6ef8e62e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/358568"
       }
     ],
     "tavaanatech": [
@@ -18692,6 +18692,51 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 73355,
+        "text": "پروکسی جدید\n☑️\ntg://proxy?server=77pp3j.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=88o2l.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=991z.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09\n@Config_HATunnel",
+        "date": "2026-09-23T07:29:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_73355_0_85715670.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=88o2l.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=88o2l.ir.ir.ir.meli-n12.info&port=..."
+          },
+          {
+            "url": "https://t.me/proxy?server=991z.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=991z.masi.ir.he6fhd.ru&port=8443&s..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Config_HATunnel/73355"
+      },
+      {
+        "id": 73354,
+        "text": "🔴\nگوگولی‌ترین ویدئویی که تا آخر هفته می‌تونی ببینی؛\nبِلی خانم، طوطی برزیلیِ یکی از هموطن‌ها عادت داره هر روز میاد پیش صاحبش و ازش کاغذ می‌‌گیره.\nبعد خودش همون کاغذ رو لوله میکنه  تا واسه خودش دُم درست کنه...\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
+        "date": "2026-09-23T07:28:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_73354_0_85715670.jpg"
+          },
+          {
+            "type": "video",
+            "file": "Config_HATunnel_73354_1_956adc4a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/73354"
+      },
+      {
         "id": 73353,
         "text": "ازینکه امروز ساعت ۷  بیدار نشدم برم مدرسه خوشحالم. ساعت ۶ بیدار شدم اومدم سرکار\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
         "date": "2026-09-23T06:36:11+00:00",
@@ -20345,32 +20390,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/Config_HATunnel/73199"
-      },
-      {
-        "id": 73198,
-        "text": "🎙️\n✨\nصدای ماندگار، خاطره‌های بی‌پایان...\n💖\n🎶\nگلچین بهترین آهنگ‌های\nهایده\nو\nمهستی\n🌹\nهمین حالا همراه ما شوید و از موسیقی اصیل لذت ببرید.\n🎧\nhttps://t.me/+6SKnawlTjCE2Njg0\nhttps://t.me/+6SKnawlTjCE2Njg0",
-        "date": "2026-09-20T18:26:47+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://t.me/+6SKnawlTjCE2Njg0",
-            "type": "telegram",
-            "display_text": "https://t.me/+6SKnawlTjCE2Njg0"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/Config_HATunnel/73198"
-      },
-      {
-        "id": 73197,
-        "text": "آلت تناسلی 35 سانتی این مرد\nکه در گینس رکوردار شد\n😳\n‌\n🤯\nمشاهده تصویر\n👉\n👉",
-        "date": "2026-09-20T16:56:46+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/73197"
       }
     ],
     "apkclub": [
@@ -25830,20 +25849,20 @@
       }
     ]
   },
-  "last_update": "2026-09-23T07:02:53.981948+00:00",
+  "last_update": "2026-09-23T07:30:46.838693+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 1666,
-    "total_media": 1543,
-    "total_files": 1543,
-    "total_links": 333,
+    "total_media": 1546,
+    "total_files": 1546,
+    "total_links": 334,
     "files_by_type": {
-      "image": 1442,
-      "video": 101
+      "image": 1444,
+      "video": 102
     },
-    "referenced_files": 1543,
-    "existing_media_files": 1543,
-    "total_size_mb": 442.94,
-    "last_calculation": "2026-09-23T07:02:54.000091+00:00"
+    "referenced_files": 1546,
+    "existing_media_files": 1546,
+    "total_size_mb": 450.66,
+    "last_calculation": "2026-09-23T07:30:46.851943+00:00"
   }
 }
